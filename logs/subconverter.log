@@ -1,0 +1,1690 @@
+2024/09/24 Tue 00:23:06.292283 [15857 10739128][INFO] SubConverter v0.7.2 starting up..
+]0;SubConverter v0.7.22024/09/24 Tue 00:23:06.294900 [15857 10739128][INFO] Reading preference settings...
+2024/09/24 Tue 00:23:06.341908 [15857 10739128][INFO] Updating ruleset url 'rules/LocalAreaNetwork.list' with group '🎯 全球直连'.
+2024/09/24 Tue 00:23:06.349665 [15857 10739128][INFO] Updating ruleset url 'rules/MSServices.list' with group 'Ⓜ️ 微软服务'.
+2024/09/24 Tue 00:23:06.358057 [15857 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Unbreak.list' with group '🎯 全球直连'.
+2024/09/24 Tue 00:23:06.359008 [15857 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/AdRule.list' with group '🛑 全球拦截'.
+2024/09/24 Tue 00:23:06.371112 [15857 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list' with group '🛑 全球拦截'.
+2024/09/24 Tue 00:23:06.376873 [15857 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list' with group '🎥 NETFLIX'.
+2024/09/24 Tue 00:23:06.377687 [15857 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list' with group '🌍 国外媒体'.
+2024/09/24 Tue 00:23:06.378096 [15857 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list' with group '🌏 国内媒体'.
+2024/09/24 Tue 00:23:06.385796 [15857 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list' with group '🌏 国内媒体'.
+2024/09/24 Tue 00:23:06.394833 [15857 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list' with group '🌏 国内媒体'.
+2024/09/24 Tue 00:23:06.395670 [15857 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list' with group '🌏 国内媒体'.
+2024/09/24 Tue 00:23:06.396044 [15857 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list' with group '🌏 国内媒体'.
+2024/09/24 Tue 00:23:06.396559 [15857 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list' with group '🌏 国内媒体'.
+2024/09/24 Tue 00:23:06.396958 [15857 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list' with group '📲 电报信息'.
+2024/09/24 Tue 00:23:06.414912 [15857 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Global.list' with group '🔰 节点选择'.
+2024/09/24 Tue 00:23:06.419618 [15857 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list' with group '🍎 苹果服务'.
+2024/09/24 Tue 00:23:06.427626 [15857 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/China.list' with group '🎯 全球直连'.
+2024/09/24 Tue 00:23:06.428530 [15857 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/Download.list' with group '🎯 全球直连'.
+2024/09/24 Tue 00:23:06.429472 [15857 10739128][INFO] Adding rule 'GEOIP,CN,🎯 全球直连'.
+2024/09/24 Tue 00:23:06.429590 [15857 10739128][INFO] Adding rule 'FINAL,🐟 漏网之鱼'.
+2024/09/24 Tue 00:23:06.429748 [15857 10739128][INFO] Reading generator configuration...
+2024/09/24 Tue 00:23:06.430140 [15857 10739128][INFO] Read generator configuration completed.
+
+2024/09/24 Tue 00:23:06.430178 [15857 10739128][INFO] Generating all artifacts...
+2024/09/24 Tue 00:23:06.430206 [15857 10739128][INFO] Generating artifact 'test'...
+2024/09/24 Tue 00:23:06.430303 [15857 10739128][VERB] Imported 0 item(s).
+2024/09/24 Tue 00:23:06.432163 [15857 10739128][INFO] Fetching node data from url '../../temp/clash.yaml'.
+2024/09/24 Tue 00:23:06.443193 [15857 10739128][VERB] Received Link.
+2024/09/24 Tue 00:23:06.443241 [15857 10739128][VERB] Parsing configuration file data...
+2024/09/24 Tue 00:23:06.452413 [15857 10739128][VERB] Node  海豚湾 - 官网地址 - https://hitun.io  has been ignored and will not be added.
+2024/09/24 Tue 00:23:06.452487 [15857 10739128][VERB] Node  海豚湾 - 剩余流量：40.65% 8.34TB  has been ignored and will not be added.
+2024/09/24 Tue 00:23:06.452554 [15857 10739128][VERB] Node  海豚湾 - 套餐时间：2025-04-06  has been ignored and will not be added.
+2024/09/24 Tue 00:23:06.452613 [15857 10739128][VERB] Node  海豚湾 - A应急续费使用 | 到期后可用5GB  has been ignored and will not be added.
+2024/09/24 Tue 00:23:06.452669 [15857 10739128][VERB] Node  海豚湾 - Game 台湾 | 遊戲專用 | 倍率:20  has been added.
+2024/09/24 Tue 00:23:06.452702 [15857 10739128][VERB] Node  海豚湾 - Game 日本 | 遊戲專用 | 倍率:20  has been added.
+2024/09/24 Tue 00:23:06.452734 [15857 10739128][VERB] Node  海豚湾 - Game 香港 | 遊戲專用 | 倍率:20  has been added.
+2024/09/24 Tue 00:23:06.452765 [15857 10739128][VERB] Node  海豚湾 - Large 台湾01  has been added.
+2024/09/24 Tue 00:23:06.452796 [15857 10739128][VERB] Node  海豚湾 - Large 台湾02  has been added.
+2024/09/24 Tue 00:23:06.452827 [15857 10739128][VERB] Node  海豚湾 - Large 台湾03  has been added.
+2024/09/24 Tue 00:23:06.452857 [15857 10739128][VERB] Node  海豚湾 - Large 台湾04  has been added.
+2024/09/24 Tue 00:23:06.452888 [15857 10739128][VERB] Node  海豚湾 - Large 台湾05  has been added.
+2024/09/24 Tue 00:23:06.452919 [15857 10739128][VERB] Node  海豚湾 - Large 台湾06  has been added.
+2024/09/24 Tue 00:23:06.452950 [15857 10739128][VERB] Node  海豚湾 - Large 墨西哥01 | 倍率:1.5  has been added.
+2024/09/24 Tue 00:23:06.452982 [15857 10739128][VERB] Node  海豚湾 - Large 新加坡01 | 倍率:1.5  has been added.
+2024/09/24 Tue 00:23:06.453013 [15857 10739128][VERB] Node  海豚湾 - Large 新加坡02 | 倍率:1.5  has been added.
+2024/09/24 Tue 00:23:06.453044 [15857 10739128][VERB] Node  海豚湾 - Large 新加坡03 | 倍率:1.6  has been added.
+2024/09/24 Tue 00:23:06.453075 [15857 10739128][VERB] Node  海豚湾 - Large 新加坡04 | 倍率:1.6  has been added.
+2024/09/24 Tue 00:23:06.453107 [15857 10739128][VERB] Node  海豚湾 - Large 新加坡05 | 倍率:1.5  has been added.
+2024/09/24 Tue 00:23:06.453138 [15857 10739128][VERB] Node  海豚湾 - Large 新加坡06 | 倍率:1.5  has been added.
+2024/09/24 Tue 00:23:06.453169 [15857 10739128][VERB] Node  海豚湾 - Large 新加坡07 | 倍率:1.5  has been added.
+2024/09/24 Tue 00:23:06.453200 [15857 10739128][VERB] Node  海豚湾 - Large 新加坡08 | 倍率:1.5  has been added.
+2024/09/24 Tue 00:23:06.453231 [15857 10739128][VERB] Node  海豚湾 - Large 新加坡09 | 倍率:1.5  has been added.
+2024/09/24 Tue 00:23:06.453262 [15857 10739128][VERB] Node  海豚湾 - Large 新加坡10 | 倍率:1.5  has been added.
+2024/09/24 Tue 00:23:06.453294 [15857 10739128][VERB] Node  海豚湾 - Large 日本01 | 倍率:1.5  has been added.
+2024/09/24 Tue 00:23:06.453325 [15857 10739128][VERB] Node  海豚湾 - Large 日本02 | 倍率:1.5  has been added.
+2024/09/24 Tue 00:23:06.453356 [15857 10739128][VERB] Node  海豚湾 - Large 日本03 | 倍率:1.5  has been added.
+2024/09/24 Tue 00:23:06.453387 [15857 10739128][VERB] Node  海豚湾 - Large 日本04 | 倍率:1.3  has been added.
+2024/09/24 Tue 00:23:06.453418 [15857 10739128][VERB] Node  海豚湾 - Large 日本05 | 倍率:1.3  has been added.
+2024/09/24 Tue 00:23:06.453449 [15857 10739128][VERB] Node  海豚湾 - Large 澳洲01 | 倍率:1.6  has been added.
+2024/09/24 Tue 00:23:06.453480 [15857 10739128][VERB] Node  海豚湾 - Large 澳洲02 | 倍率:1.6  has been added.
+2024/09/24 Tue 00:23:06.453511 [15857 10739128][VERB] Node  海豚湾 - Large 美国01 | 倍率:2  has been added.
+2024/09/24 Tue 00:23:06.453542 [15857 10739128][VERB] Node  海豚湾 - Large 美国02 | 倍率:1.8  has been added.
+2024/09/24 Tue 00:23:06.453573 [15857 10739128][VERB] Node  海豚湾 - Large 美国03 | 倍率:1.6  has been added.
+2024/09/24 Tue 00:23:06.453604 [15857 10739128][VERB] Node  海豚湾 - Large 美国04 | 倍率:1.5  has been added.
+2024/09/24 Tue 00:23:06.453634 [15857 10739128][VERB] Node  海豚湾 - Large 美国05 | 倍率:1.5  has been added.
+2024/09/24 Tue 00:23:06.453670 [15857 10739128][VERB] Node  海豚湾 - Large 美国06 | 倍率:1.7  has been added.
+2024/09/24 Tue 00:23:06.453712 [15857 10739128][VERB] Node  海豚湾 - Large 韩国01 | 倍率:1.6  has been added.
+2024/09/24 Tue 00:23:06.453743 [15857 10739128][VERB] Node  海豚湾 - Large 韩国02 | 倍率:1.6  has been added.
+2024/09/24 Tue 00:23:06.453773 [15857 10739128][VERB] Node  海豚湾 - Large 香港01 | 倍率:2  has been added.
+2024/09/24 Tue 00:23:06.453804 [15857 10739128][VERB] Node  海豚湾 - Large 香港02 | 倍率:2  has been added.
+2024/09/24 Tue 00:23:06.453835 [15857 10739128][VERB] Node  海豚湾 - Large 香港03 | 倍率:2  has been added.
+2024/09/24 Tue 00:23:06.453866 [15857 10739128][VERB] Node  海豚湾 - Large 香港04 | 倍率:1.9  has been added.
+2024/09/24 Tue 00:23:06.453896 [15857 10739128][VERB] Node  海豚湾 - Large 香港05 | 倍率:1.8  has been added.
+2024/09/24 Tue 00:23:06.453927 [15857 10739128][VERB] Node  海豚湾 - Large 香港06 | 倍率:2  has been added.
+2024/09/24 Tue 00:23:06.453958 [15857 10739128][VERB] Node  海豚湾 - Large 香港07 | 倍率:1.8  has been added.
+2024/09/24 Tue 00:23:06.453989 [15857 10739128][VERB] Node  海豚湾 - Large 香港08 | 倍率:1.6  has been added.
+2024/09/24 Tue 00:23:06.454020 [15857 10739128][VERB] Node  海豚湾 - Large 香港09 | 倍率:1.6  has been added.
+2024/09/24 Tue 00:23:06.454050 [15857 10739128][VERB] Node  海豚湾 - Large 香港10 | 倍率:1.6  has been added.
+2024/09/24 Tue 00:23:06.454081 [15857 10739128][VERB] Node  海豚湾 - Large 香港11 | 倍率:1.6  has been added.
+2024/09/24 Tue 00:23:06.454112 [15857 10739128][VERB] Node  海豚湾 - Large 香港12 | 倍率:1.6  has been added.
+2024/09/24 Tue 00:23:06.454142 [15857 10739128][VERB] Node  海豚湾 - Large 香港13 | 倍率:1.6  has been added.
+2024/09/24 Tue 00:23:06.454173 [15857 10739128][VERB] Node  海豚湾 - Large 香港14 | 倍率:1.6  has been added.
+2024/09/24 Tue 00:23:06.454204 [15857 10739128][VERB] Node  海豚湾 - Large 香港15 | 倍率:1.6  has been added.
+2024/09/24 Tue 00:23:06.454234 [15857 10739128][VERB] Node  海豚湾 - Large 香港16 | 倍率:1.6  has been added.
+2024/09/24 Tue 00:23:06.454265 [15857 10739128][VERB] Node  海豚湾 - Large 香港17 | 倍率:1.8  has been added.
+2024/09/24 Tue 00:23:06.454296 [15857 10739128][VERB] Node  海豚湾 - Large 香港18 | 倍率:1.8  has been added.
+2024/09/24 Tue 00:23:06.454326 [15857 10739128][VERB] Node  海豚湾 - Large 香港19 | 倍率:1.6  has been added.
+2024/09/24 Tue 00:23:06.454357 [15857 10739128][VERB] Node  海豚湾 - Large 香港20 | 倍率:1.6  has been added.
+2024/09/24 Tue 00:23:06.454388 [15857 10739128][VERB] Node  海豚湾 - Large 香港21 | 倍率:1.6  has been added.
+2024/09/24 Tue 00:23:06.454419 [15857 10739128][VERB] Node  海豚湾 - Lil 俄罗斯01 | 倍率:1.3  has been added.
+2024/09/24 Tue 00:23:06.454450 [15857 10739128][VERB] Node  海豚湾 - Lil 加拿大1 | 倍率:1.3  has been added.
+2024/09/24 Tue 00:23:06.454481 [15857 10739128][VERB] Node  海豚湾 - Lil 印度01 | 倍率:1.3  has been added.
+2024/09/24 Tue 00:23:06.454512 [15857 10739128][VERB] Node  海豚湾 - Lil 印度02 | 倍率:1.3  has been added.
+2024/09/24 Tue 00:23:06.454543 [15857 10739128][VERB] Node  海豚湾 - Lil 台湾01 | 倍率:1.5  has been added.
+2024/09/24 Tue 00:23:06.454574 [15857 10739128][VERB] Node  海豚湾 - Lil 台湾02 | 倍率:1.3  has been added.
+2024/09/24 Tue 00:23:06.454605 [15857 10739128][VERB] Node  海豚湾 - Lil 台湾03 | 倍率:1.3  has been added.
+2024/09/24 Tue 00:23:06.454636 [15857 10739128][VERB] Node  海豚湾 - Lil 台湾04 | 倍率:1.3  has been added.
+2024/09/24 Tue 00:23:06.454666 [15857 10739128][VERB] Node  海豚湾 - Lil 台湾05 | 倍率:1.3  has been added.
+2024/09/24 Tue 00:23:06.454697 [15857 10739128][VERB] Node  海豚湾 - Lil 台湾06 | 倍率:1.3  has been added.
+2024/09/24 Tue 00:23:06.454728 [15857 10739128][VERB] Node  海豚湾 - Lil 土耳其01 | 倍率:1.5  has been added.
+2024/09/24 Tue 00:23:06.454759 [15857 10739128][VERB] Node  海豚湾 - Lil 巴西1 | 倍率:1.5  has been added.
+2024/09/24 Tue 00:23:06.454793 [15857 10739128][VERB] Node  海豚湾 - Lil 德国1 | 倍率:1.3  has been added.
+2024/09/24 Tue 00:23:06.454824 [15857 10739128][VERB] Node  海豚湾 - Lil 德国2 | 倍率:1.3  has been added.
+2024/09/24 Tue 00:23:06.454855 [15857 10739128][VERB] Node  海豚湾 - Lil 德国3 | 倍率:1.3  has been added.
+2024/09/24 Tue 00:23:06.454886 [15857 10739128][VERB] Node  海豚湾 - Lil 新加坡01 | 倍率:1.5  has been added.
+2024/09/24 Tue 00:23:06.454918 [15857 10739128][VERB] Node  海豚湾 - Lil 新加坡02 | 倍率:1.5  has been added.
+2024/09/24 Tue 00:23:06.454949 [15857 10739128][VERB] Node  海豚湾 - Lil 新加坡03 | 倍率:1.5  has been added.
+2024/09/24 Tue 00:23:06.454980 [15857 10739128][VERB] Node  海豚湾 - Lil 新加坡04 | 倍率:2  has been added.
+2024/09/24 Tue 00:23:06.455011 [15857 10739128][VERB] Node  海豚湾 - Lil 新加坡05 | 倍率:2  has been added.
+2024/09/24 Tue 00:23:06.455042 [15857 10739128][VERB] Node  海豚湾 - Lil 日本01 | 倍率:1.5  has been added.
+2024/09/24 Tue 00:23:06.455073 [15857 10739128][VERB] Node  海豚湾 - Lil 日本02 | 倍率:1.3  has been added.
+2024/09/24 Tue 00:23:06.455104 [15857 10739128][VERB] Node  海豚湾 - Lil 日本03 | 倍率:1.3  has been added.
+2024/09/24 Tue 00:23:06.455135 [15857 10739128][VERB] Node  海豚湾 - Lil 日本04 | 倍率:1.3  has been added.
+2024/09/24 Tue 00:23:06.455165 [15857 10739128][VERB] Node  海豚湾 - Lil 日本05 | 倍率:1.3  has been added.
+2024/09/24 Tue 00:23:06.455196 [15857 10739128][VERB] Node  海豚湾 - Lil 日本06 | 倍率:2  has been added.
+2024/09/24 Tue 00:23:06.455227 [15857 10739128][VERB] Node  海豚湾 - Lil 泰国01 | 倍率:1.3  has been added.
+2024/09/24 Tue 00:23:06.455258 [15857 10739128][VERB] Node  海豚湾 - Lil 美国01 | 倍率:2.1  has been added.
+2024/09/24 Tue 00:23:06.455288 [15857 10739128][VERB] Node  海豚湾 - Lil 美国02 | 倍率:1.9  has been added.
+2024/09/24 Tue 00:23:06.455319 [15857 10739128][VERB] Node  海豚湾 - Lil 美国03 | 倍率:1.5  has been added.
+2024/09/24 Tue 00:23:06.455349 [15857 10739128][VERB] Node  海豚湾 - Lil 美国04 | 倍率:1.3  has been added.
+2024/09/24 Tue 00:23:06.455380 [15857 10739128][VERB] Node  海豚湾 - Lil 美国05 | 倍率:1.3  has been added.
+2024/09/24 Tue 00:23:06.455411 [15857 10739128][VERB] Node  海豚湾 - Lil 美国06 | 倍率:1.3  has been added.
+2024/09/24 Tue 00:23:06.455441 [15857 10739128][VERB] Node  海豚湾 - Lil 美国07 | 倍率:1.3  has been added.
+2024/09/24 Tue 00:23:06.455472 [15857 10739128][VERB] Node  海豚湾 - Lil 美国08 | 倍率:1.3  has been added.
+2024/09/24 Tue 00:23:06.455502 [15857 10739128][VERB] Node  海豚湾 - Lil 美国09 | 倍率:1.3  has been added.
+2024/09/24 Tue 00:23:06.455533 [15857 10739128][VERB] Node  海豚湾 - Lil 美国10 | 倍率:1.3  has been added.
+2024/09/24 Tue 00:23:06.455564 [15857 10739128][VERB] Node  海豚湾 - Lil 英国1 | 倍率:1.6  has been added.
+2024/09/24 Tue 00:23:06.455594 [15857 10739128][VERB] Node  海豚湾 - Lil 英国2 | 倍率:1.3  has been added.
+2024/09/24 Tue 00:23:06.455625 [15857 10739128][VERB] Node  海豚湾 - Lil 英国3 | 倍率:1.3  has been added.
+2024/09/24 Tue 00:23:06.455656 [15857 10739128][VERB] Node  海豚湾 - Lil 荷兰01 | 倍率:1.3  has been added.
+2024/09/24 Tue 00:23:06.455687 [15857 10739128][VERB] Node  海豚湾 - Lil 菲律宾01 | 倍率:1.5  has been added.
+2024/09/24 Tue 00:23:06.455717 [15857 10739128][VERB] Node  海豚湾 - Lil 西班牙01 | 倍率:1.5  has been added.
+2024/09/24 Tue 00:23:06.455749 [15857 10739128][VERB] Node  海豚湾 - Lil 阿根廷01 | 倍率:1.5  has been added.
+2024/09/24 Tue 00:23:06.455779 [15857 10739128][VERB] Node  海豚湾 - Lil 韩国01 | 倍率:1.5  has been added.
+2024/09/24 Tue 00:23:06.455810 [15857 10739128][VERB] Node  海豚湾 - Lil 韩国02 | 倍率:1.5  has been added.
+2024/09/24 Tue 00:23:06.455840 [15857 10739128][VERB] Node  海豚湾 - Lil 韩国03 | 倍率:1.5  has been added.
+2024/09/24 Tue 00:23:06.455875 [15857 10739128][VERB] Node  海豚湾 - Lil 韩国04 | 倍率:2  has been added.
+2024/09/24 Tue 00:23:06.455906 [15857 10739128][VERB] Node  海豚湾 - Lil 韩国05 | 倍率:2  has been added.
+2024/09/24 Tue 00:23:06.455936 [15857 10739128][VERB] Node  海豚湾 - Lil 香港01 | 倍率:1.8  has been added.
+2024/09/24 Tue 00:23:06.455967 [15857 10739128][VERB] Node  海豚湾 - Lil 香港02 | 倍率:1.8  has been added.
+2024/09/24 Tue 00:23:06.455998 [15857 10739128][VERB] Node  海豚湾 - Lil 香港03 | 倍率:1.6  has been added.
+2024/09/24 Tue 00:23:06.456028 [15857 10739128][VERB] Node  海豚湾 - Lil 香港04 | 倍率:1.6  has been added.
+2024/09/24 Tue 00:23:06.456059 [15857 10739128][VERB] Node  海豚湾 - Lil 香港05 | 倍率:1.5  has been added.
+2024/09/24 Tue 00:23:06.456089 [15857 10739128][VERB] Node  海豚湾 - Lil 香港06 | 倍率:1.5  has been added.
+2024/09/24 Tue 00:23:06.456120 [15857 10739128][VERB] Node  海豚湾 - Lil 香港07 | 倍率:1.5  has been added.
+2024/09/24 Tue 00:23:06.456150 [15857 10739128][VERB] Node  海豚湾 - Lil 香港08 | 倍率:1.5  has been added.
+2024/09/24 Tue 00:23:06.456181 [15857 10739128][VERB] Node  海豚湾 - Lil 香港09 | 倍率:1.6  has been added.
+2024/09/24 Tue 00:23:06.456211 [15857 10739128][VERB] Node  海豚湾 - Lil 香港10 | 倍率:1.6  has been added.
+2024/09/24 Tue 00:23:06.456242 [15857 10739128][VERB] Node  海豚湾 - Lil 香港11 | 倍率:2  has been added.
+2024/09/24 Tue 00:23:06.456273 [15857 10739128][VERB] Node  海豚湾 - Lil 香港12 | 倍率:2  has been added.
+2024/09/24 Tue 00:23:06.456298 [15857 10739128][VERB] Filter done.
+2024/09/24 Tue 00:23:06.458232 [15857 10739128][INFO] Generate target: Clash
+2024/09/24 Tue 00:23:06.510887 [15857 10739128][INFO] Generate completed.
+2024/09/24 Tue 00:23:06.511548 [15857 10739128][INFO] User Info for artifact 'test': Stream Used: 12.18 TB Stream Total: N/A Expiry Time: N/A
+2024/09/24 Tue 00:23:06.511577 [15857 10739128][INFO] Artifact 'test' generate SUCCESS!
+
+2024/09/24 Tue 00:23:06.511612 [15857 10739128][INFO] Generating artifact 'test_profile'...
+2024/09/24 Tue 00:23:06.511876 [15857 10739128][INFO] Trying to load profile 'profiles/example_profile.ini'.
+2024/09/24 Tue 00:23:06.511918 [15857 10739128][INFO] Trying to parse profile 'profiles/example_profile.ini'.
+2024/09/24 Tue 00:23:06.512036 [15857 10739128][VERB] Imported 0 item(s).
+2024/09/24 Tue 00:23:06.512082 [15857 10739128][INFO] Fetching node data from url 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYXNzd29yZA@www.example.com:1080#Example'.
+2024/09/24 Tue 00:23:06.513373 [15857 10739128][VERB] Received Link.
+2024/09/24 Tue 00:23:06.513474 [15857 10739128][INFO] Generate target: Clash
+2024/09/24 Tue 00:23:06.534038 [15857 10739128][INFO] Generate completed.
+2024/09/24 Tue 00:23:06.534455 [15857 10739128][INFO] Artifact 'test_profile' generate SUCCESS!
+
+2024/09/24 Tue 00:23:06.534483 [15857 10739128][INFO] All artifact generated. Exiting...
+2024/10/16 Wed 15:56:36.071718 [12467 10739128][INFO] SubConverter v0.7.2 starting up..
+]0;SubConverter v0.7.22024/10/16 Wed 15:56:36.079533 [12467 10739128][INFO] Reading preference settings...
+2024/10/16 Wed 15:56:36.122585 [12467 10739128][INFO] Updating ruleset url 'rules/LocalAreaNetwork.list' with group '🎯 全球直连'.
+2024/10/16 Wed 15:56:36.140418 [12467 10739128][INFO] Updating ruleset url 'rules/MSServices.list' with group 'Ⓜ️ 微软服务'.
+2024/10/16 Wed 15:56:36.184078 [12467 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Unbreak.list' with group '🎯 全球直连'.
+2024/10/16 Wed 15:56:36.211563 [12467 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/AdRule.list' with group '🛑 全球拦截'.
+2024/10/16 Wed 15:56:36.255744 [12467 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list' with group '🛑 全球拦截'.
+2024/10/16 Wed 15:56:36.283954 [12467 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list' with group '🎥 NETFLIX'.
+2024/10/16 Wed 15:56:36.307995 [12467 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list' with group '🌍 国外媒体'.
+2024/10/16 Wed 15:56:36.340695 [12467 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list' with group '🌏 国内媒体'.
+2024/10/16 Wed 15:56:36.394508 [12467 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list' with group '🌏 国内媒体'.
+2024/10/16 Wed 15:56:36.452441 [12467 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list' with group '🌏 国内媒体'.
+2024/10/16 Wed 15:56:36.536346 [12467 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list' with group '🌏 国内媒体'.
+2024/10/16 Wed 15:56:36.562294 [12467 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list' with group '🌏 国内媒体'.
+2024/10/16 Wed 15:56:36.594563 [12467 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list' with group '🌏 国内媒体'.
+2024/10/16 Wed 15:56:36.656025 [12467 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list' with group '📲 电报信息'.
+2024/10/16 Wed 15:56:36.689230 [12467 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Global.list' with group '🔰 节点选择'.
+2024/10/16 Wed 15:56:36.728010 [12467 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list' with group '🍎 苹果服务'.
+2024/10/16 Wed 15:56:36.766949 [12467 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/China.list' with group '🎯 全球直连'.
+2024/10/16 Wed 15:56:36.784993 [12467 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/Download.list' with group '🎯 全球直连'.
+2024/10/16 Wed 15:56:36.806816 [12467 10739128][INFO] Adding rule 'GEOIP,CN,🎯 全球直连'.
+2024/10/16 Wed 15:56:36.806988 [12467 10739128][INFO] Adding rule 'FINAL,🐟 漏网之鱼'.
+2024/10/16 Wed 15:56:36.807107 [12467 10739128][INFO] Reading generator configuration...
+2024/10/16 Wed 15:56:36.814030 [12467 10739128][INFO] Read generator configuration completed.
+
+2024/10/16 Wed 15:56:36.814096 [12467 10739128][INFO] Generating all artifacts...
+2024/10/16 Wed 15:56:36.814140 [12467 10739128][INFO] Generating artifact 'test'...
+2024/10/16 Wed 15:56:36.814303 [12467 10739128][VERB] Imported 0 item(s).
+2024/10/16 Wed 15:56:36.814433 [12467 10739128][INFO] Fetching node data from url '../../temp/clash.yaml'.
+2024/10/16 Wed 15:56:36.817018 [12467 10739128][VERB] Received Link.
+2024/10/16 Wed 15:56:36.817087 [12467 10739128][VERB] Parsing configuration file data...
+2024/10/16 Wed 15:56:36.827579 [12467 10739128][VERB] Node  海豚湾 - 官网地址 - https://hitun.io  has been ignored and will not be added.
+2024/10/16 Wed 15:56:36.827723 [12467 10739128][VERB] Node  海豚湾 - 剩余流量：32.17% 6.6TB  has been ignored and will not be added.
+2024/10/16 Wed 15:56:36.827820 [12467 10739128][VERB] Node  海豚湾 - 套餐时间：2025-04-06  has been ignored and will not be added.
+2024/10/16 Wed 15:56:36.827917 [12467 10739128][VERB] Node  海豚湾 - A应急续费使用 | 到期后可用5GB  has been ignored and will not be added.
+2024/10/16 Wed 15:56:36.828012 [12467 10739128][VERB] Node  海豚湾 - Game 台湾 | 遊戲專用 | 倍率:20  has been added.
+2024/10/16 Wed 15:56:36.828056 [12467 10739128][VERB] Node  海豚湾 - Game 日本 | 遊戲專用 | 倍率:20  has been added.
+2024/10/16 Wed 15:56:36.828103 [12467 10739128][VERB] Node  海豚湾 - Game 香港 | 遊戲專用 | 倍率:20  has been added.
+2024/10/16 Wed 15:56:36.828153 [12467 10739128][VERB] Node  海豚湾 - Large 台湾01  has been added.
+2024/10/16 Wed 15:56:36.828202 [12467 10739128][VERB] Node  海豚湾 - Large 台湾02  has been added.
+2024/10/16 Wed 15:56:36.828252 [12467 10739128][VERB] Node  海豚湾 - Large 台湾03  has been added.
+2024/10/16 Wed 15:56:36.828317 [12467 10739128][VERB] Node  海豚湾 - Large 台湾04  has been added.
+2024/10/16 Wed 15:56:36.828366 [12467 10739128][VERB] Node  海豚湾 - Large 台湾05  has been added.
+2024/10/16 Wed 15:56:36.828415 [12467 10739128][VERB] Node  海豚湾 - Large 台湾06  has been added.
+2024/10/16 Wed 15:56:36.828462 [12467 10739128][VERB] Node  海豚湾 - Large 墨西哥01 | 倍率:1.5  has been added.
+2024/10/16 Wed 15:56:36.828513 [12467 10739128][VERB] Node  海豚湾 - Large 新加坡01 | 倍率:1.5  has been added.
+2024/10/16 Wed 15:56:36.828563 [12467 10739128][VERB] Node  海豚湾 - Large 新加坡02 | 倍率:1.5  has been added.
+2024/10/16 Wed 15:56:36.828613 [12467 10739128][VERB] Node  海豚湾 - Large 新加坡03 | 倍率:1.6  has been added.
+2024/10/16 Wed 15:56:36.828663 [12467 10739128][VERB] Node  海豚湾 - Large 新加坡04 | 倍率:1.6  has been added.
+2024/10/16 Wed 15:56:36.828713 [12467 10739128][VERB] Node  海豚湾 - Large 新加坡05 | 倍率:1.5  has been added.
+2024/10/16 Wed 15:56:36.828763 [12467 10739128][VERB] Node  海豚湾 - Large 新加坡06 | 倍率:1.5  has been added.
+2024/10/16 Wed 15:56:36.828814 [12467 10739128][VERB] Node  海豚湾 - Large 新加坡07 | 倍率:1.5  has been added.
+2024/10/16 Wed 15:56:36.828864 [12467 10739128][VERB] Node  海豚湾 - Large 新加坡08 | 倍率:1.5  has been added.
+2024/10/16 Wed 15:56:36.828914 [12467 10739128][VERB] Node  海豚湾 - Large 新加坡09 | 倍率:1.5  has been added.
+2024/10/16 Wed 15:56:36.828964 [12467 10739128][VERB] Node  海豚湾 - Large 新加坡10 | 倍率:1.5  has been added.
+2024/10/16 Wed 15:56:36.829014 [12467 10739128][VERB] Node  海豚湾 - Large 日本01 | 倍率:1.5  has been added.
+2024/10/16 Wed 15:56:36.829063 [12467 10739128][VERB] Node  海豚湾 - Large 日本02 | 倍率:1.5  has been added.
+2024/10/16 Wed 15:56:36.829112 [12467 10739128][VERB] Node  海豚湾 - Large 日本03 | 倍率:1.5  has been added.
+2024/10/16 Wed 15:56:36.829162 [12467 10739128][VERB] Node  海豚湾 - Large 日本04 | 倍率:1.3  has been added.
+2024/10/16 Wed 15:56:36.829212 [12467 10739128][VERB] Node  海豚湾 - Large 日本05 | 倍率:1.3  has been added.
+2024/10/16 Wed 15:56:36.829261 [12467 10739128][VERB] Node  海豚湾 - Large 澳洲01 | 倍率:1.6  has been added.
+2024/10/16 Wed 15:56:36.829310 [12467 10739128][VERB] Node  海豚湾 - Large 澳洲02 | 倍率:1.6  has been added.
+2024/10/16 Wed 15:56:36.829359 [12467 10739128][VERB] Node  海豚湾 - Large 美国01 | 倍率:2  has been added.
+2024/10/16 Wed 15:56:36.829408 [12467 10739128][VERB] Node  海豚湾 - Large 美国02 | 倍率:1.8  has been added.
+2024/10/16 Wed 15:56:36.829457 [12467 10739128][VERB] Node  海豚湾 - Large 美国03 | 倍率:1.6  has been added.
+2024/10/16 Wed 15:56:36.829506 [12467 10739128][VERB] Node  海豚湾 - Large 美国04 | 倍率:1.5  has been added.
+2024/10/16 Wed 15:56:36.829555 [12467 10739128][VERB] Node  海豚湾 - Large 美国05 | 倍率:1.5  has been added.
+2024/10/16 Wed 15:56:36.829605 [12467 10739128][VERB] Node  海豚湾 - Large 美国06 | 倍率:1.7  has been added.
+2024/10/16 Wed 15:56:36.829654 [12467 10739128][VERB] Node  海豚湾 - Large 韩国01 | 倍率:1.6  has been added.
+2024/10/16 Wed 15:56:36.829702 [12467 10739128][VERB] Node  海豚湾 - Large 韩国02 | 倍率:1.6  has been added.
+2024/10/16 Wed 15:56:36.829751 [12467 10739128][VERB] Node  海豚湾 - Large 香港01 | 倍率:2  has been added.
+2024/10/16 Wed 15:56:36.829800 [12467 10739128][VERB] Node  海豚湾 - Large 香港02 | 倍率:2  has been added.
+2024/10/16 Wed 15:56:36.829846 [12467 10739128][VERB] Node  海豚湾 - Large 香港03 | 倍率:2  has been added.
+2024/10/16 Wed 15:56:36.829887 [12467 10739128][VERB] Node  海豚湾 - Large 香港04 | 倍率:1.9  has been added.
+2024/10/16 Wed 15:56:36.829937 [12467 10739128][VERB] Node  海豚湾 - Large 香港05 | 倍率:1.8  has been added.
+2024/10/16 Wed 15:56:36.829986 [12467 10739128][VERB] Node  海豚湾 - Large 香港06 | 倍率:2  has been added.
+2024/10/16 Wed 15:56:36.830045 [12467 10739128][VERB] Node  海豚湾 - Large 香港07 | 倍率:1.8  has been added.
+2024/10/16 Wed 15:56:36.830094 [12467 10739128][VERB] Node  海豚湾 - Large 香港08 | 倍率:1.6  has been added.
+2024/10/16 Wed 15:56:36.830143 [12467 10739128][VERB] Node  海豚湾 - Large 香港09 | 倍率:1.6  has been added.
+2024/10/16 Wed 15:56:36.830193 [12467 10739128][VERB] Node  海豚湾 - Large 香港10 | 倍率:1.6  has been added.
+2024/10/16 Wed 15:56:36.830242 [12467 10739128][VERB] Node  海豚湾 - Large 香港11 | 倍率:1.6  has been added.
+2024/10/16 Wed 15:56:36.830290 [12467 10739128][VERB] Node  海豚湾 - Large 香港12 | 倍率:1.6  has been added.
+2024/10/16 Wed 15:56:36.830340 [12467 10739128][VERB] Node  海豚湾 - Large 香港13 | 倍率:1.6  has been added.
+2024/10/16 Wed 15:56:36.830389 [12467 10739128][VERB] Node  海豚湾 - Large 香港14 | 倍率:1.6  has been added.
+2024/10/16 Wed 15:56:36.830438 [12467 10739128][VERB] Node  海豚湾 - Large 香港15 | 倍率:1.6  has been added.
+2024/10/16 Wed 15:56:36.830486 [12467 10739128][VERB] Node  海豚湾 - Large 香港16 | 倍率:1.6  has been added.
+2024/10/16 Wed 15:56:36.830535 [12467 10739128][VERB] Node  海豚湾 - Large 香港17 | 倍率:1.8  has been added.
+2024/10/16 Wed 15:56:36.830584 [12467 10739128][VERB] Node  海豚湾 - Large 香港18 | 倍率:1.8  has been added.
+2024/10/16 Wed 15:56:36.830633 [12467 10739128][VERB] Node  海豚湾 - Large 香港19 | 倍率:1.6  has been added.
+2024/10/16 Wed 15:56:36.830682 [12467 10739128][VERB] Node  海豚湾 - Large 香港20 | 倍率:1.6  has been added.
+2024/10/16 Wed 15:56:36.830731 [12467 10739128][VERB] Node  海豚湾 - Large 香港21 | 倍率:1.6  has been added.
+2024/10/16 Wed 15:56:36.830781 [12467 10739128][VERB] Node  海豚湾 - Lil 俄罗斯01 | 倍率:1.3  has been added.
+2024/10/16 Wed 15:56:36.830830 [12467 10739128][VERB] Node  海豚湾 - Lil 加拿大1 | 倍率:1.3  has been added.
+2024/10/16 Wed 15:56:36.830880 [12467 10739128][VERB] Node  海豚湾 - Lil 印度01 | 倍率:1.3  has been added.
+2024/10/16 Wed 15:56:36.830929 [12467 10739128][VERB] Node  海豚湾 - Lil 印度02 | 倍率:1.3  has been added.
+2024/10/16 Wed 15:56:36.830979 [12467 10739128][VERB] Node  海豚湾 - Lil 台湾01 | 倍率:1.5  has been added.
+2024/10/16 Wed 15:56:36.831028 [12467 10739128][VERB] Node  海豚湾 - Lil 台湾02 | 倍率:1.3  has been added.
+2024/10/16 Wed 15:56:36.831077 [12467 10739128][VERB] Node  海豚湾 - Lil 台湾03 | 倍率:1.3  has been added.
+2024/10/16 Wed 15:56:36.831127 [12467 10739128][VERB] Node  海豚湾 - Lil 台湾04 | 倍率:1.3  has been added.
+2024/10/16 Wed 15:56:36.831176 [12467 10739128][VERB] Node  海豚湾 - Lil 台湾05 | 倍率:1.3  has been added.
+2024/10/16 Wed 15:56:36.831226 [12467 10739128][VERB] Node  海豚湾 - Lil 台湾06 | 倍率:1.3  has been added.
+2024/10/16 Wed 15:56:36.831267 [12467 10739128][VERB] Node  海豚湾 - Lil 土耳其01 | 倍率:1.5  has been added.
+2024/10/16 Wed 15:56:36.831308 [12467 10739128][VERB] Node  海豚湾 - Lil 巴西1 | 倍率:1.5  has been added.
+2024/10/16 Wed 15:56:36.831350 [12467 10739128][VERB] Node  海豚湾 - Lil 德国1 | 倍率:1.3  has been added.
+2024/10/16 Wed 15:56:36.831393 [12467 10739128][VERB] Node  海豚湾 - Lil 德国2 | 倍率:1.3  has been added.
+2024/10/16 Wed 15:56:36.831439 [12467 10739128][VERB] Node  海豚湾 - Lil 德国3 | 倍率:1.3  has been added.
+2024/10/16 Wed 15:56:36.831493 [12467 10739128][VERB] Node  海豚湾 - Lil 新加坡01 | 倍率:1.5  has been added.
+2024/10/16 Wed 15:56:36.831537 [12467 10739128][VERB] Node  海豚湾 - Lil 新加坡02 | 倍率:1.5  has been added.
+2024/10/16 Wed 15:56:36.831589 [12467 10739128][VERB] Node  海豚湾 - Lil 新加坡03 | 倍率:1.5  has been added.
+2024/10/16 Wed 15:56:36.831639 [12467 10739128][VERB] Node  海豚湾 - Lil 新加坡04 | 倍率:2  has been added.
+2024/10/16 Wed 15:56:36.831690 [12467 10739128][VERB] Node  海豚湾 - Lil 新加坡05 | 倍率:2  has been added.
+2024/10/16 Wed 15:56:36.831748 [12467 10739128][VERB] Node  海豚湾 - Lil 日本01 | 倍率:1.5  has been added.
+2024/10/16 Wed 15:56:36.831798 [12467 10739128][VERB] Node  海豚湾 - Lil 日本02 | 倍率:1.3  has been added.
+2024/10/16 Wed 15:56:36.831846 [12467 10739128][VERB] Node  海豚湾 - Lil 日本03 | 倍率:1.3  has been added.
+2024/10/16 Wed 15:56:36.831896 [12467 10739128][VERB] Node  海豚湾 - Lil 日本04 | 倍率:1.3  has been added.
+2024/10/16 Wed 15:56:36.831945 [12467 10739128][VERB] Node  海豚湾 - Lil 日本05 | 倍率:1.3  has been added.
+2024/10/16 Wed 15:56:36.832004 [12467 10739128][VERB] Node  海豚湾 - Lil 日本06 | 倍率:2  has been added.
+2024/10/16 Wed 15:56:36.832054 [12467 10739128][VERB] Node  海豚湾 - Lil 泰国01 | 倍率:1.3  has been added.
+2024/10/16 Wed 15:56:36.832103 [12467 10739128][VERB] Node  海豚湾 - Lil 美国01 | 倍率:2.1  has been added.
+2024/10/16 Wed 15:56:36.832151 [12467 10739128][VERB] Node  海豚湾 - Lil 美国02 | 倍率:1.9  has been added.
+2024/10/16 Wed 15:56:36.832200 [12467 10739128][VERB] Node  海豚湾 - Lil 美国03 | 倍率:1.5  has been added.
+2024/10/16 Wed 15:56:36.832249 [12467 10739128][VERB] Node  海豚湾 - Lil 美国04 | 倍率:1.3  has been added.
+2024/10/16 Wed 15:56:36.832297 [12467 10739128][VERB] Node  海豚湾 - Lil 美国05 | 倍率:1.3  has been added.
+2024/10/16 Wed 15:56:36.832346 [12467 10739128][VERB] Node  海豚湾 - Lil 美国06 | 倍率:1.3  has been added.
+2024/10/16 Wed 15:56:36.832395 [12467 10739128][VERB] Node  海豚湾 - Lil 美国07 | 倍率:1.3  has been added.
+2024/10/16 Wed 15:56:36.832444 [12467 10739128][VERB] Node  海豚湾 - Lil 美国08 | 倍率:1.3  has been added.
+2024/10/16 Wed 15:56:36.832493 [12467 10739128][VERB] Node  海豚湾 - Lil 美国09 | 倍率:1.3  has been added.
+2024/10/16 Wed 15:56:36.832542 [12467 10739128][VERB] Node  海豚湾 - Lil 美国10 | 倍率:1.3  has been added.
+2024/10/16 Wed 15:56:36.832591 [12467 10739128][VERB] Node  海豚湾 - Lil 英国1 | 倍率:1.6  has been added.
+2024/10/16 Wed 15:56:36.837279 [12467 10739128][VERB] Node  海豚湾 - Lil 英国2 | 倍率:1.3  has been added.
+2024/10/16 Wed 15:56:36.837345 [12467 10739128][VERB] Node  海豚湾 - Lil 英国3 | 倍率:1.3  has been added.
+2024/10/16 Wed 15:56:36.837389 [12467 10739128][VERB] Node  海豚湾 - Lil 荷兰01 | 倍率:1.3  has been added.
+2024/10/16 Wed 15:56:36.837433 [12467 10739128][VERB] Node  海豚湾 - Lil 菲律宾01 | 倍率:1.5  has been added.
+2024/10/16 Wed 15:56:36.837477 [12467 10739128][VERB] Node  海豚湾 - Lil 西班牙01 | 倍率:1.5  has been added.
+2024/10/16 Wed 15:56:36.837521 [12467 10739128][VERB] Node  海豚湾 - Lil 阿根廷01 | 倍率:1.5  has been added.
+2024/10/16 Wed 15:56:36.837565 [12467 10739128][VERB] Node  海豚湾 - Lil 韩国01 | 倍率:1.5  has been added.
+2024/10/16 Wed 15:56:36.837609 [12467 10739128][VERB] Node  海豚湾 - Lil 韩国02 | 倍率:1.5  has been added.
+2024/10/16 Wed 15:56:36.837653 [12467 10739128][VERB] Node  海豚湾 - Lil 韩国03 | 倍率:1.5  has been added.
+2024/10/16 Wed 15:56:36.837697 [12467 10739128][VERB] Node  海豚湾 - Lil 韩国04 | 倍率:2  has been added.
+2024/10/16 Wed 15:56:36.837740 [12467 10739128][VERB] Node  海豚湾 - Lil 韩国05 | 倍率:2  has been added.
+2024/10/16 Wed 15:56:36.837782 [12467 10739128][VERB] Node  海豚湾 - Lil 香港01 | 倍率:1.8  has been added.
+2024/10/16 Wed 15:56:36.837825 [12467 10739128][VERB] Node  海豚湾 - Lil 香港02 | 倍率:1.8  has been added.
+2024/10/16 Wed 15:56:36.837868 [12467 10739128][VERB] Node  海豚湾 - Lil 香港03 | 倍率:1.6  has been added.
+2024/10/16 Wed 15:56:36.837910 [12467 10739128][VERB] Node  海豚湾 - Lil 香港04 | 倍率:1.6  has been added.
+2024/10/16 Wed 15:56:36.837953 [12467 10739128][VERB] Node  海豚湾 - Lil 香港05 | 倍率:1.5  has been added.
+2024/10/16 Wed 15:56:36.837996 [12467 10739128][VERB] Node  海豚湾 - Lil 香港06 | 倍率:1.5  has been added.
+2024/10/16 Wed 15:56:36.838039 [12467 10739128][VERB] Node  海豚湾 - Lil 香港07 | 倍率:1.5  has been added.
+2024/10/16 Wed 15:56:36.838092 [12467 10739128][VERB] Node  海豚湾 - Lil 香港08 | 倍率:1.5  has been added.
+2024/10/16 Wed 15:56:36.838135 [12467 10739128][VERB] Node  海豚湾 - Lil 香港09 | 倍率:1.6  has been added.
+2024/10/16 Wed 15:56:36.838178 [12467 10739128][VERB] Node  海豚湾 - Lil 香港10 | 倍率:1.6  has been added.
+2024/10/16 Wed 15:56:36.838220 [12467 10739128][VERB] Node  海豚湾 - Lil 香港11 | 倍率:2  has been added.
+2024/10/16 Wed 15:56:36.838263 [12467 10739128][VERB] Node  海豚湾 - Lil 香港12 | 倍率:2  has been added.
+2024/10/16 Wed 15:56:36.838297 [12467 10739128][VERB] Filter done.
+2024/10/16 Wed 15:56:36.841422 [12467 10739128][INFO] Generate target: Clash
+2024/10/16 Wed 15:56:36.949715 [12467 10739128][INFO] Generate completed.
+2024/10/16 Wed 15:56:36.977940 [12467 10739128][INFO] User Info for artifact 'test': Stream Used: 13.92 TB Stream Total: N/A Expiry Time: N/A
+2024/10/16 Wed 15:56:36.978006 [12467 10739128][INFO] Artifact 'test' generate SUCCESS!
+
+2024/10/16 Wed 15:56:36.978044 [12467 10739128][INFO] Generating artifact 'test_profile'...
+2024/10/16 Wed 15:56:37.012798 [12467 10739128][INFO] Trying to load profile 'profiles/example_profile.ini'.
+2024/10/16 Wed 15:56:37.012897 [12467 10739128][INFO] Trying to parse profile 'profiles/example_profile.ini'.
+2024/10/16 Wed 15:56:37.013112 [12467 10739128][VERB] Imported 0 item(s).
+2024/10/16 Wed 15:56:37.013211 [12467 10739128][INFO] Fetching node data from url 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYXNzd29yZA@www.example.com:1080#Example'.
+2024/10/16 Wed 15:56:37.015300 [12467 10739128][VERB] Received Link.
+2024/10/16 Wed 15:56:37.015489 [12467 10739128][INFO] Generate target: Clash
+2024/10/16 Wed 15:56:37.089078 [12467 10739128][INFO] Generate completed.
+2024/10/16 Wed 15:56:37.117382 [12467 10739128][INFO] Artifact 'test_profile' generate SUCCESS!
+
+2024/10/16 Wed 15:56:37.117462 [12467 10739128][INFO] All artifact generated. Exiting...
+2024/10/16 Wed 18:36:41.132703 [43221 10739128][INFO] SubConverter v0.7.2 starting up..
+]0;SubConverter v0.7.22024/10/16 Wed 18:36:41.160225 [43221 10739128][INFO] Reading preference settings...
+2024/10/16 Wed 18:36:41.281077 [43221 10739128][INFO] Updating ruleset url 'rules/LocalAreaNetwork.list' with group '🎯 全球直连'.
+2024/10/16 Wed 18:36:41.344002 [43221 10739128][INFO] Updating ruleset url 'rules/MSServices.list' with group 'Ⓜ️ 微软服务'.
+2024/10/16 Wed 18:36:41.415989 [43221 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Unbreak.list' with group '🎯 全球直连'.
+2024/10/16 Wed 18:36:41.501014 [43221 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/AdRule.list' with group '🛑 全球拦截'.
+2024/10/16 Wed 18:36:41.574416 [43221 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list' with group '🛑 全球拦截'.
+2024/10/16 Wed 18:36:41.597277 [43221 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list' with group '🎥 NETFLIX'.
+2024/10/16 Wed 18:36:41.601242 [43221 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list' with group '🌍 国外媒体'.
+2024/10/16 Wed 18:36:41.607281 [43221 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list' with group '🌏 国内媒体'.
+2024/10/16 Wed 18:36:41.615336 [43221 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list' with group '🌏 国内媒体'.
+2024/10/16 Wed 18:36:41.617326 [43221 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list' with group '🌏 国内媒体'.
+2024/10/16 Wed 18:36:41.619059 [43221 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list' with group '🌏 国内媒体'.
+2024/10/16 Wed 18:36:41.626403 [43221 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list' with group '🌏 国内媒体'.
+2024/10/16 Wed 18:36:41.631177 [43221 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list' with group '🌏 国内媒体'.
+2024/10/16 Wed 18:36:41.635394 [43221 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list' with group '📲 电报信息'.
+2024/10/16 Wed 18:36:41.643049 [43221 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Global.list' with group '🔰 节点选择'.
+2024/10/16 Wed 18:36:41.683834 [43221 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list' with group '🍎 苹果服务'.
+2024/10/16 Wed 18:36:41.692238 [43221 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/China.list' with group '🎯 全球直连'.
+2024/10/16 Wed 18:36:41.699964 [43221 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/Download.list' with group '🎯 全球直连'.
+2024/10/16 Wed 18:36:41.707722 [43221 10739128][INFO] Adding rule 'GEOIP,CN,🎯 全球直连'.
+2024/10/16 Wed 18:36:41.707842 [43221 10739128][INFO] Adding rule 'FINAL,🐟 漏网之鱼'.
+2024/10/16 Wed 18:36:41.707956 [43221 10739128][INFO] Reading generator configuration...
+2024/10/16 Wed 18:36:41.712054 [43221 10739128][INFO] Read generator configuration completed.
+
+2024/10/16 Wed 18:36:41.712117 [43221 10739128][INFO] Generating all artifacts...
+2024/10/16 Wed 18:36:41.712142 [43221 10739128][INFO] Generating artifact 'test'...
+2024/10/16 Wed 18:36:41.712233 [43221 10739128][VERB] Imported 0 item(s).
+2024/10/16 Wed 18:36:41.712324 [43221 10739128][INFO] Fetching node data from url '../../temp/clash.yaml'.
+2024/10/16 Wed 18:36:41.713986 [43221 10739128][VERB] Received Link.
+2024/10/16 Wed 18:36:41.714030 [43221 10739128][VERB] Parsing configuration file data...
+2024/10/16 Wed 18:36:41.720582 [43221 10739128][VERB] Node  海豚湾 - 官网地址 - https://hitun.io  has been ignored and will not be added.
+2024/10/16 Wed 18:36:41.720657 [43221 10739128][VERB] Node  海豚湾 - 剩余流量：32.16% 6.6TB  has been ignored and will not be added.
+2024/10/16 Wed 18:36:41.720708 [43221 10739128][VERB] Node  海豚湾 - 套餐时间：2025-04-06  has been ignored and will not be added.
+2024/10/16 Wed 18:36:41.720759 [43221 10739128][VERB] Node  海豚湾 - A应急续费使用 | 到期后可用5GB  has been ignored and will not be added.
+2024/10/16 Wed 18:36:41.720808 [43221 10739128][VERB] Node  海豚湾 - Game 台湾 | 遊戲專用 | 倍率:20  has been added.
+2024/10/16 Wed 18:36:41.720836 [43221 10739128][VERB] Node  海豚湾 - Game 日本 | 遊戲專用 | 倍率:20  has been added.
+2024/10/16 Wed 18:36:41.720864 [43221 10739128][VERB] Node  海豚湾 - Game 香港 | 遊戲專用 | 倍率:20  has been added.
+2024/10/16 Wed 18:36:41.720891 [43221 10739128][VERB] Node  海豚湾 - Large 台湾01  has been added.
+2024/10/16 Wed 18:36:41.720918 [43221 10739128][VERB] Node  海豚湾 - Large 台湾02  has been added.
+2024/10/16 Wed 18:36:41.720944 [43221 10739128][VERB] Node  海豚湾 - Large 台湾03  has been added.
+2024/10/16 Wed 18:36:41.720971 [43221 10739128][VERB] Node  海豚湾 - Large 台湾04  has been added.
+2024/10/16 Wed 18:36:41.720998 [43221 10739128][VERB] Node  海豚湾 - Large 台湾05  has been added.
+2024/10/16 Wed 18:36:41.721025 [43221 10739128][VERB] Node  海豚湾 - Large 台湾06  has been added.
+2024/10/16 Wed 18:36:41.721052 [43221 10739128][VERB] Node  海豚湾 - Large 墨西哥01 | 倍率:1.5  has been added.
+2024/10/16 Wed 18:36:41.721079 [43221 10739128][VERB] Node  海豚湾 - Large 新加坡01 | 倍率:1.5  has been added.
+2024/10/16 Wed 18:36:41.721106 [43221 10739128][VERB] Node  海豚湾 - Large 新加坡02 | 倍率:1.5  has been added.
+2024/10/16 Wed 18:36:41.721133 [43221 10739128][VERB] Node  海豚湾 - Large 新加坡03 | 倍率:1.6  has been added.
+2024/10/16 Wed 18:36:41.721161 [43221 10739128][VERB] Node  海豚湾 - Large 新加坡04 | 倍率:1.6  has been added.
+2024/10/16 Wed 18:36:41.721188 [43221 10739128][VERB] Node  海豚湾 - Large 新加坡05 | 倍率:1.5  has been added.
+2024/10/16 Wed 18:36:41.721226 [43221 10739128][VERB] Node  海豚湾 - Large 新加坡06 | 倍率:1.5  has been added.
+2024/10/16 Wed 18:36:41.721254 [43221 10739128][VERB] Node  海豚湾 - Large 新加坡07 | 倍率:1.5  has been added.
+2024/10/16 Wed 18:36:41.721281 [43221 10739128][VERB] Node  海豚湾 - Large 新加坡08 | 倍率:1.5  has been added.
+2024/10/16 Wed 18:36:41.721308 [43221 10739128][VERB] Node  海豚湾 - Large 新加坡09 | 倍率:1.5  has been added.
+2024/10/16 Wed 18:36:41.721334 [43221 10739128][VERB] Node  海豚湾 - Large 新加坡10 | 倍率:1.5  has been added.
+2024/10/16 Wed 18:36:41.721361 [43221 10739128][VERB] Node  海豚湾 - Large 日本01 | 倍率:1.5  has been added.
+2024/10/16 Wed 18:36:41.721388 [43221 10739128][VERB] Node  海豚湾 - Large 日本02 | 倍率:1.5  has been added.
+2024/10/16 Wed 18:36:41.721415 [43221 10739128][VERB] Node  海豚湾 - Large 日本03 | 倍率:1.5  has been added.
+2024/10/16 Wed 18:36:41.721442 [43221 10739128][VERB] Node  海豚湾 - Large 日本04 | 倍率:1.3  has been added.
+2024/10/16 Wed 18:36:41.721469 [43221 10739128][VERB] Node  海豚湾 - Large 日本05 | 倍率:1.3  has been added.
+2024/10/16 Wed 18:36:41.721495 [43221 10739128][VERB] Node  海豚湾 - Large 澳洲01 | 倍率:1.6  has been added.
+2024/10/16 Wed 18:36:41.721522 [43221 10739128][VERB] Node  海豚湾 - Large 澳洲02 | 倍率:1.6  has been added.
+2024/10/16 Wed 18:36:41.721549 [43221 10739128][VERB] Node  海豚湾 - Large 美国01 | 倍率:2  has been added.
+2024/10/16 Wed 18:36:41.721576 [43221 10739128][VERB] Node  海豚湾 - Large 美国02 | 倍率:1.8  has been added.
+2024/10/16 Wed 18:36:41.721602 [43221 10739128][VERB] Node  海豚湾 - Large 美国03 | 倍率:1.6  has been added.
+2024/10/16 Wed 18:36:41.721629 [43221 10739128][VERB] Node  海豚湾 - Large 美国04 | 倍率:1.5  has been added.
+2024/10/16 Wed 18:36:41.721656 [43221 10739128][VERB] Node  海豚湾 - Large 美国05 | 倍率:1.5  has been added.
+2024/10/16 Wed 18:36:41.721682 [43221 10739128][VERB] Node  海豚湾 - Large 美国06 | 倍率:1.7  has been added.
+2024/10/16 Wed 18:36:41.721709 [43221 10739128][VERB] Node  海豚湾 - Large 韩国01 | 倍率:1.6  has been added.
+2024/10/16 Wed 18:36:41.721736 [43221 10739128][VERB] Node  海豚湾 - Large 韩国02 | 倍率:1.6  has been added.
+2024/10/16 Wed 18:36:41.721762 [43221 10739128][VERB] Node  海豚湾 - Large 香港01 | 倍率:2  has been added.
+2024/10/16 Wed 18:36:41.721789 [43221 10739128][VERB] Node  海豚湾 - Large 香港02 | 倍率:2  has been added.
+2024/10/16 Wed 18:36:41.721816 [43221 10739128][VERB] Node  海豚湾 - Large 香港03 | 倍率:2  has been added.
+2024/10/16 Wed 18:36:41.721843 [43221 10739128][VERB] Node  海豚湾 - Large 香港04 | 倍率:1.9  has been added.
+2024/10/16 Wed 18:36:41.721869 [43221 10739128][VERB] Node  海豚湾 - Large 香港05 | 倍率:1.8  has been added.
+2024/10/16 Wed 18:36:41.721896 [43221 10739128][VERB] Node  海豚湾 - Large 香港06 | 倍率:2  has been added.
+2024/10/16 Wed 18:36:41.721922 [43221 10739128][VERB] Node  海豚湾 - Large 香港07 | 倍率:1.8  has been added.
+2024/10/16 Wed 18:36:41.721949 [43221 10739128][VERB] Node  海豚湾 - Large 香港08 | 倍率:1.6  has been added.
+2024/10/16 Wed 18:36:41.721976 [43221 10739128][VERB] Node  海豚湾 - Large 香港09 | 倍率:1.6  has been added.
+2024/10/16 Wed 18:36:41.722002 [43221 10739128][VERB] Node  海豚湾 - Large 香港10 | 倍率:1.6  has been added.
+2024/10/16 Wed 18:36:41.722029 [43221 10739128][VERB] Node  海豚湾 - Large 香港11 | 倍率:1.6  has been added.
+2024/10/16 Wed 18:36:41.722055 [43221 10739128][VERB] Node  海豚湾 - Large 香港12 | 倍率:1.6  has been added.
+2024/10/16 Wed 18:36:41.722082 [43221 10739128][VERB] Node  海豚湾 - Large 香港13 | 倍率:1.6  has been added.
+2024/10/16 Wed 18:36:41.722109 [43221 10739128][VERB] Node  海豚湾 - Large 香港14 | 倍率:1.6  has been added.
+2024/10/16 Wed 18:36:41.722135 [43221 10739128][VERB] Node  海豚湾 - Large 香港15 | 倍率:1.6  has been added.
+2024/10/16 Wed 18:36:41.722165 [43221 10739128][VERB] Node  海豚湾 - Large 香港16 | 倍率:1.6  has been added.
+2024/10/16 Wed 18:36:41.722192 [43221 10739128][VERB] Node  海豚湾 - Large 香港17 | 倍率:1.8  has been added.
+2024/10/16 Wed 18:36:41.722219 [43221 10739128][VERB] Node  海豚湾 - Large 香港18 | 倍率:1.8  has been added.
+2024/10/16 Wed 18:36:41.722245 [43221 10739128][VERB] Node  海豚湾 - Large 香港19 | 倍率:1.6  has been added.
+2024/10/16 Wed 18:36:41.722272 [43221 10739128][VERB] Node  海豚湾 - Large 香港20 | 倍率:1.6  has been added.
+2024/10/16 Wed 18:36:41.722298 [43221 10739128][VERB] Node  海豚湾 - Large 香港21 | 倍率:1.6  has been added.
+2024/10/16 Wed 18:36:41.722325 [43221 10739128][VERB] Node  海豚湾 - Lil 俄罗斯01 | 倍率:1.3  has been added.
+2024/10/16 Wed 18:36:41.722352 [43221 10739128][VERB] Node  海豚湾 - Lil 加拿大1 | 倍率:1.3  has been added.
+2024/10/16 Wed 18:36:41.722379 [43221 10739128][VERB] Node  海豚湾 - Lil 印度01 | 倍率:1.3  has been added.
+2024/10/16 Wed 18:36:41.722406 [43221 10739128][VERB] Node  海豚湾 - Lil 印度02 | 倍率:1.3  has been added.
+2024/10/16 Wed 18:36:41.722433 [43221 10739128][VERB] Node  海豚湾 - Lil 台湾01 | 倍率:1.5  has been added.
+2024/10/16 Wed 18:36:41.722459 [43221 10739128][VERB] Node  海豚湾 - Lil 台湾02 | 倍率:1.3  has been added.
+2024/10/16 Wed 18:36:41.722486 [43221 10739128][VERB] Node  海豚湾 - Lil 台湾03 | 倍率:1.3  has been added.
+2024/10/16 Wed 18:36:41.722513 [43221 10739128][VERB] Node  海豚湾 - Lil 台湾04 | 倍率:1.3  has been added.
+2024/10/16 Wed 18:36:41.722539 [43221 10739128][VERB] Node  海豚湾 - Lil 台湾05 | 倍率:1.3  has been added.
+2024/10/16 Wed 18:36:41.722566 [43221 10739128][VERB] Node  海豚湾 - Lil 台湾06 | 倍率:1.3  has been added.
+2024/10/16 Wed 18:36:41.722593 [43221 10739128][VERB] Node  海豚湾 - Lil 土耳其01 | 倍率:1.5  has been added.
+2024/10/16 Wed 18:36:41.722619 [43221 10739128][VERB] Node  海豚湾 - Lil 巴西1 | 倍率:1.5  has been added.
+2024/10/16 Wed 18:36:41.722646 [43221 10739128][VERB] Node  海豚湾 - Lil 德国1 | 倍率:1.3  has been added.
+2024/10/16 Wed 18:36:41.722682 [43221 10739128][VERB] Node  海豚湾 - Lil 德国2 | 倍率:1.3  has been added.
+2024/10/16 Wed 18:36:41.722715 [43221 10739128][VERB] Node  海豚湾 - Lil 德国3 | 倍率:1.3  has been added.
+2024/10/16 Wed 18:36:41.722754 [43221 10739128][VERB] Node  海豚湾 - Lil 新加坡01 | 倍率:1.5  has been added.
+2024/10/16 Wed 18:36:41.722792 [43221 10739128][VERB] Node  海豚湾 - Lil 新加坡02 | 倍率:1.5  has been added.
+2024/10/16 Wed 18:36:41.722830 [43221 10739128][VERB] Node  海豚湾 - Lil 新加坡03 | 倍率:1.5  has been added.
+2024/10/16 Wed 18:36:41.722868 [43221 10739128][VERB] Node  海豚湾 - Lil 新加坡04 | 倍率:2  has been added.
+2024/10/16 Wed 18:36:41.722906 [43221 10739128][VERB] Node  海豚湾 - Lil 新加坡05 | 倍率:2  has been added.
+2024/10/16 Wed 18:36:41.722943 [43221 10739128][VERB] Node  海豚湾 - Lil 日本01 | 倍率:1.5  has been added.
+2024/10/16 Wed 18:36:41.722981 [43221 10739128][VERB] Node  海豚湾 - Lil 日本02 | 倍率:1.3  has been added.
+2024/10/16 Wed 18:36:41.723018 [43221 10739128][VERB] Node  海豚湾 - Lil 日本03 | 倍率:1.3  has been added.
+2024/10/16 Wed 18:36:41.723056 [43221 10739128][VERB] Node  海豚湾 - Lil 日本04 | 倍率:1.3  has been added.
+2024/10/16 Wed 18:36:41.723093 [43221 10739128][VERB] Node  海豚湾 - Lil 日本05 | 倍率:1.3  has been added.
+2024/10/16 Wed 18:36:41.723131 [43221 10739128][VERB] Node  海豚湾 - Lil 日本06 | 倍率:2  has been added.
+2024/10/16 Wed 18:36:41.723168 [43221 10739128][VERB] Node  海豚湾 - Lil 泰国01 | 倍率:1.3  has been added.
+2024/10/16 Wed 18:36:41.723205 [43221 10739128][VERB] Node  海豚湾 - Lil 美国01 | 倍率:2.1  has been added.
+2024/10/16 Wed 18:36:41.723245 [43221 10739128][VERB] Node  海豚湾 - Lil 美国02 | 倍率:1.9  has been added.
+2024/10/16 Wed 18:36:41.723282 [43221 10739128][VERB] Node  海豚湾 - Lil 美国03 | 倍率:1.5  has been added.
+2024/10/16 Wed 18:36:41.723325 [43221 10739128][VERB] Node  海豚湾 - Lil 美国04 | 倍率:1.3  has been added.
+2024/10/16 Wed 18:36:41.723362 [43221 10739128][VERB] Node  海豚湾 - Lil 美国05 | 倍率:1.3  has been added.
+2024/10/16 Wed 18:36:41.723399 [43221 10739128][VERB] Node  海豚湾 - Lil 美国06 | 倍率:1.3  has been added.
+2024/10/16 Wed 18:36:41.723436 [43221 10739128][VERB] Node  海豚湾 - Lil 美国07 | 倍率:1.3  has been added.
+2024/10/16 Wed 18:36:41.723485 [43221 10739128][VERB] Node  海豚湾 - Lil 美国08 | 倍率:1.3  has been added.
+2024/10/16 Wed 18:36:41.723522 [43221 10739128][VERB] Node  海豚湾 - Lil 美国09 | 倍率:1.3  has been added.
+2024/10/16 Wed 18:36:41.723560 [43221 10739128][VERB] Node  海豚湾 - Lil 美国10 | 倍率:1.3  has been added.
+2024/10/16 Wed 18:36:41.723597 [43221 10739128][VERB] Node  海豚湾 - Lil 英国1 | 倍率:1.6  has been added.
+2024/10/16 Wed 18:36:41.723634 [43221 10739128][VERB] Node  海豚湾 - Lil 英国2 | 倍率:1.3  has been added.
+2024/10/16 Wed 18:36:41.723671 [43221 10739128][VERB] Node  海豚湾 - Lil 英国3 | 倍率:1.3  has been added.
+2024/10/16 Wed 18:36:41.723708 [43221 10739128][VERB] Node  海豚湾 - Lil 荷兰01 | 倍率:1.3  has been added.
+2024/10/16 Wed 18:36:41.723746 [43221 10739128][VERB] Node  海豚湾 - Lil 菲律宾01 | 倍率:1.5  has been added.
+2024/10/16 Wed 18:36:41.723783 [43221 10739128][VERB] Node  海豚湾 - Lil 西班牙01 | 倍率:1.5  has been added.
+2024/10/16 Wed 18:36:41.723820 [43221 10739128][VERB] Node  海豚湾 - Lil 阿根廷01 | 倍率:1.5  has been added.
+2024/10/16 Wed 18:36:41.723858 [43221 10739128][VERB] Node  海豚湾 - Lil 韩国01 | 倍率:1.5  has been added.
+2024/10/16 Wed 18:36:41.723895 [43221 10739128][VERB] Node  海豚湾 - Lil 韩国02 | 倍率:1.5  has been added.
+2024/10/16 Wed 18:36:41.723931 [43221 10739128][VERB] Node  海豚湾 - Lil 韩国03 | 倍率:1.5  has been added.
+2024/10/16 Wed 18:36:41.723969 [43221 10739128][VERB] Node  海豚湾 - Lil 韩国04 | 倍率:2  has been added.
+2024/10/16 Wed 18:36:41.724006 [43221 10739128][VERB] Node  海豚湾 - Lil 韩国05 | 倍率:2  has been added.
+2024/10/16 Wed 18:36:41.724043 [43221 10739128][VERB] Node  海豚湾 - Lil 香港01 | 倍率:1.8  has been added.
+2024/10/16 Wed 18:36:41.724080 [43221 10739128][VERB] Node  海豚湾 - Lil 香港02 | 倍率:1.8  has been added.
+2024/10/16 Wed 18:36:41.724117 [43221 10739128][VERB] Node  海豚湾 - Lil 香港03 | 倍率:1.6  has been added.
+2024/10/16 Wed 18:36:41.724154 [43221 10739128][VERB] Node  海豚湾 - Lil 香港04 | 倍率:1.6  has been added.
+2024/10/16 Wed 18:36:41.724191 [43221 10739128][VERB] Node  海豚湾 - Lil 香港05 | 倍率:1.5  has been added.
+2024/10/16 Wed 18:36:41.724228 [43221 10739128][VERB] Node  海豚湾 - Lil 香港06 | 倍率:1.5  has been added.
+2024/10/16 Wed 18:36:41.724265 [43221 10739128][VERB] Node  海豚湾 - Lil 香港07 | 倍率:1.5  has been added.
+2024/10/16 Wed 18:36:41.724302 [43221 10739128][VERB] Node  海豚湾 - Lil 香港08 | 倍率:1.5  has been added.
+2024/10/16 Wed 18:36:41.724339 [43221 10739128][VERB] Node  海豚湾 - Lil 香港09 | 倍率:1.6  has been added.
+2024/10/16 Wed 18:36:41.724376 [43221 10739128][VERB] Node  海豚湾 - Lil 香港10 | 倍率:1.6  has been added.
+2024/10/16 Wed 18:36:41.724413 [43221 10739128][VERB] Node  海豚湾 - Lil 香港11 | 倍率:2  has been added.
+2024/10/16 Wed 18:36:41.724450 [43221 10739128][VERB] Node  海豚湾 - Lil 香港12 | 倍率:2  has been added.
+2024/10/16 Wed 18:36:41.724480 [43221 10739128][VERB] Filter done.
+2024/10/16 Wed 18:36:41.727222 [43221 10739128][INFO] Generate target: Clash
+2024/10/16 Wed 18:36:41.824526 [43221 10739128][INFO] Generate completed.
+2024/10/16 Wed 18:36:41.838846 [43221 10739128][INFO] User Info for artifact 'test': Stream Used: 13.92 TB Stream Total: N/A Expiry Time: N/A
+2024/10/16 Wed 18:36:41.838889 [43221 10739128][INFO] Artifact 'test' generate SUCCESS!
+
+2024/10/16 Wed 18:36:41.838929 [43221 10739128][INFO] Generating artifact 'test_profile'...
+2024/10/16 Wed 18:36:41.854969 [43221 10739128][INFO] Trying to load profile 'profiles/example_profile.ini'.
+2024/10/16 Wed 18:36:41.855040 [43221 10739128][INFO] Trying to parse profile 'profiles/example_profile.ini'.
+2024/10/16 Wed 18:36:41.855206 [43221 10739128][VERB] Imported 0 item(s).
+2024/10/16 Wed 18:36:41.855273 [43221 10739128][INFO] Fetching node data from url 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYXNzd29yZA@www.example.com:1080#Example'.
+2024/10/16 Wed 18:36:41.857255 [43221 10739128][VERB] Received Link.
+2024/10/16 Wed 18:36:41.857361 [43221 10739128][INFO] Generate target: Clash
+2024/10/16 Wed 18:36:41.902188 [43221 10739128][INFO] Generate completed.
+2024/10/16 Wed 18:36:41.916177 [43221 10739128][INFO] Artifact 'test_profile' generate SUCCESS!
+
+2024/10/16 Wed 18:36:41.916229 [43221 10739128][INFO] All artifact generated. Exiting...
+2024/10/17 Thu 12:04:18.254391 [40865 10739128][INFO] SubConverter v0.7.2 starting up..
+]0;SubConverter v0.7.22024/10/17 Thu 12:04:18.344125 [40865 10739128][INFO] Reading preference settings...
+2024/10/17 Thu 12:04:18.514179 [40865 10739128][INFO] Updating ruleset url 'rules/LocalAreaNetwork.list' with group '🎯 全球直连'.
+2024/10/17 Thu 12:04:18.595702 [40865 10739128][INFO] Updating ruleset url 'rules/MSServices.list' with group 'Ⓜ️ 微软服务'.
+2024/10/17 Thu 12:04:18.623977 [40865 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Unbreak.list' with group '🎯 全球直连'.
+2024/10/17 Thu 12:04:18.698015 [40865 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/AdRule.list' with group '🛑 全球拦截'.
+2024/10/17 Thu 12:04:18.787979 [40865 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list' with group '🛑 全球拦截'.
+2024/10/17 Thu 12:04:18.818340 [40865 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list' with group '🎥 NETFLIX'.
+2024/10/17 Thu 12:04:18.839929 [40865 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list' with group '🌍 国外媒体'.
+2024/10/17 Thu 12:04:18.906913 [40865 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list' with group '🌏 国内媒体'.
+2024/10/17 Thu 12:04:18.978851 [40865 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list' with group '🌏 国内媒体'.
+2024/10/17 Thu 12:04:19.056043 [40865 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list' with group '🌏 国内媒体'.
+2024/10/17 Thu 12:04:19.107083 [40865 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list' with group '🌏 国内媒体'.
+2024/10/17 Thu 12:04:19.121711 [40865 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list' with group '🌏 国内媒体'.
+2024/10/17 Thu 12:04:19.162460 [40865 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list' with group '🌏 国内媒体'.
+2024/10/17 Thu 12:04:19.224567 [40865 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list' with group '📲 电报信息'.
+2024/10/17 Thu 12:04:19.252505 [40865 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Global.list' with group '🔰 节点选择'.
+2024/10/17 Thu 12:04:19.295785 [40865 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list' with group '🍎 苹果服务'.
+2024/10/17 Thu 12:04:19.352253 [40865 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/China.list' with group '🎯 全球直连'.
+2024/10/17 Thu 12:04:19.388303 [40865 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/Download.list' with group '🎯 全球直连'.
+2024/10/17 Thu 12:04:19.403516 [40865 10739128][INFO] Adding rule 'GEOIP,CN,🎯 全球直连'.
+2024/10/17 Thu 12:04:19.403688 [40865 10739128][INFO] Adding rule 'FINAL,🐟 漏网之鱼'.
+2024/10/17 Thu 12:04:19.412821 [40865 10739128][INFO] Reading generator configuration...
+2024/10/17 Thu 12:04:19.429916 [40865 10739128][INFO] Read generator configuration completed.
+
+2024/10/17 Thu 12:04:19.429981 [40865 10739128][INFO] Generating all artifacts...
+2024/10/17 Thu 12:04:19.430014 [40865 10739128][INFO] Generating artifact 'test'...
+2024/10/17 Thu 12:04:19.430140 [40865 10739128][VERB] Imported 0 item(s).
+2024/10/17 Thu 12:04:19.430249 [40865 10739128][INFO] Fetching node data from url '../../temp/clash.yaml'.
+2024/10/17 Thu 12:04:19.432334 [40865 10739128][VERB] Received Link.
+2024/10/17 Thu 12:04:19.432388 [40865 10739128][VERB] Parsing configuration file data...
+2024/10/17 Thu 12:04:19.444463 [40865 10739128][VERB] Node  海豚湾 - 官网地址 - https://hitun.io  has been ignored and will not be added.
+2024/10/17 Thu 12:04:19.444580 [40865 10739128][VERB] Node  海豚湾 - 剩余流量：31.99% 6.56TB  has been ignored and will not be added.
+2024/10/17 Thu 12:04:19.444645 [40865 10739128][VERB] Node  海豚湾 - 套餐时间：2025-04-06  has been ignored and will not be added.
+2024/10/17 Thu 12:04:19.444715 [40865 10739128][VERB] Node  海豚湾 - A应急续费使用 | 到期后可用5GB  has been ignored and will not be added.
+2024/10/17 Thu 12:04:19.444791 [40865 10739128][VERB] Node  海豚湾 - Game 台湾 | 遊戲專用 | 倍率:20  has been added.
+2024/10/17 Thu 12:04:19.444834 [40865 10739128][VERB] Node  海豚湾 - Game 日本 | 遊戲專用 | 倍率:20  has been added.
+2024/10/17 Thu 12:04:19.444873 [40865 10739128][VERB] Node  海豚湾 - Game 香港 | 遊戲專用 | 倍率:20  has been added.
+2024/10/17 Thu 12:04:19.444913 [40865 10739128][VERB] Node  海豚湾 - Large 台湾01  has been added.
+2024/10/17 Thu 12:04:19.444951 [40865 10739128][VERB] Node  海豚湾 - Large 台湾02  has been added.
+2024/10/17 Thu 12:04:19.444989 [40865 10739128][VERB] Node  海豚湾 - Large 台湾03  has been added.
+2024/10/17 Thu 12:04:19.445026 [40865 10739128][VERB] Node  海豚湾 - Large 台湾04  has been added.
+2024/10/17 Thu 12:04:19.445063 [40865 10739128][VERB] Node  海豚湾 - Large 台湾05  has been added.
+2024/10/17 Thu 12:04:19.445100 [40865 10739128][VERB] Node  海豚湾 - Large 台湾06  has been added.
+2024/10/17 Thu 12:04:19.445139 [40865 10739128][VERB] Node  海豚湾 - Large 墨西哥01 | 倍率:1.5  has been added.
+2024/10/17 Thu 12:04:19.445177 [40865 10739128][VERB] Node  海豚湾 - Large 新加坡01 | 倍率:1.5  has been added.
+2024/10/17 Thu 12:04:19.445220 [40865 10739128][VERB] Node  海豚湾 - Large 新加坡02 | 倍率:1.5  has been added.
+2024/10/17 Thu 12:04:19.445260 [40865 10739128][VERB] Node  海豚湾 - Large 新加坡03 | 倍率:1.6  has been added.
+2024/10/17 Thu 12:04:19.445298 [40865 10739128][VERB] Node  海豚湾 - Large 新加坡04 | 倍率:1.6  has been added.
+2024/10/17 Thu 12:04:19.445336 [40865 10739128][VERB] Node  海豚湾 - Large 新加坡05 | 倍率:1.5  has been added.
+2024/10/17 Thu 12:04:19.445375 [40865 10739128][VERB] Node  海豚湾 - Large 新加坡06 | 倍率:1.5  has been added.
+2024/10/17 Thu 12:04:19.445413 [40865 10739128][VERB] Node  海豚湾 - Large 新加坡07 | 倍率:1.5  has been added.
+2024/10/17 Thu 12:04:19.445451 [40865 10739128][VERB] Node  海豚湾 - Large 新加坡08 | 倍率:1.5  has been added.
+2024/10/17 Thu 12:04:19.445490 [40865 10739128][VERB] Node  海豚湾 - Large 新加坡09 | 倍率:1.5  has been added.
+2024/10/17 Thu 12:04:19.445532 [40865 10739128][VERB] Node  海豚湾 - Large 新加坡10 | 倍率:1.5  has been added.
+2024/10/17 Thu 12:04:19.445573 [40865 10739128][VERB] Node  海豚湾 - Large 日本01 | 倍率:1.5  has been added.
+2024/10/17 Thu 12:04:19.445618 [40865 10739128][VERB] Node  海豚湾 - Large 日本02 | 倍率:1.5  has been added.
+2024/10/17 Thu 12:04:19.445658 [40865 10739128][VERB] Node  海豚湾 - Large 日本03 | 倍率:1.5  has been added.
+2024/10/17 Thu 12:04:19.445696 [40865 10739128][VERB] Node  海豚湾 - Large 日本04 | 倍率:1.3  has been added.
+2024/10/17 Thu 12:04:19.445752 [40865 10739128][VERB] Node  海豚湾 - Large 日本05 | 倍率:1.3  has been added.
+2024/10/17 Thu 12:04:19.445790 [40865 10739128][VERB] Node  海豚湾 - Large 澳洲01 | 倍率:1.6  has been added.
+2024/10/17 Thu 12:04:19.445828 [40865 10739128][VERB] Node  海豚湾 - Large 澳洲02 | 倍率:1.6  has been added.
+2024/10/17 Thu 12:04:19.445866 [40865 10739128][VERB] Node  海豚湾 - Large 美国01 | 倍率:2  has been added.
+2024/10/17 Thu 12:04:19.445903 [40865 10739128][VERB] Node  海豚湾 - Large 美国02 | 倍率:1.8  has been added.
+2024/10/17 Thu 12:04:19.445941 [40865 10739128][VERB] Node  海豚湾 - Large 美国03 | 倍率:1.6  has been added.
+2024/10/17 Thu 12:04:19.445978 [40865 10739128][VERB] Node  海豚湾 - Large 美国04 | 倍率:1.5  has been added.
+2024/10/17 Thu 12:04:19.446016 [40865 10739128][VERB] Node  海豚湾 - Large 美国05 | 倍率:1.5  has been added.
+2024/10/17 Thu 12:04:19.446054 [40865 10739128][VERB] Node  海豚湾 - Large 美国06 | 倍率:1.7  has been added.
+2024/10/17 Thu 12:04:19.446092 [40865 10739128][VERB] Node  海豚湾 - Large 韩国01 | 倍率:1.6  has been added.
+2024/10/17 Thu 12:04:19.446129 [40865 10739128][VERB] Node  海豚湾 - Large 韩国02 | 倍率:1.6  has been added.
+2024/10/17 Thu 12:04:19.446167 [40865 10739128][VERB] Node  海豚湾 - Large 香港01 | 倍率:2  has been added.
+2024/10/17 Thu 12:04:19.446205 [40865 10739128][VERB] Node  海豚湾 - Large 香港02 | 倍率:2  has been added.
+2024/10/17 Thu 12:04:19.446243 [40865 10739128][VERB] Node  海豚湾 - Large 香港03 | 倍率:2  has been added.
+2024/10/17 Thu 12:04:19.446281 [40865 10739128][VERB] Node  海豚湾 - Large 香港04 | 倍率:1.9  has been added.
+2024/10/17 Thu 12:04:19.446320 [40865 10739128][VERB] Node  海豚湾 - Large 香港05 | 倍率:1.8  has been added.
+2024/10/17 Thu 12:04:19.446357 [40865 10739128][VERB] Node  海豚湾 - Large 香港06 | 倍率:2  has been added.
+2024/10/17 Thu 12:04:19.446395 [40865 10739128][VERB] Node  海豚湾 - Large 香港07 | 倍率:1.8  has been added.
+2024/10/17 Thu 12:04:19.446433 [40865 10739128][VERB] Node  海豚湾 - Large 香港08 | 倍率:1.6  has been added.
+2024/10/17 Thu 12:04:19.446471 [40865 10739128][VERB] Node  海豚湾 - Large 香港09 | 倍率:1.6  has been added.
+2024/10/17 Thu 12:04:19.446509 [40865 10739128][VERB] Node  海豚湾 - Large 香港10 | 倍率:1.6  has been added.
+2024/10/17 Thu 12:04:19.446547 [40865 10739128][VERB] Node  海豚湾 - Large 香港11 | 倍率:1.6  has been added.
+2024/10/17 Thu 12:04:19.446585 [40865 10739128][VERB] Node  海豚湾 - Large 香港12 | 倍率:1.6  has been added.
+2024/10/17 Thu 12:04:19.446623 [40865 10739128][VERB] Node  海豚湾 - Large 香港13 | 倍率:1.6  has been added.
+2024/10/17 Thu 12:04:19.446661 [40865 10739128][VERB] Node  海豚湾 - Large 香港14 | 倍率:1.6  has been added.
+2024/10/17 Thu 12:04:19.446700 [40865 10739128][VERB] Node  海豚湾 - Large 香港15 | 倍率:1.6  has been added.
+2024/10/17 Thu 12:04:19.446739 [40865 10739128][VERB] Node  海豚湾 - Large 香港16 | 倍率:1.6  has been added.
+2024/10/17 Thu 12:04:19.446778 [40865 10739128][VERB] Node  海豚湾 - Large 香港17 | 倍率:1.8  has been added.
+2024/10/17 Thu 12:04:19.446817 [40865 10739128][VERB] Node  海豚湾 - Large 香港18 | 倍率:1.8  has been added.
+2024/10/17 Thu 12:04:19.446856 [40865 10739128][VERB] Node  海豚湾 - Large 香港19 | 倍率:1.6  has been added.
+2024/10/17 Thu 12:04:19.446895 [40865 10739128][VERB] Node  海豚湾 - Large 香港20 | 倍率:1.6  has been added.
+2024/10/17 Thu 12:04:19.446935 [40865 10739128][VERB] Node  海豚湾 - Large 香港21 | 倍率:1.6  has been added.
+2024/10/17 Thu 12:04:19.446975 [40865 10739128][VERB] Node  海豚湾 - Lil 俄罗斯01 | 倍率:1.3  has been added.
+2024/10/17 Thu 12:04:19.447016 [40865 10739128][VERB] Node  海豚湾 - Lil 加拿大1 | 倍率:1.3  has been added.
+2024/10/17 Thu 12:04:19.447056 [40865 10739128][VERB] Node  海豚湾 - Lil 印度01 | 倍率:1.3  has been added.
+2024/10/17 Thu 12:04:19.447104 [40865 10739128][VERB] Node  海豚湾 - Lil 印度02 | 倍率:1.3  has been added.
+2024/10/17 Thu 12:04:19.447143 [40865 10739128][VERB] Node  海豚湾 - Lil 台湾01 | 倍率:1.5  has been added.
+2024/10/17 Thu 12:04:19.447182 [40865 10739128][VERB] Node  海豚湾 - Lil 台湾02 | 倍率:1.3  has been added.
+2024/10/17 Thu 12:04:19.447222 [40865 10739128][VERB] Node  海豚湾 - Lil 台湾03 | 倍率:1.3  has been added.
+2024/10/17 Thu 12:04:19.447261 [40865 10739128][VERB] Node  海豚湾 - Lil 台湾04 | 倍率:1.3  has been added.
+2024/10/17 Thu 12:04:19.447300 [40865 10739128][VERB] Node  海豚湾 - Lil 台湾05 | 倍率:1.3  has been added.
+2024/10/17 Thu 12:04:19.447340 [40865 10739128][VERB] Node  海豚湾 - Lil 台湾06 | 倍率:1.3  has been added.
+2024/10/17 Thu 12:04:19.447379 [40865 10739128][VERB] Node  海豚湾 - Lil 土耳其01 | 倍率:1.5  has been added.
+2024/10/17 Thu 12:04:19.447418 [40865 10739128][VERB] Node  海豚湾 - Lil 巴西1 | 倍率:1.5  has been added.
+2024/10/17 Thu 12:04:19.447458 [40865 10739128][VERB] Node  海豚湾 - Lil 德国1 | 倍率:1.3  has been added.
+2024/10/17 Thu 12:04:19.447512 [40865 10739128][VERB] Node  海豚湾 - Lil 德国2 | 倍率:1.3  has been added.
+2024/10/17 Thu 12:04:19.447551 [40865 10739128][VERB] Node  海豚湾 - Lil 德国3 | 倍率:1.3  has been added.
+2024/10/17 Thu 12:04:19.447584 [40865 10739128][VERB] Node  海豚湾 - Lil 新加坡01 | 倍率:1.5  has been added.
+2024/10/17 Thu 12:04:19.447612 [40865 10739128][VERB] Node  海豚湾 - Lil 新加坡02 | 倍率:1.5  has been added.
+2024/10/17 Thu 12:04:19.447640 [40865 10739128][VERB] Node  海豚湾 - Lil 新加坡03 | 倍率:1.5  has been added.
+2024/10/17 Thu 12:04:19.447673 [40865 10739128][VERB] Node  海豚湾 - Lil 新加坡04 | 倍率:2  has been added.
+2024/10/17 Thu 12:04:19.447712 [40865 10739128][VERB] Node  海豚湾 - Lil 新加坡05 | 倍率:2  has been added.
+2024/10/17 Thu 12:04:19.447751 [40865 10739128][VERB] Node  海豚湾 - Lil 日本01 | 倍率:1.5  has been added.
+2024/10/17 Thu 12:04:19.447792 [40865 10739128][VERB] Node  海豚湾 - Lil 日本02 | 倍率:1.3  has been added.
+2024/10/17 Thu 12:04:19.447836 [40865 10739128][VERB] Node  海豚湾 - Lil 日本03 | 倍率:1.3  has been added.
+2024/10/17 Thu 12:04:19.447878 [40865 10739128][VERB] Node  海豚湾 - Lil 日本04 | 倍率:1.3  has been added.
+2024/10/17 Thu 12:04:19.447907 [40865 10739128][VERB] Node  海豚湾 - Lil 日本05 | 倍率:1.3  has been added.
+2024/10/17 Thu 12:04:19.447934 [40865 10739128][VERB] Node  海豚湾 - Lil 日本06 | 倍率:2  has been added.
+2024/10/17 Thu 12:04:19.447961 [40865 10739128][VERB] Node  海豚湾 - Lil 泰国01 | 倍率:1.3  has been added.
+2024/10/17 Thu 12:04:19.447988 [40865 10739128][VERB] Node  海豚湾 - Lil 美国01 | 倍率:2.1  has been added.
+2024/10/17 Thu 12:04:19.448014 [40865 10739128][VERB] Node  海豚湾 - Lil 美国02 | 倍率:1.9  has been added.
+2024/10/17 Thu 12:04:19.448041 [40865 10739128][VERB] Node  海豚湾 - Lil 美国03 | 倍率:1.5  has been added.
+2024/10/17 Thu 12:04:19.448068 [40865 10739128][VERB] Node  海豚湾 - Lil 美国04 | 倍率:1.3  has been added.
+2024/10/17 Thu 12:04:19.448095 [40865 10739128][VERB] Node  海豚湾 - Lil 美国05 | 倍率:1.3  has been added.
+2024/10/17 Thu 12:04:19.448121 [40865 10739128][VERB] Node  海豚湾 - Lil 美国06 | 倍率:1.3  has been added.
+2024/10/17 Thu 12:04:19.448148 [40865 10739128][VERB] Node  海豚湾 - Lil 美国07 | 倍率:1.3  has been added.
+2024/10/17 Thu 12:04:19.448175 [40865 10739128][VERB] Node  海豚湾 - Lil 美国08 | 倍率:1.3  has been added.
+2024/10/17 Thu 12:04:19.448201 [40865 10739128][VERB] Node  海豚湾 - Lil 美国09 | 倍率:1.3  has been added.
+2024/10/17 Thu 12:04:19.448228 [40865 10739128][VERB] Node  海豚湾 - Lil 美国10 | 倍率:1.3  has been added.
+2024/10/17 Thu 12:04:19.448255 [40865 10739128][VERB] Node  海豚湾 - Lil 英国1 | 倍率:1.6  has been added.
+2024/10/17 Thu 12:04:19.448282 [40865 10739128][VERB] Node  海豚湾 - Lil 英国2 | 倍率:1.3  has been added.
+2024/10/17 Thu 12:04:19.448318 [40865 10739128][VERB] Node  海豚湾 - Lil 英国3 | 倍率:1.3  has been added.
+2024/10/17 Thu 12:04:19.448348 [40865 10739128][VERB] Node  海豚湾 - Lil 荷兰01 | 倍率:1.3  has been added.
+2024/10/17 Thu 12:04:19.448389 [40865 10739128][VERB] Node  海豚湾 - Lil 菲律宾01 | 倍率:1.5  has been added.
+2024/10/17 Thu 12:04:19.448427 [40865 10739128][VERB] Node  海豚湾 - Lil 西班牙01 | 倍率:1.5  has been added.
+2024/10/17 Thu 12:04:19.448464 [40865 10739128][VERB] Node  海豚湾 - Lil 阿根廷01 | 倍率:1.5  has been added.
+2024/10/17 Thu 12:04:19.448503 [40865 10739128][VERB] Node  海豚湾 - Lil 韩国01 | 倍率:1.5  has been added.
+2024/10/17 Thu 12:04:19.448545 [40865 10739128][VERB] Node  海豚湾 - Lil 韩国02 | 倍率:1.5  has been added.
+2024/10/17 Thu 12:04:19.448584 [40865 10739128][VERB] Node  海豚湾 - Lil 韩国03 | 倍率:1.5  has been added.
+2024/10/17 Thu 12:04:19.448622 [40865 10739128][VERB] Node  海豚湾 - Lil 韩国04 | 倍率:2  has been added.
+2024/10/17 Thu 12:04:19.448659 [40865 10739128][VERB] Node  海豚湾 - Lil 韩国05 | 倍率:2  has been added.
+2024/10/17 Thu 12:04:19.448698 [40865 10739128][VERB] Node  海豚湾 - Lil 香港01 | 倍率:1.8  has been added.
+2024/10/17 Thu 12:04:19.448736 [40865 10739128][VERB] Node  海豚湾 - Lil 香港02 | 倍率:1.8  has been added.
+2024/10/17 Thu 12:04:19.448775 [40865 10739128][VERB] Node  海豚湾 - Lil 香港03 | 倍率:1.6  has been added.
+2024/10/17 Thu 12:04:19.448815 [40865 10739128][VERB] Node  海豚湾 - Lil 香港04 | 倍率:1.6  has been added.
+2024/10/17 Thu 12:04:19.448854 [40865 10739128][VERB] Node  海豚湾 - Lil 香港05 | 倍率:1.5  has been added.
+2024/10/17 Thu 12:04:19.448892 [40865 10739128][VERB] Node  海豚湾 - Lil 香港06 | 倍率:1.5  has been added.
+2024/10/17 Thu 12:04:19.448933 [40865 10739128][VERB] Node  海豚湾 - Lil 香港07 | 倍率:1.5  has been added.
+2024/10/17 Thu 12:04:19.448973 [40865 10739128][VERB] Node  海豚湾 - Lil 香港08 | 倍率:1.5  has been added.
+2024/10/17 Thu 12:04:19.449013 [40865 10739128][VERB] Node  海豚湾 - Lil 香港09 | 倍率:1.6  has been added.
+2024/10/17 Thu 12:04:19.449055 [40865 10739128][VERB] Node  海豚湾 - Lil 香港10 | 倍率:1.6  has been added.
+2024/10/17 Thu 12:04:19.449094 [40865 10739128][VERB] Node  海豚湾 - Lil 香港11 | 倍率:2  has been added.
+2024/10/17 Thu 12:04:19.449136 [40865 10739128][VERB] Node  海豚湾 - Lil 香港12 | 倍率:2  has been added.
+2024/10/17 Thu 12:04:19.449169 [40865 10739128][VERB] Filter done.
+2024/10/17 Thu 12:04:19.451931 [40865 10739128][INFO] Generate target: Clash
+2024/10/17 Thu 12:04:19.584488 [40865 10739128][INFO] Generate completed.
+2024/10/17 Thu 12:04:19.647335 [40865 10739128][INFO] User Info for artifact 'test': Stream Used: 13.95 TB Stream Total: N/A Expiry Time: N/A
+2024/10/17 Thu 12:04:19.647392 [40865 10739128][INFO] Artifact 'test' generate SUCCESS!
+
+2024/10/17 Thu 12:04:19.647428 [40865 10739128][INFO] Generating artifact 'test_profile'...
+2024/10/17 Thu 12:04:19.692543 [40865 10739128][INFO] Trying to load profile 'profiles/example_profile.ini'.
+2024/10/17 Thu 12:04:19.692635 [40865 10739128][INFO] Trying to parse profile 'profiles/example_profile.ini'.
+2024/10/17 Thu 12:04:19.692819 [40865 10739128][VERB] Imported 0 item(s).
+2024/10/17 Thu 12:04:19.692895 [40865 10739128][INFO] Fetching node data from url 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYXNzd29yZA@www.example.com:1080#Example'.
+2024/10/17 Thu 12:04:19.694816 [40865 10739128][VERB] Received Link.
+2024/10/17 Thu 12:04:19.694961 [40865 10739128][INFO] Generate target: Clash
+2024/10/17 Thu 12:04:19.799013 [40865 10739128][INFO] Generate completed.
+2024/10/17 Thu 12:04:19.844533 [40865 10739128][INFO] Artifact 'test_profile' generate SUCCESS!
+
+2024/10/17 Thu 12:04:19.844607 [40865 10739128][INFO] All artifact generated. Exiting...
+2024/10/20 Sun 22:17:21.122689 [48081 10739128][INFO] SubConverter v0.7.2 starting up..
+]0;SubConverter v0.7.22024/10/20 Sun 22:17:21.146972 [48081 10739128][INFO] Reading preference settings...
+2024/10/20 Sun 22:17:21.197522 [48081 10739128][INFO] Updating ruleset url 'rules/LocalAreaNetwork.list' with group '🎯 全球直连'.
+2024/10/20 Sun 22:17:21.219621 [48081 10739128][INFO] Updating ruleset url 'rules/MSServices.list' with group 'Ⓜ️ 微软服务'.
+2024/10/20 Sun 22:17:21.235461 [48081 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Unbreak.list' with group '🎯 全球直连'.
+2024/10/20 Sun 22:17:21.260217 [48081 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/AdRule.list' with group '🛑 全球拦截'.
+2024/10/20 Sun 22:17:21.319955 [48081 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list' with group '🛑 全球拦截'.
+2024/10/20 Sun 22:17:21.356994 [48081 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list' with group '🎥 NETFLIX'.
+2024/10/20 Sun 22:17:21.376403 [48081 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list' with group '🌍 国外媒体'.
+2024/10/20 Sun 22:17:21.423596 [48081 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list' with group '🌏 国内媒体'.
+2024/10/20 Sun 22:17:21.466639 [48081 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list' with group '🌏 国内媒体'.
+2024/10/20 Sun 22:17:21.512537 [48081 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list' with group '🌏 国内媒体'.
+2024/10/20 Sun 22:17:21.560846 [48081 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list' with group '🌏 国内媒体'.
+2024/10/20 Sun 22:17:21.603282 [48081 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list' with group '🌏 国内媒体'.
+2024/10/20 Sun 22:17:21.639175 [48081 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list' with group '🌏 国内媒体'.
+2024/10/20 Sun 22:17:21.672887 [48081 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list' with group '📲 电报信息'.
+2024/10/20 Sun 22:17:21.724570 [48081 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Global.list' with group '🔰 节点选择'.
+2024/10/20 Sun 22:17:21.763658 [48081 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list' with group '🍎 苹果服务'.
+2024/10/20 Sun 22:17:21.810482 [48081 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/China.list' with group '🎯 全球直连'.
+2024/10/20 Sun 22:17:21.864490 [48081 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/Download.list' with group '🎯 全球直连'.
+2024/10/20 Sun 22:17:21.923462 [48081 10739128][INFO] Adding rule 'GEOIP,CN,🎯 全球直连'.
+2024/10/20 Sun 22:17:21.923573 [48081 10739128][INFO] Adding rule 'FINAL,🐟 漏网之鱼'.
+2024/10/20 Sun 22:17:21.923667 [48081 10739128][INFO] Reading generator configuration...
+2024/10/20 Sun 22:17:21.936472 [48081 10739128][INFO] Read generator configuration completed.
+
+2024/10/20 Sun 22:17:21.936516 [48081 10739128][INFO] Generating all artifacts...
+2024/10/20 Sun 22:17:21.936551 [48081 10739128][INFO] Generating artifact 'test'...
+2024/10/20 Sun 22:17:21.936687 [48081 10739128][VERB] Imported 0 item(s).
+2024/10/20 Sun 22:17:21.936805 [48081 10739128][INFO] Fetching node data from url '../../temp/clash.yaml'.
+2024/10/20 Sun 22:17:21.939063 [48081 10739128][VERB] Received Link.
+2024/10/20 Sun 22:17:21.939115 [48081 10739128][VERB] Parsing configuration file data...
+2024/10/20 Sun 22:17:21.952871 [48081 10739128][VERB] Node  海豚湾 - 官网地址 - https://hitun.io  has been ignored and will not be added.
+2024/10/20 Sun 22:17:21.952974 [48081 10739128][VERB] Node  海豚湾 - 剩余流量：29.79% 6.11TB  has been ignored and will not be added.
+2024/10/20 Sun 22:17:21.953071 [48081 10739128][VERB] Node  海豚湾 - 套餐时间：2025-04-06  has been ignored and will not be added.
+2024/10/20 Sun 22:17:21.953151 [48081 10739128][VERB] Node  海豚湾 - A应急续费使用 | 到期后可用5GB  has been ignored and will not be added.
+2024/10/20 Sun 22:17:21.953229 [48081 10739128][VERB] Node  海豚湾 - Game 台湾 | 遊戲專用 | 倍率:20  has been added.
+2024/10/20 Sun 22:17:21.953272 [48081 10739128][VERB] Node  海豚湾 - Game 日本 | 遊戲專用 | 倍率:20  has been added.
+2024/10/20 Sun 22:17:21.953313 [48081 10739128][VERB] Node  海豚湾 - Game 香港 | 遊戲專用 | 倍率:20  has been added.
+2024/10/20 Sun 22:17:21.953352 [48081 10739128][VERB] Node  海豚湾 - Large 台湾01  has been added.
+2024/10/20 Sun 22:17:21.953525 [48081 10739128][VERB] Node  海豚湾 - Large 台湾02  has been added.
+2024/10/20 Sun 22:17:21.953567 [48081 10739128][VERB] Node  海豚湾 - Large 台湾03  has been added.
+2024/10/20 Sun 22:17:21.953612 [48081 10739128][VERB] Node  海豚湾 - Large 台湾04  has been added.
+2024/10/20 Sun 22:17:21.953652 [48081 10739128][VERB] Node  海豚湾 - Large 台湾05  has been added.
+2024/10/20 Sun 22:17:21.953691 [48081 10739128][VERB] Node  海豚湾 - Large 台湾06  has been added.
+2024/10/20 Sun 22:17:21.953819 [48081 10739128][VERB] Node  海豚湾 - Large 墨西哥01 | 倍率:1.5  has been added.
+2024/10/20 Sun 22:17:21.953866 [48081 10739128][VERB] Node  海豚湾 - Large 新加坡01 | 倍率:1.5  has been added.
+2024/10/20 Sun 22:17:21.953907 [48081 10739128][VERB] Node  海豚湾 - Large 新加坡02 | 倍率:1.5  has been added.
+2024/10/20 Sun 22:17:21.953948 [48081 10739128][VERB] Node  海豚湾 - Large 新加坡03 | 倍率:1.6  has been added.
+2024/10/20 Sun 22:17:21.953989 [48081 10739128][VERB] Node  海豚湾 - Large 新加坡04 | 倍率:1.6  has been added.
+2024/10/20 Sun 22:17:21.954030 [48081 10739128][VERB] Node  海豚湾 - Large 新加坡05 | 倍率:1.5  has been added.
+2024/10/20 Sun 22:17:21.954071 [48081 10739128][VERB] Node  海豚湾 - Large 新加坡06 | 倍率:1.5  has been added.
+2024/10/20 Sun 22:17:21.954111 [48081 10739128][VERB] Node  海豚湾 - Large 新加坡07 | 倍率:1.5  has been added.
+2024/10/20 Sun 22:17:21.954157 [48081 10739128][VERB] Node  海豚湾 - Large 新加坡08 | 倍率:1.5  has been added.
+2024/10/20 Sun 22:17:21.954197 [48081 10739128][VERB] Node  海豚湾 - Large 新加坡09 | 倍率:1.5  has been added.
+2024/10/20 Sun 22:17:21.954238 [48081 10739128][VERB] Node  海豚湾 - Large 新加坡10 | 倍率:1.5  has been added.
+2024/10/20 Sun 22:17:21.954283 [48081 10739128][VERB] Node  海豚湾 - Large 日本01 | 倍率:1.5  has been added.
+2024/10/20 Sun 22:17:21.954324 [48081 10739128][VERB] Node  海豚湾 - Large 日本02 | 倍率:1.5  has been added.
+2024/10/20 Sun 22:17:21.954364 [48081 10739128][VERB] Node  海豚湾 - Large 日本03 | 倍率:1.5  has been added.
+2024/10/20 Sun 22:17:21.954409 [48081 10739128][VERB] Node  海豚湾 - Large 日本04 | 倍率:1.3  has been added.
+2024/10/20 Sun 22:17:21.954450 [48081 10739128][VERB] Node  海豚湾 - Large 日本05 | 倍率:1.3  has been added.
+2024/10/20 Sun 22:17:21.954490 [48081 10739128][VERB] Node  海豚湾 - Large 澳洲01 | 倍率:1.6  has been added.
+2024/10/20 Sun 22:17:21.954536 [48081 10739128][VERB] Node  海豚湾 - Large 澳洲02 | 倍率:1.6  has been added.
+2024/10/20 Sun 22:17:21.954576 [48081 10739128][VERB] Node  海豚湾 - Large 美国01 | 倍率:2  has been added.
+2024/10/20 Sun 22:17:21.954617 [48081 10739128][VERB] Node  海豚湾 - Large 美国02 | 倍率:1.8  has been added.
+2024/10/20 Sun 22:17:21.954755 [48081 10739128][VERB] Node  海豚湾 - Large 美国03 | 倍率:1.6  has been added.
+2024/10/20 Sun 22:17:21.954797 [48081 10739128][VERB] Node  海豚湾 - Large 美国04 | 倍率:1.5  has been added.
+2024/10/20 Sun 22:17:21.954837 [48081 10739128][VERB] Node  海豚湾 - Large 美国05 | 倍率:1.5  has been added.
+2024/10/20 Sun 22:17:21.954882 [48081 10739128][VERB] Node  海豚湾 - Large 美国06 | 倍率:1.7  has been added.
+2024/10/20 Sun 22:17:21.954928 [48081 10739128][VERB] Node  海豚湾 - Large 韩国01 | 倍率:1.6  has been added.
+2024/10/20 Sun 22:17:21.955133 [48081 10739128][VERB] Node  海豚湾 - Large 韩国02 | 倍率:1.6  has been added.
+2024/10/20 Sun 22:17:21.955180 [48081 10739128][VERB] Node  海豚湾 - Large 香港01 | 倍率:2  has been added.
+2024/10/20 Sun 22:17:21.955225 [48081 10739128][VERB] Node  海豚湾 - Large 香港02 | 倍率:2  has been added.
+2024/10/20 Sun 22:17:21.955265 [48081 10739128][VERB] Node  海豚湾 - Large 香港03 | 倍率:2  has been added.
+2024/10/20 Sun 22:17:21.955306 [48081 10739128][VERB] Node  海豚湾 - Large 香港04 | 倍率:1.9  has been added.
+2024/10/20 Sun 22:17:21.955351 [48081 10739128][VERB] Node  海豚湾 - Large 香港05 | 倍率:1.8  has been added.
+2024/10/20 Sun 22:17:21.955391 [48081 10739128][VERB] Node  海豚湾 - Large 香港06 | 倍率:2  has been added.
+2024/10/20 Sun 22:17:21.955574 [48081 10739128][VERB] Node  海豚湾 - Large 香港07 | 倍率:1.8  has been added.
+2024/10/20 Sun 22:17:21.955617 [48081 10739128][VERB] Node  海豚湾 - Large 香港08 | 倍率:1.6  has been added.
+2024/10/20 Sun 22:17:21.955657 [48081 10739128][VERB] Node  海豚湾 - Large 香港09 | 倍率:1.6  has been added.
+2024/10/20 Sun 22:17:21.955839 [48081 10739128][VERB] Node  海豚湾 - Large 香港10 | 倍率:1.6  has been added.
+2024/10/20 Sun 22:17:21.955887 [48081 10739128][VERB] Node  海豚湾 - Large 香港11 | 倍率:1.6  has been added.
+2024/10/20 Sun 22:17:21.955934 [48081 10739128][VERB] Node  海豚湾 - Large 香港12 | 倍率:1.6  has been added.
+2024/10/20 Sun 22:17:21.955975 [48081 10739128][VERB] Node  海豚湾 - Large 香港13 | 倍率:1.6  has been added.
+2024/10/20 Sun 22:17:21.956015 [48081 10739128][VERB] Node  海豚湾 - Large 香港14 | 倍率:1.6  has been added.
+2024/10/20 Sun 22:17:21.956059 [48081 10739128][VERB] Node  海豚湾 - Large 香港15 | 倍率:1.6  has been added.
+2024/10/20 Sun 22:17:21.956099 [48081 10739128][VERB] Node  海豚湾 - Large 香港16 | 倍率:1.6  has been added.
+2024/10/20 Sun 22:17:21.956139 [48081 10739128][VERB] Node  海豚湾 - Large 香港17 | 倍率:1.8  has been added.
+2024/10/20 Sun 22:17:21.956184 [48081 10739128][VERB] Node  海豚湾 - Large 香港18 | 倍率:1.8  has been added.
+2024/10/20 Sun 22:17:21.956224 [48081 10739128][VERB] Node  海豚湾 - Large 香港19 | 倍率:1.6  has been added.
+2024/10/20 Sun 22:17:21.956264 [48081 10739128][VERB] Node  海豚湾 - Large 香港20 | 倍率:1.6  has been added.
+2024/10/20 Sun 22:17:21.956304 [48081 10739128][VERB] Node  海豚湾 - Large 香港21 | 倍率:1.6  has been added.
+2024/10/20 Sun 22:17:21.956463 [48081 10739128][VERB] Node  海豚湾 - Lil 俄罗斯01 | 倍率:1.3  has been added.
+2024/10/20 Sun 22:17:21.956505 [48081 10739128][VERB] Node  海豚湾 - Lil 加拿大1 | 倍率:1.3  has been added.
+2024/10/20 Sun 22:17:21.956797 [48081 10739128][VERB] Node  海豚湾 - Lil 印度01 | 倍率:1.3  has been added.
+2024/10/20 Sun 22:17:21.956846 [48081 10739128][VERB] Node  海豚湾 - Lil 印度02 | 倍率:1.3  has been added.
+2024/10/20 Sun 22:17:21.956887 [48081 10739128][VERB] Node  海豚湾 - Lil 台湾01 | 倍率:1.5  has been added.
+2024/10/20 Sun 22:17:21.956932 [48081 10739128][VERB] Node  海豚湾 - Lil 台湾02 | 倍率:1.3  has been added.
+2024/10/20 Sun 22:17:21.956972 [48081 10739128][VERB] Node  海豚湾 - Lil 台湾03 | 倍率:1.3  has been added.
+2024/10/20 Sun 22:17:21.957013 [48081 10739128][VERB] Node  海豚湾 - Lil 台湾04 | 倍率:1.3  has been added.
+2024/10/20 Sun 22:17:21.957289 [48081 10739128][VERB] Node  海豚湾 - Lil 台湾05 | 倍率:1.3  has been added.
+2024/10/20 Sun 22:17:21.957337 [48081 10739128][VERB] Node  海豚湾 - Lil 台湾06 | 倍率:1.3  has been added.
+2024/10/20 Sun 22:17:21.957378 [48081 10739128][VERB] Node  海豚湾 - Lil 土耳其01 | 倍率:1.5  has been added.
+2024/10/20 Sun 22:17:21.957419 [48081 10739128][VERB] Node  海豚湾 - Lil 巴西1 | 倍率:1.5  has been added.
+2024/10/20 Sun 22:17:21.957792 [48081 10739128][VERB] Node  海豚湾 - Lil 德国1 | 倍率:1.3  has been added.
+2024/10/20 Sun 22:17:21.957834 [48081 10739128][VERB] Node  海豚湾 - Lil 德国2 | 倍率:1.3  has been added.
+2024/10/20 Sun 22:17:21.957875 [48081 10739128][VERB] Node  海豚湾 - Lil 德国3 | 倍率:1.3  has been added.
+2024/10/20 Sun 22:17:21.957921 [48081 10739128][VERB] Node  海豚湾 - Lil 新加坡01 | 倍率:1.5  has been added.
+2024/10/20 Sun 22:17:21.957962 [48081 10739128][VERB] Node  海豚湾 - Lil 新加坡02 | 倍率:1.5  has been added.
+2024/10/20 Sun 22:17:21.958098 [48081 10739128][VERB] Node  海豚湾 - Lil 新加坡03 | 倍率:1.5  has been added.
+2024/10/20 Sun 22:17:21.958142 [48081 10739128][VERB] Node  海豚湾 - Lil 新加坡04 | 倍率:2  has been added.
+2024/10/20 Sun 22:17:21.958182 [48081 10739128][VERB] Node  海豚湾 - Lil 新加坡05 | 倍率:2  has been added.
+2024/10/20 Sun 22:17:21.958223 [48081 10739128][VERB] Node  海豚湾 - Lil 日本01 | 倍率:1.5  has been added.
+2024/10/20 Sun 22:17:21.958268 [48081 10739128][VERB] Node  海豚湾 - Lil 日本02 | 倍率:1.3  has been added.
+2024/10/20 Sun 22:17:21.958308 [48081 10739128][VERB] Node  海豚湾 - Lil 日本03 | 倍率:1.3  has been added.
+2024/10/20 Sun 22:17:21.958348 [48081 10739128][VERB] Node  海豚湾 - Lil 日本04 | 倍率:1.3  has been added.
+2024/10/20 Sun 22:17:21.958506 [48081 10739128][VERB] Node  海豚湾 - Lil 日本05 | 倍率:1.3  has been added.
+2024/10/20 Sun 22:17:21.958547 [48081 10739128][VERB] Node  海豚湾 - Lil 日本06 | 倍率:2  has been added.
+2024/10/20 Sun 22:17:21.958704 [48081 10739128][VERB] Node  海豚湾 - Lil 泰国01 | 倍率:1.3  has been added.
+2024/10/20 Sun 22:17:21.958750 [48081 10739128][VERB] Node  海豚湾 - Lil 美国01 | 倍率:2.1  has been added.
+2024/10/20 Sun 22:17:21.958790 [48081 10739128][VERB] Node  海豚湾 - Lil 美国02 | 倍率:1.9  has been added.
+2024/10/20 Sun 22:17:21.958830 [48081 10739128][VERB] Node  海豚湾 - Lil 美国03 | 倍率:1.5  has been added.
+2024/10/20 Sun 22:17:21.958874 [48081 10739128][VERB] Node  海豚湾 - Lil 美国04 | 倍率:1.3  has been added.
+2024/10/20 Sun 22:17:21.958914 [48081 10739128][VERB] Node  海豚湾 - Lil 美国05 | 倍率:1.3  has been added.
+2024/10/20 Sun 22:17:21.959042 [48081 10739128][VERB] Node  海豚湾 - Lil 美国06 | 倍率:1.3  has been added.
+2024/10/20 Sun 22:17:21.959087 [48081 10739128][VERB] Node  海豚湾 - Lil 美国07 | 倍率:1.3  has been added.
+2024/10/20 Sun 22:17:21.959133 [48081 10739128][VERB] Node  海豚湾 - Lil 美国08 | 倍率:1.3  has been added.
+2024/10/20 Sun 22:17:21.959174 [48081 10739128][VERB] Node  海豚湾 - Lil 美国09 | 倍率:1.3  has been added.
+2024/10/20 Sun 22:17:21.959340 [48081 10739128][VERB] Node  海豚湾 - Lil 美国10 | 倍率:1.3  has been added.
+2024/10/20 Sun 22:17:21.959382 [48081 10739128][VERB] Node  海豚湾 - Lil 英国1 | 倍率:1.6  has been added.
+2024/10/20 Sun 22:17:21.959423 [48081 10739128][VERB] Node  海豚湾 - Lil 英国2 | 倍率:1.3  has been added.
+2024/10/20 Sun 22:17:21.959583 [48081 10739128][VERB] Node  海豚湾 - Lil 英国3 | 倍率:1.3  has been added.
+2024/10/20 Sun 22:17:21.959625 [48081 10739128][VERB] Node  海豚湾 - Lil 荷兰01 | 倍率:1.3  has been added.
+2024/10/20 Sun 22:17:21.959666 [48081 10739128][VERB] Node  海豚湾 - Lil 菲律宾01 | 倍率:1.5  has been added.
+2024/10/20 Sun 22:17:21.959779 [48081 10739128][VERB] Node  海豚湾 - Lil 西班牙01 | 倍率:1.5  has been added.
+2024/10/20 Sun 22:17:21.959821 [48081 10739128][VERB] Node  海豚湾 - Lil 阿根廷01 | 倍率:1.5  has been added.
+2024/10/20 Sun 22:17:21.959862 [48081 10739128][VERB] Node  海豚湾 - Lil 韩国01 | 倍率:1.5  has been added.
+2024/10/20 Sun 22:17:21.960040 [48081 10739128][VERB] Node  海豚湾 - Lil 韩国02 | 倍率:1.5  has been added.
+2024/10/20 Sun 22:17:21.960084 [48081 10739128][VERB] Node  海豚湾 - Lil 韩国03 | 倍率:1.5  has been added.
+2024/10/20 Sun 22:17:21.960128 [48081 10739128][VERB] Node  海豚湾 - Lil 韩国04 | 倍率:2  has been added.
+2024/10/20 Sun 22:17:21.960168 [48081 10739128][VERB] Node  海豚湾 - Lil 韩国05 | 倍率:2  has been added.
+2024/10/20 Sun 22:17:21.960208 [48081 10739128][VERB] Node  海豚湾 - Lil 香港01 | 倍率:1.8  has been added.
+2024/10/20 Sun 22:17:21.960249 [48081 10739128][VERB] Node  海豚湾 - Lil 香港02 | 倍率:1.8  has been added.
+2024/10/20 Sun 22:17:21.960289 [48081 10739128][VERB] Node  海豚湾 - Lil 香港03 | 倍率:1.6  has been added.
+2024/10/20 Sun 22:17:21.960329 [48081 10739128][VERB] Node  海豚湾 - Lil 香港04 | 倍率:1.6  has been added.
+2024/10/20 Sun 22:17:21.960369 [48081 10739128][VERB] Node  海豚湾 - Lil 香港05 | 倍率:1.5  has been added.
+2024/10/20 Sun 22:17:21.960409 [48081 10739128][VERB] Node  海豚湾 - Lil 香港06 | 倍率:1.5  has been added.
+2024/10/20 Sun 22:17:21.960449 [48081 10739128][VERB] Node  海豚湾 - Lil 香港07 | 倍率:1.5  has been added.
+2024/10/20 Sun 22:17:21.960489 [48081 10739128][VERB] Node  海豚湾 - Lil 香港08 | 倍率:1.5  has been added.
+2024/10/20 Sun 22:17:21.960529 [48081 10739128][VERB] Node  海豚湾 - Lil 香港09 | 倍率:1.6  has been added.
+2024/10/20 Sun 22:17:21.960569 [48081 10739128][VERB] Node  海豚湾 - Lil 香港10 | 倍率:1.6  has been added.
+2024/10/20 Sun 22:17:21.960610 [48081 10739128][VERB] Node  海豚湾 - Lil 香港11 | 倍率:2  has been added.
+2024/10/20 Sun 22:17:21.960650 [48081 10739128][VERB] Node  海豚湾 - Lil 香港12 | 倍率:2  has been added.
+2024/10/20 Sun 22:17:21.960682 [48081 10739128][VERB] Filter done.
+2024/10/20 Sun 22:17:21.963519 [48081 10739128][INFO] Generate target: Clash
+2024/10/20 Sun 22:17:22.067558 [48081 10739128][INFO] Generate completed.
+2024/10/20 Sun 22:17:22.102937 [48081 10739128][INFO] User Info for artifact 'test': Stream Used: 14.40 TB Stream Total: N/A Expiry Time: N/A
+2024/10/20 Sun 22:17:22.102980 [48081 10739128][INFO] Artifact 'test' generate SUCCESS!
+
+2024/10/20 Sun 22:17:22.103014 [48081 10739128][INFO] Generating artifact 'test_profile'...
+2024/10/20 Sun 22:17:22.116459 [48081 10739128][INFO] Trying to load profile 'profiles/example_profile.ini'.
+2024/10/20 Sun 22:17:22.116521 [48081 10739128][INFO] Trying to parse profile 'profiles/example_profile.ini'.
+2024/10/20 Sun 22:17:22.116687 [48081 10739128][VERB] Imported 0 item(s).
+2024/10/20 Sun 22:17:22.116746 [48081 10739128][INFO] Fetching node data from url 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYXNzd29yZA@www.example.com:1080#Example'.
+2024/10/20 Sun 22:17:22.118706 [48081 10739128][VERB] Received Link.
+2024/10/20 Sun 22:17:22.118835 [48081 10739128][INFO] Generate target: Clash
+2024/10/20 Sun 22:17:22.164167 [48081 10739128][INFO] Generate completed.
+2024/10/20 Sun 22:17:22.169541 [48081 10739128][INFO] Artifact 'test_profile' generate SUCCESS!
+
+2024/10/20 Sun 22:17:22.169584 [48081 10739128][INFO] All artifact generated. Exiting...
+2024/10/21 Mon 22:24:08.054763 [9756 10739128][INFO] SubConverter v0.7.2 starting up..
+]0;SubConverter v0.7.22024/10/21 Mon 22:24:08.060403 [9756 10739128][INFO] Reading preference settings...
+2024/10/21 Mon 22:24:08.227491 [9756 10739128][INFO] Updating ruleset url 'rules/LocalAreaNetwork.list' with group '🎯 全球直连'.
+2024/10/21 Mon 22:24:08.342626 [9756 10739128][INFO] Updating ruleset url 'rules/MSServices.list' with group 'Ⓜ️ 微软服务'.
+2024/10/21 Mon 22:24:08.394233 [9756 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Unbreak.list' with group '🎯 全球直连'.
+2024/10/21 Mon 22:24:08.422761 [9756 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/AdRule.list' with group '🛑 全球拦截'.
+2024/10/21 Mon 22:24:08.509946 [9756 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list' with group '🛑 全球拦截'.
+2024/10/21 Mon 22:24:08.618502 [9756 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list' with group '🎥 NETFLIX'.
+2024/10/21 Mon 22:24:08.725378 [9756 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list' with group '🌍 国外媒体'.
+2024/10/21 Mon 22:24:08.741309 [9756 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list' with group '🌏 国内媒体'.
+2024/10/21 Mon 22:24:08.948573 [9756 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list' with group '🌏 国内媒体'.
+2024/10/21 Mon 22:24:08.970274 [9756 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list' with group '🌏 国内媒体'.
+2024/10/21 Mon 22:24:08.973505 [9756 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list' with group '🌏 国内媒体'.
+2024/10/21 Mon 22:24:08.976119 [9756 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list' with group '🌏 国内媒体'.
+2024/10/21 Mon 22:24:08.978304 [9756 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list' with group '🌏 国内媒体'.
+2024/10/21 Mon 22:24:08.980774 [9756 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list' with group '📲 电报信息'.
+2024/10/21 Mon 22:24:09.008500 [9756 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Global.list' with group '🔰 节点选择'.
+2024/10/21 Mon 22:24:09.012751 [9756 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list' with group '🍎 苹果服务'.
+2024/10/21 Mon 22:24:09.051837 [9756 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/China.list' with group '🎯 全球直连'.
+2024/10/21 Mon 22:24:09.060409 [9756 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/Download.list' with group '🎯 全球直连'.
+2024/10/21 Mon 22:24:09.134080 [9756 10739128][INFO] Adding rule 'GEOIP,CN,🎯 全球直连'.
+2024/10/21 Mon 22:24:09.134175 [9756 10739128][INFO] Adding rule 'FINAL,🐟 漏网之鱼'.
+2024/10/21 Mon 22:24:09.135962 [9756 10739128][INFO] Reading generator configuration...
+2024/10/21 Mon 22:24:09.147465 [9756 10739128][INFO] Read generator configuration completed.
+
+2024/10/21 Mon 22:24:09.147496 [9756 10739128][INFO] Generating all artifacts...
+2024/10/21 Mon 22:24:09.147520 [9756 10739128][INFO] Generating artifact 'test'...
+2024/10/21 Mon 22:24:09.147612 [9756 10739128][VERB] Imported 0 item(s).
+2024/10/21 Mon 22:24:09.147697 [9756 10739128][INFO] Fetching node data from url '../../temp/clash.yaml'.
+2024/10/21 Mon 22:24:09.149161 [9756 10739128][VERB] Received Link.
+2024/10/21 Mon 22:24:09.149200 [9756 10739128][VERB] Parsing configuration file data...
+2024/10/21 Mon 22:24:09.156747 [9756 10739128][VERB] Node  海豚湾 - 官网地址 - https://hitun.io  has been ignored and will not be added.
+2024/10/21 Mon 22:24:09.156810 [9756 10739128][VERB] Node  海豚湾 - 剩余流量：29.64% 6.08TB  has been ignored and will not be added.
+2024/10/21 Mon 22:24:09.156861 [9756 10739128][VERB] Node  海豚湾 - 套餐时间：2025-04-06  has been ignored and will not be added.
+2024/10/21 Mon 22:24:09.156911 [9756 10739128][VERB] Node  海豚湾 - A应急续费使用 | 到期后可用5GB  has been ignored and will not be added.
+2024/10/21 Mon 22:24:09.156961 [9756 10739128][VERB] Node  海豚湾 - Game 台湾 | 遊戲專用 | 倍率:20  has been added.
+2024/10/21 Mon 22:24:09.156990 [9756 10739128][VERB] Node  海豚湾 - Game 日本 | 遊戲專用 | 倍率:20  has been added.
+2024/10/21 Mon 22:24:09.157018 [9756 10739128][VERB] Node  海豚湾 - Game 香港 | 遊戲專用 | 倍率:20  has been added.
+2024/10/21 Mon 22:24:09.157046 [9756 10739128][VERB] Node  海豚湾 - Large 台湾01  has been added.
+2024/10/21 Mon 22:24:09.157073 [9756 10739128][VERB] Node  海豚湾 - Large 台湾02  has been added.
+2024/10/21 Mon 22:24:09.157101 [9756 10739128][VERB] Node  海豚湾 - Large 台湾03  has been added.
+2024/10/21 Mon 22:24:09.157128 [9756 10739128][VERB] Node  海豚湾 - Large 台湾04  has been added.
+2024/10/21 Mon 22:24:09.157161 [9756 10739128][VERB] Node  海豚湾 - Large 台湾05  has been added.
+2024/10/21 Mon 22:24:09.157188 [9756 10739128][VERB] Node  海豚湾 - Large 台湾06  has been added.
+2024/10/21 Mon 22:24:09.157216 [9756 10739128][VERB] Node  海豚湾 - Large 墨西哥01 | 倍率:1.5  has been added.
+2024/10/21 Mon 22:24:09.157243 [9756 10739128][VERB] Node  海豚湾 - Large 新加坡01 | 倍率:1.5  has been added.
+2024/10/21 Mon 22:24:09.157271 [9756 10739128][VERB] Node  海豚湾 - Large 新加坡02 | 倍率:1.5  has been added.
+2024/10/21 Mon 22:24:09.157298 [9756 10739128][VERB] Node  海豚湾 - Large 新加坡03 | 倍率:1.6  has been added.
+2024/10/21 Mon 22:24:09.157326 [9756 10739128][VERB] Node  海豚湾 - Large 新加坡04 | 倍率:1.6  has been added.
+2024/10/21 Mon 22:24:09.157353 [9756 10739128][VERB] Node  海豚湾 - Large 新加坡05 | 倍率:1.5  has been added.
+2024/10/21 Mon 22:24:09.157381 [9756 10739128][VERB] Node  海豚湾 - Large 新加坡06 | 倍率:1.5  has been added.
+2024/10/21 Mon 22:24:09.157409 [9756 10739128][VERB] Node  海豚湾 - Large 新加坡07 | 倍率:1.5  has been added.
+2024/10/21 Mon 22:24:09.157436 [9756 10739128][VERB] Node  海豚湾 - Large 新加坡08 | 倍率:1.5  has been added.
+2024/10/21 Mon 22:24:09.157464 [9756 10739128][VERB] Node  海豚湾 - Large 新加坡09 | 倍率:1.5  has been added.
+2024/10/21 Mon 22:24:09.157491 [9756 10739128][VERB] Node  海豚湾 - Large 新加坡10 | 倍率:1.5  has been added.
+2024/10/21 Mon 22:24:09.157518 [9756 10739128][VERB] Node  海豚湾 - Large 日本01 | 倍率:1.5  has been added.
+2024/10/21 Mon 22:24:09.157546 [9756 10739128][VERB] Node  海豚湾 - Large 日本02 | 倍率:1.5  has been added.
+2024/10/21 Mon 22:24:09.157573 [9756 10739128][VERB] Node  海豚湾 - Large 日本03 | 倍率:1.5  has been added.
+2024/10/21 Mon 22:24:09.157600 [9756 10739128][VERB] Node  海豚湾 - Large 日本04 | 倍率:1.3  has been added.
+2024/10/21 Mon 22:24:09.157628 [9756 10739128][VERB] Node  海豚湾 - Large 日本05 | 倍率:1.3  has been added.
+2024/10/21 Mon 22:24:09.157655 [9756 10739128][VERB] Node  海豚湾 - Large 澳洲01 | 倍率:1.6  has been added.
+2024/10/21 Mon 22:24:09.157682 [9756 10739128][VERB] Node  海豚湾 - Large 澳洲02 | 倍率:1.6  has been added.
+2024/10/21 Mon 22:24:09.157710 [9756 10739128][VERB] Node  海豚湾 - Large 美国01 | 倍率:2  has been added.
+2024/10/21 Mon 22:24:09.157737 [9756 10739128][VERB] Node  海豚湾 - Large 美国02 | 倍率:1.8  has been added.
+2024/10/21 Mon 22:24:09.157764 [9756 10739128][VERB] Node  海豚湾 - Large 美国03 | 倍率:1.6  has been added.
+2024/10/21 Mon 22:24:09.157791 [9756 10739128][VERB] Node  海豚湾 - Large 美国04 | 倍率:1.5  has been added.
+2024/10/21 Mon 22:24:09.157818 [9756 10739128][VERB] Node  海豚湾 - Large 美国05 | 倍率:1.5  has been added.
+2024/10/21 Mon 22:24:09.157846 [9756 10739128][VERB] Node  海豚湾 - Large 美国06 | 倍率:1.7  has been added.
+2024/10/21 Mon 22:24:09.157873 [9756 10739128][VERB] Node  海豚湾 - Large 韩国01 | 倍率:1.6  has been added.
+2024/10/21 Mon 22:24:09.157900 [9756 10739128][VERB] Node  海豚湾 - Large 韩国02 | 倍率:1.6  has been added.
+2024/10/21 Mon 22:24:09.157927 [9756 10739128][VERB] Node  海豚湾 - Large 香港01 | 倍率:2  has been added.
+2024/10/21 Mon 22:24:09.157954 [9756 10739128][VERB] Node  海豚湾 - Large 香港02 | 倍率:2  has been added.
+2024/10/21 Mon 22:24:09.157981 [9756 10739128][VERB] Node  海豚湾 - Large 香港03 | 倍率:2  has been added.
+2024/10/21 Mon 22:24:09.158008 [9756 10739128][VERB] Node  海豚湾 - Large 香港04 | 倍率:1.9  has been added.
+2024/10/21 Mon 22:24:09.158035 [9756 10739128][VERB] Node  海豚湾 - Large 香港05 | 倍率:1.8  has been added.
+2024/10/21 Mon 22:24:09.158063 [9756 10739128][VERB] Node  海豚湾 - Large 香港06 | 倍率:2  has been added.
+2024/10/21 Mon 22:24:09.158090 [9756 10739128][VERB] Node  海豚湾 - Large 香港07 | 倍率:1.8  has been added.
+2024/10/21 Mon 22:24:09.158120 [9756 10739128][VERB] Node  海豚湾 - Large 香港08 | 倍率:1.6  has been added.
+2024/10/21 Mon 22:24:09.158147 [9756 10739128][VERB] Node  海豚湾 - Large 香港09 | 倍率:1.6  has been added.
+2024/10/21 Mon 22:24:09.158174 [9756 10739128][VERB] Node  海豚湾 - Large 香港10 | 倍率:1.6  has been added.
+2024/10/21 Mon 22:24:09.158201 [9756 10739128][VERB] Node  海豚湾 - Large 香港11 | 倍率:1.6  has been added.
+2024/10/21 Mon 22:24:09.158228 [9756 10739128][VERB] Node  海豚湾 - Large 香港12 | 倍率:1.6  has been added.
+2024/10/21 Mon 22:24:09.158255 [9756 10739128][VERB] Node  海豚湾 - Large 香港13 | 倍率:1.6  has been added.
+2024/10/21 Mon 22:24:09.158282 [9756 10739128][VERB] Node  海豚湾 - Large 香港14 | 倍率:1.6  has been added.
+2024/10/21 Mon 22:24:09.158310 [9756 10739128][VERB] Node  海豚湾 - Large 香港15 | 倍率:1.6  has been added.
+2024/10/21 Mon 22:24:09.158337 [9756 10739128][VERB] Node  海豚湾 - Large 香港16 | 倍率:1.6  has been added.
+2024/10/21 Mon 22:24:09.158364 [9756 10739128][VERB] Node  海豚湾 - Large 香港17 | 倍率:1.8  has been added.
+2024/10/21 Mon 22:24:09.158391 [9756 10739128][VERB] Node  海豚湾 - Large 香港18 | 倍率:1.8  has been added.
+2024/10/21 Mon 22:24:09.158418 [9756 10739128][VERB] Node  海豚湾 - Large 香港19 | 倍率:1.6  has been added.
+2024/10/21 Mon 22:24:09.158445 [9756 10739128][VERB] Node  海豚湾 - Large 香港20 | 倍率:1.6  has been added.
+2024/10/21 Mon 22:24:09.158472 [9756 10739128][VERB] Node  海豚湾 - Large 香港21 | 倍率:1.6  has been added.
+2024/10/21 Mon 22:24:09.158500 [9756 10739128][VERB] Node  海豚湾 - Lil 俄罗斯01 | 倍率:1.3  has been added.
+2024/10/21 Mon 22:24:09.158527 [9756 10739128][VERB] Node  海豚湾 - Lil 加拿大1 | 倍率:1.3  has been added.
+2024/10/21 Mon 22:24:09.158555 [9756 10739128][VERB] Node  海豚湾 - Lil 印度01 | 倍率:1.3  has been added.
+2024/10/21 Mon 22:24:09.158592 [9756 10739128][VERB] Node  海豚湾 - Lil 印度02 | 倍率:1.3  has been added.
+2024/10/21 Mon 22:24:09.158627 [9756 10739128][VERB] Node  海豚湾 - Lil 台湾01 | 倍率:1.5  has been added.
+2024/10/21 Mon 22:24:09.158655 [9756 10739128][VERB] Node  海豚湾 - Lil 台湾02 | 倍率:1.3  has been added.
+2024/10/21 Mon 22:24:09.158688 [9756 10739128][VERB] Node  海豚湾 - Lil 台湾03 | 倍率:1.3  has been added.
+2024/10/21 Mon 22:24:09.158725 [9756 10739128][VERB] Node  海豚湾 - Lil 台湾04 | 倍率:1.3  has been added.
+2024/10/21 Mon 22:24:09.158783 [9756 10739128][VERB] Node  海豚湾 - Lil 台湾05 | 倍率:1.3  has been added.
+2024/10/21 Mon 22:24:09.158811 [9756 10739128][VERB] Node  海豚湾 - Lil 台湾06 | 倍率:1.3  has been added.
+2024/10/21 Mon 22:24:09.158850 [9756 10739128][VERB] Node  海豚湾 - Lil 土耳其01 | 倍率:1.5  has been added.
+2024/10/21 Mon 22:24:09.158877 [9756 10739128][VERB] Node  海豚湾 - Lil 巴西1 | 倍率:1.5  has been added.
+2024/10/21 Mon 22:24:09.158904 [9756 10739128][VERB] Node  海豚湾 - Lil 德国1 | 倍率:1.3  has been added.
+2024/10/21 Mon 22:24:09.158931 [9756 10739128][VERB] Node  海豚湾 - Lil 德国2 | 倍率:1.3  has been added.
+2024/10/21 Mon 22:24:09.158959 [9756 10739128][VERB] Node  海豚湾 - Lil 德国3 | 倍率:1.3  has been added.
+2024/10/21 Mon 22:24:09.158986 [9756 10739128][VERB] Node  海豚湾 - Lil 新加坡01 | 倍率:1.5  has been added.
+2024/10/21 Mon 22:24:09.159014 [9756 10739128][VERB] Node  海豚湾 - Lil 新加坡02 | 倍率:1.5  has been added.
+2024/10/21 Mon 22:24:09.159042 [9756 10739128][VERB] Node  海豚湾 - Lil 新加坡03 | 倍率:1.5  has been added.
+2024/10/21 Mon 22:24:09.159069 [9756 10739128][VERB] Node  海豚湾 - Lil 新加坡04 | 倍率:2  has been added.
+2024/10/21 Mon 22:24:09.159097 [9756 10739128][VERB] Node  海豚湾 - Lil 新加坡05 | 倍率:2  has been added.
+2024/10/21 Mon 22:24:09.159139 [9756 10739128][VERB] Node  海豚湾 - Lil 日本01 | 倍率:1.5  has been added.
+2024/10/21 Mon 22:24:09.159167 [9756 10739128][VERB] Node  海豚湾 - Lil 日本02 | 倍率:1.3  has been added.
+2024/10/21 Mon 22:24:09.159197 [9756 10739128][VERB] Node  海豚湾 - Lil 日本03 | 倍率:1.3  has been added.
+2024/10/21 Mon 22:24:09.159224 [9756 10739128][VERB] Node  海豚湾 - Lil 日本04 | 倍率:1.3  has been added.
+2024/10/21 Mon 22:24:09.159252 [9756 10739128][VERB] Node  海豚湾 - Lil 日本05 | 倍率:1.3  has been added.
+2024/10/21 Mon 22:24:09.159279 [9756 10739128][VERB] Node  海豚湾 - Lil 日本06 | 倍率:2  has been added.
+2024/10/21 Mon 22:24:09.159306 [9756 10739128][VERB] Node  海豚湾 - Lil 泰国01 | 倍率:1.3  has been added.
+2024/10/21 Mon 22:24:09.159333 [9756 10739128][VERB] Node  海豚湾 - Lil 美国01 | 倍率:2.1  has been added.
+2024/10/21 Mon 22:24:09.159360 [9756 10739128][VERB] Node  海豚湾 - Lil 美国02 | 倍率:1.9  has been added.
+2024/10/21 Mon 22:24:09.159387 [9756 10739128][VERB] Node  海豚湾 - Lil 美国03 | 倍率:1.5  has been added.
+2024/10/21 Mon 22:24:09.159414 [9756 10739128][VERB] Node  海豚湾 - Lil 美国04 | 倍率:1.3  has been added.
+2024/10/21 Mon 22:24:09.159441 [9756 10739128][VERB] Node  海豚湾 - Lil 美国05 | 倍率:1.3  has been added.
+2024/10/21 Mon 22:24:09.159470 [9756 10739128][VERB] Node  海豚湾 - Lil 美国06 | 倍率:1.3  has been added.
+2024/10/21 Mon 22:24:09.159505 [9756 10739128][VERB] Node  海豚湾 - Lil 美国07 | 倍率:1.3  has been added.
+2024/10/21 Mon 22:24:09.159543 [9756 10739128][VERB] Node  海豚湾 - Lil 美国08 | 倍率:1.3  has been added.
+2024/10/21 Mon 22:24:09.159574 [9756 10739128][VERB] Node  海豚湾 - Lil 美国09 | 倍率:1.3  has been added.
+2024/10/21 Mon 22:24:09.159608 [9756 10739128][VERB] Node  海豚湾 - Lil 美国10 | 倍率:1.3  has been added.
+2024/10/21 Mon 22:24:09.159639 [9756 10739128][VERB] Node  海豚湾 - Lil 英国1 | 倍率:1.6  has been added.
+2024/10/21 Mon 22:24:09.159667 [9756 10739128][VERB] Node  海豚湾 - Lil 英国2 | 倍率:1.3  has been added.
+2024/10/21 Mon 22:24:09.159694 [9756 10739128][VERB] Node  海豚湾 - Lil 英国3 | 倍率:1.3  has been added.
+2024/10/21 Mon 22:24:09.159721 [9756 10739128][VERB] Node  海豚湾 - Lil 荷兰01 | 倍率:1.3  has been added.
+2024/10/21 Mon 22:24:09.159748 [9756 10739128][VERB] Node  海豚湾 - Lil 菲律宾01 | 倍率:1.5  has been added.
+2024/10/21 Mon 22:24:09.159775 [9756 10739128][VERB] Node  海豚湾 - Lil 西班牙01 | 倍率:1.5  has been added.
+2024/10/21 Mon 22:24:09.159803 [9756 10739128][VERB] Node  海豚湾 - Lil 阿根廷01 | 倍率:1.5  has been added.
+2024/10/21 Mon 22:24:09.159830 [9756 10739128][VERB] Node  海豚湾 - Lil 韩国01 | 倍率:1.5  has been added.
+2024/10/21 Mon 22:24:09.159857 [9756 10739128][VERB] Node  海豚湾 - Lil 韩国02 | 倍率:1.5  has been added.
+2024/10/21 Mon 22:24:09.159884 [9756 10739128][VERB] Node  海豚湾 - Lil 韩国03 | 倍率:1.5  has been added.
+2024/10/21 Mon 22:24:09.159911 [9756 10739128][VERB] Node  海豚湾 - Lil 韩国04 | 倍率:2  has been added.
+2024/10/21 Mon 22:24:09.159939 [9756 10739128][VERB] Node  海豚湾 - Lil 韩国05 | 倍率:2  has been added.
+2024/10/21 Mon 22:24:09.159983 [9756 10739128][VERB] Node  海豚湾 - Lil 香港01 | 倍率:1.8  has been added.
+2024/10/21 Mon 22:24:09.160010 [9756 10739128][VERB] Node  海豚湾 - Lil 香港02 | 倍率:1.8  has been added.
+2024/10/21 Mon 22:24:09.160037 [9756 10739128][VERB] Node  海豚湾 - Lil 香港03 | 倍率:1.6  has been added.
+2024/10/21 Mon 22:24:09.160064 [9756 10739128][VERB] Node  海豚湾 - Lil 香港04 | 倍率:1.6  has been added.
+2024/10/21 Mon 22:24:09.160091 [9756 10739128][VERB] Node  海豚湾 - Lil 香港05 | 倍率:1.5  has been added.
+2024/10/21 Mon 22:24:09.160118 [9756 10739128][VERB] Node  海豚湾 - Lil 香港06 | 倍率:1.5  has been added.
+2024/10/21 Mon 22:24:09.160146 [9756 10739128][VERB] Node  海豚湾 - Lil 香港07 | 倍率:1.5  has been added.
+2024/10/21 Mon 22:24:09.160173 [9756 10739128][VERB] Node  海豚湾 - Lil 香港08 | 倍率:1.5  has been added.
+2024/10/21 Mon 22:24:09.160200 [9756 10739128][VERB] Node  海豚湾 - Lil 香港09 | 倍率:1.6  has been added.
+2024/10/21 Mon 22:24:09.160228 [9756 10739128][VERB] Node  海豚湾 - Lil 香港10 | 倍率:1.6  has been added.
+2024/10/21 Mon 22:24:09.160256 [9756 10739128][VERB] Node  海豚湾 - Lil 香港11 | 倍率:2  has been added.
+2024/10/21 Mon 22:24:09.160283 [9756 10739128][VERB] Node  海豚湾 - Lil 香港12 | 倍率:2  has been added.
+2024/10/21 Mon 22:24:09.160305 [9756 10739128][VERB] Filter done.
+2024/10/21 Mon 22:24:09.161990 [9756 10739128][INFO] Generate target: Clash
+2024/10/21 Mon 22:24:09.230084 [9756 10739128][INFO] Generate completed.
+2024/10/21 Mon 22:24:09.247232 [9756 10739128][INFO] User Info for artifact 'test': Stream Used: 14.43 TB Stream Total: N/A Expiry Time: N/A
+2024/10/21 Mon 22:24:09.247262 [9756 10739128][INFO] Artifact 'test' generate SUCCESS!
+
+2024/10/21 Mon 22:24:09.247285 [9756 10739128][INFO] Generating artifact 'test_profile'...
+2024/10/21 Mon 22:24:09.256216 [9756 10739128][INFO] Trying to load profile 'profiles/example_profile.ini'.
+2024/10/21 Mon 22:24:09.256261 [9756 10739128][INFO] Trying to parse profile 'profiles/example_profile.ini'.
+2024/10/21 Mon 22:24:09.256372 [9756 10739128][VERB] Imported 0 item(s).
+2024/10/21 Mon 22:24:09.256413 [9756 10739128][INFO] Fetching node data from url 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYXNzd29yZA@www.example.com:1080#Example'.
+2024/10/21 Mon 22:24:09.257648 [9756 10739128][VERB] Received Link.
+2024/10/21 Mon 22:24:09.257739 [9756 10739128][INFO] Generate target: Clash
+2024/10/21 Mon 22:24:09.282752 [9756 10739128][INFO] Generate completed.
+2024/10/21 Mon 22:24:09.283891 [9756 10739128][INFO] Artifact 'test_profile' generate SUCCESS!
+
+2024/10/21 Mon 22:24:09.283920 [9756 10739128][INFO] All artifact generated. Exiting...
+2024/10/22 Tue 15:00:15.053280 [6897 10739128][INFO] SubConverter v0.7.2 starting up..
+]0;SubConverter v0.7.22024/10/22 Tue 15:00:15.060336 [6897 10739128][INFO] Reading preference settings...
+2024/10/22 Tue 15:00:15.107902 [6897 10739128][INFO] Updating ruleset url 'rules/LocalAreaNetwork.list' with group '🎯 全球直连'.
+2024/10/22 Tue 15:00:15.125762 [6897 10739128][INFO] Updating ruleset url 'rules/MSServices.list' with group 'Ⓜ️ 微软服务'.
+2024/10/22 Tue 15:00:15.128761 [6897 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Unbreak.list' with group '🎯 全球直连'.
+2024/10/22 Tue 15:00:15.147468 [6897 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/AdRule.list' with group '🛑 全球拦截'.
+2024/10/22 Tue 15:00:15.189296 [6897 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list' with group '🛑 全球拦截'.
+2024/10/22 Tue 15:00:15.208318 [6897 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list' with group '🎥 NETFLIX'.
+2024/10/22 Tue 15:00:15.225054 [6897 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list' with group '🌍 国外媒体'.
+2024/10/22 Tue 15:00:15.231765 [6897 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list' with group '🌏 国内媒体'.
+2024/10/22 Tue 15:00:15.275943 [6897 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list' with group '🌏 国内媒体'.
+2024/10/22 Tue 15:00:15.287284 [6897 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list' with group '🌏 国内媒体'.
+2024/10/22 Tue 15:00:15.290482 [6897 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list' with group '🌏 国内媒体'.
+2024/10/22 Tue 15:00:15.293144 [6897 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list' with group '🌏 国内媒体'.
+2024/10/22 Tue 15:00:15.295785 [6897 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list' with group '🌏 国内媒体'.
+2024/10/22 Tue 15:00:15.298708 [6897 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list' with group '📲 电报信息'.
+2024/10/22 Tue 15:00:15.321420 [6897 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Global.list' with group '🔰 节点选择'.
+2024/10/22 Tue 15:00:15.325928 [6897 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list' with group '🍎 苹果服务'.
+2024/10/22 Tue 15:00:15.341898 [6897 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/China.list' with group '🎯 全球直连'.
+2024/10/22 Tue 15:00:15.351216 [6897 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/Download.list' with group '🎯 全球直连'.
+2024/10/22 Tue 15:00:15.358251 [6897 10739128][INFO] Adding rule 'GEOIP,CN,🎯 全球直连'.
+2024/10/22 Tue 15:00:15.358363 [6897 10739128][INFO] Adding rule 'FINAL,🐟 漏网之鱼'.
+2024/10/22 Tue 15:00:15.359906 [6897 10739128][INFO] Reading generator configuration...
+2024/10/22 Tue 15:00:15.371331 [6897 10739128][INFO] Read generator configuration completed.
+
+2024/10/22 Tue 15:00:15.371381 [6897 10739128][INFO] Generating all artifacts...
+2024/10/22 Tue 15:00:15.371417 [6897 10739128][INFO] Generating artifact 'test'...
+2024/10/22 Tue 15:00:15.371536 [6897 10739128][VERB] Imported 0 item(s).
+2024/10/22 Tue 15:00:15.371656 [6897 10739128][INFO] Fetching node data from url '../../temp/clash.yaml'.
+2024/10/22 Tue 15:00:15.373887 [6897 10739128][VERB] Received Link.
+2024/10/22 Tue 15:00:15.373952 [6897 10739128][VERB] Parsing configuration file data...
+2024/10/22 Tue 15:00:15.385554 [6897 10739128][VERB] Node  海豚湾 - 官网地址 - https://hitun.io  has been ignored and will not be added.
+2024/10/22 Tue 15:00:15.385631 [6897 10739128][VERB] Node  海豚湾 - 剩余流量：29.59% 6.07TB  has been ignored and will not be added.
+2024/10/22 Tue 15:00:15.385690 [6897 10739128][VERB] Node  海豚湾 - 套餐时间：2025-04-06  has been ignored and will not be added.
+2024/10/22 Tue 15:00:15.385749 [6897 10739128][VERB] Node  海豚湾 - A应急续费使用 | 到期后可用5GB  has been ignored and will not be added.
+2024/10/22 Tue 15:00:15.385808 [6897 10739128][VERB] Node  海豚湾 - Game 台湾 | 遊戲專用 | 倍率:20  has been added.
+2024/10/22 Tue 15:00:15.385842 [6897 10739128][VERB] Node  海豚湾 - Game 日本 | 遊戲專用 | 倍率:20  has been added.
+2024/10/22 Tue 15:00:15.385873 [6897 10739128][VERB] Node  海豚湾 - Game 香港 | 遊戲專用 | 倍率:20  has been added.
+2024/10/22 Tue 15:00:15.385904 [6897 10739128][VERB] Node  海豚湾 - Large 台湾01  has been added.
+2024/10/22 Tue 15:00:15.385935 [6897 10739128][VERB] Node  海豚湾 - Large 台湾02  has been added.
+2024/10/22 Tue 15:00:15.385966 [6897 10739128][VERB] Node  海豚湾 - Large 台湾03  has been added.
+2024/10/22 Tue 15:00:15.385997 [6897 10739128][VERB] Node  海豚湾 - Large 台湾04  has been added.
+2024/10/22 Tue 15:00:15.386027 [6897 10739128][VERB] Node  海豚湾 - Large 台湾05  has been added.
+2024/10/22 Tue 15:00:15.386058 [6897 10739128][VERB] Node  海豚湾 - Large 台湾06  has been added.
+2024/10/22 Tue 15:00:15.386089 [6897 10739128][VERB] Node  海豚湾 - Large 墨西哥01 | 倍率:1.5  has been added.
+2024/10/22 Tue 15:00:15.386120 [6897 10739128][VERB] Node  海豚湾 - Large 新加坡01 | 倍率:1.5  has been added.
+2024/10/22 Tue 15:00:15.386152 [6897 10739128][VERB] Node  海豚湾 - Large 新加坡02 | 倍率:1.5  has been added.
+2024/10/22 Tue 15:00:15.386183 [6897 10739128][VERB] Node  海豚湾 - Large 新加坡03 | 倍率:1.6  has been added.
+2024/10/22 Tue 15:00:15.386214 [6897 10739128][VERB] Node  海豚湾 - Large 新加坡04 | 倍率:1.6  has been added.
+2024/10/22 Tue 15:00:15.386245 [6897 10739128][VERB] Node  海豚湾 - Large 新加坡05 | 倍率:1.5  has been added.
+2024/10/22 Tue 15:00:15.386276 [6897 10739128][VERB] Node  海豚湾 - Large 新加坡06 | 倍率:1.5  has been added.
+2024/10/22 Tue 15:00:15.386307 [6897 10739128][VERB] Node  海豚湾 - Large 新加坡07 | 倍率:1.5  has been added.
+2024/10/22 Tue 15:00:15.386348 [6897 10739128][VERB] Node  海豚湾 - Large 新加坡08 | 倍率:1.5  has been added.
+2024/10/22 Tue 15:00:15.386379 [6897 10739128][VERB] Node  海豚湾 - Large 新加坡09 | 倍率:1.5  has been added.
+2024/10/22 Tue 15:00:15.386411 [6897 10739128][VERB] Node  海豚湾 - Large 新加坡10 | 倍率:1.5  has been added.
+2024/10/22 Tue 15:00:15.386442 [6897 10739128][VERB] Node  海豚湾 - Large 日本01 | 倍率:1.5  has been added.
+2024/10/22 Tue 15:00:15.386473 [6897 10739128][VERB] Node  海豚湾 - Large 日本02 | 倍率:1.5  has been added.
+2024/10/22 Tue 15:00:15.386503 [6897 10739128][VERB] Node  海豚湾 - Large 日本03 | 倍率:1.5  has been added.
+2024/10/22 Tue 15:00:15.386534 [6897 10739128][VERB] Node  海豚湾 - Large 日本04 | 倍率:1.3  has been added.
+2024/10/22 Tue 15:00:15.386565 [6897 10739128][VERB] Node  海豚湾 - Large 日本05 | 倍率:1.3  has been added.
+2024/10/22 Tue 15:00:15.386596 [6897 10739128][VERB] Node  海豚湾 - Large 澳洲01 | 倍率:1.6  has been added.
+2024/10/22 Tue 15:00:15.386627 [6897 10739128][VERB] Node  海豚湾 - Large 澳洲02 | 倍率:1.6  has been added.
+2024/10/22 Tue 15:00:15.386658 [6897 10739128][VERB] Node  海豚湾 - Large 美国01 | 倍率:2  has been added.
+2024/10/22 Tue 15:00:15.386688 [6897 10739128][VERB] Node  海豚湾 - Large 美国02 | 倍率:1.8  has been added.
+2024/10/22 Tue 15:00:15.386719 [6897 10739128][VERB] Node  海豚湾 - Large 美国03 | 倍率:1.6  has been added.
+2024/10/22 Tue 15:00:15.386750 [6897 10739128][VERB] Node  海豚湾 - Large 美国04 | 倍率:1.5  has been added.
+2024/10/22 Tue 15:00:15.386781 [6897 10739128][VERB] Node  海豚湾 - Large 美国05 | 倍率:1.5  has been added.
+2024/10/22 Tue 15:00:15.386811 [6897 10739128][VERB] Node  海豚湾 - Large 美国06 | 倍率:1.7  has been added.
+2024/10/22 Tue 15:00:15.386842 [6897 10739128][VERB] Node  海豚湾 - Large 韩国01 | 倍率:1.6  has been added.
+2024/10/22 Tue 15:00:15.386873 [6897 10739128][VERB] Node  海豚湾 - Large 韩国02 | 倍率:1.6  has been added.
+2024/10/22 Tue 15:00:15.386904 [6897 10739128][VERB] Node  海豚湾 - Large 香港01 | 倍率:2  has been added.
+2024/10/22 Tue 15:00:15.386934 [6897 10739128][VERB] Node  海豚湾 - Large 香港02 | 倍率:2  has been added.
+2024/10/22 Tue 15:00:15.386965 [6897 10739128][VERB] Node  海豚湾 - Large 香港03 | 倍率:2  has been added.
+2024/10/22 Tue 15:00:15.386996 [6897 10739128][VERB] Node  海豚湾 - Large 香港04 | 倍率:1.9  has been added.
+2024/10/22 Tue 15:00:15.387027 [6897 10739128][VERB] Node  海豚湾 - Large 香港05 | 倍率:1.8  has been added.
+2024/10/22 Tue 15:00:15.387057 [6897 10739128][VERB] Node  海豚湾 - Large 香港06 | 倍率:2  has been added.
+2024/10/22 Tue 15:00:15.387088 [6897 10739128][VERB] Node  海豚湾 - Large 香港07 | 倍率:1.8  has been added.
+2024/10/22 Tue 15:00:15.387118 [6897 10739128][VERB] Node  海豚湾 - Large 香港08 | 倍率:1.6  has been added.
+2024/10/22 Tue 15:00:15.387149 [6897 10739128][VERB] Node  海豚湾 - Large 香港09 | 倍率:1.6  has been added.
+2024/10/22 Tue 15:00:15.387180 [6897 10739128][VERB] Node  海豚湾 - Large 香港10 | 倍率:1.6  has been added.
+2024/10/22 Tue 15:00:15.387211 [6897 10739128][VERB] Node  海豚湾 - Large 香港11 | 倍率:1.6  has been added.
+2024/10/22 Tue 15:00:15.387241 [6897 10739128][VERB] Node  海豚湾 - Large 香港12 | 倍率:1.6  has been added.
+2024/10/22 Tue 15:00:15.387272 [6897 10739128][VERB] Node  海豚湾 - Large 香港13 | 倍率:1.6  has been added.
+2024/10/22 Tue 15:00:15.387303 [6897 10739128][VERB] Node  海豚湾 - Large 香港14 | 倍率:1.6  has been added.
+2024/10/22 Tue 15:00:15.387334 [6897 10739128][VERB] Node  海豚湾 - Large 香港15 | 倍率:1.6  has been added.
+2024/10/22 Tue 15:00:15.387365 [6897 10739128][VERB] Node  海豚湾 - Large 香港16 | 倍率:1.6  has been added.
+2024/10/22 Tue 15:00:15.387395 [6897 10739128][VERB] Node  海豚湾 - Large 香港17 | 倍率:1.8  has been added.
+2024/10/22 Tue 15:00:15.387426 [6897 10739128][VERB] Node  海豚湾 - Large 香港18 | 倍率:1.8  has been added.
+2024/10/22 Tue 15:00:15.387460 [6897 10739128][VERB] Node  海豚湾 - Large 香港19 | 倍率:1.6  has been added.
+2024/10/22 Tue 15:00:15.387492 [6897 10739128][VERB] Node  海豚湾 - Large 香港20 | 倍率:1.6  has been added.
+2024/10/22 Tue 15:00:15.387522 [6897 10739128][VERB] Node  海豚湾 - Large 香港21 | 倍率:1.6  has been added.
+2024/10/22 Tue 15:00:15.387553 [6897 10739128][VERB] Node  海豚湾 - Lil 俄罗斯01 | 倍率:1.3  has been added.
+2024/10/22 Tue 15:00:15.387585 [6897 10739128][VERB] Node  海豚湾 - Lil 加拿大1 | 倍率:1.3  has been added.
+2024/10/22 Tue 15:00:15.387616 [6897 10739128][VERB] Node  海豚湾 - Lil 印度01 | 倍率:1.3  has been added.
+2024/10/22 Tue 15:00:15.387647 [6897 10739128][VERB] Node  海豚湾 - Lil 印度02 | 倍率:1.3  has been added.
+2024/10/22 Tue 15:00:15.387678 [6897 10739128][VERB] Node  海豚湾 - Lil 台湾01 | 倍率:1.5  has been added.
+2024/10/22 Tue 15:00:15.387708 [6897 10739128][VERB] Node  海豚湾 - Lil 台湾02 | 倍率:1.3  has been added.
+2024/10/22 Tue 15:00:15.387739 [6897 10739128][VERB] Node  海豚湾 - Lil 台湾03 | 倍率:1.3  has been added.
+2024/10/22 Tue 15:00:15.387770 [6897 10739128][VERB] Node  海豚湾 - Lil 台湾04 | 倍率:1.3  has been added.
+2024/10/22 Tue 15:00:15.387801 [6897 10739128][VERB] Node  海豚湾 - Lil 台湾05 | 倍率:1.3  has been added.
+2024/10/22 Tue 15:00:15.387832 [6897 10739128][VERB] Node  海豚湾 - Lil 台湾06 | 倍率:1.3  has been added.
+2024/10/22 Tue 15:00:15.387862 [6897 10739128][VERB] Node  海豚湾 - Lil 土耳其01 | 倍率:1.5  has been added.
+2024/10/22 Tue 15:00:15.387893 [6897 10739128][VERB] Node  海豚湾 - Lil 巴西1 | 倍率:1.5  has been added.
+2024/10/22 Tue 15:00:15.387924 [6897 10739128][VERB] Node  海豚湾 - Lil 德国1 | 倍率:1.3  has been added.
+2024/10/22 Tue 15:00:15.387955 [6897 10739128][VERB] Node  海豚湾 - Lil 德国2 | 倍率:1.3  has been added.
+2024/10/22 Tue 15:00:15.387986 [6897 10739128][VERB] Node  海豚湾 - Lil 德国3 | 倍率:1.3  has been added.
+2024/10/22 Tue 15:00:15.388017 [6897 10739128][VERB] Node  海豚湾 - Lil 新加坡01 | 倍率:1.5  has been added.
+2024/10/22 Tue 15:00:15.388048 [6897 10739128][VERB] Node  海豚湾 - Lil 新加坡02 | 倍率:1.5  has been added.
+2024/10/22 Tue 15:00:15.388079 [6897 10739128][VERB] Node  海豚湾 - Lil 新加坡03 | 倍率:1.5  has been added.
+2024/10/22 Tue 15:00:15.388110 [6897 10739128][VERB] Node  海豚湾 - Lil 新加坡04 | 倍率:2  has been added.
+2024/10/22 Tue 15:00:15.388142 [6897 10739128][VERB] Node  海豚湾 - Lil 新加坡05 | 倍率:2  has been added.
+2024/10/22 Tue 15:00:15.388172 [6897 10739128][VERB] Node  海豚湾 - Lil 日本01 | 倍率:1.5  has been added.
+2024/10/22 Tue 15:00:15.388203 [6897 10739128][VERB] Node  海豚湾 - Lil 日本02 | 倍率:1.3  has been added.
+2024/10/22 Tue 15:00:15.388234 [6897 10739128][VERB] Node  海豚湾 - Lil 日本03 | 倍率:1.3  has been added.
+2024/10/22 Tue 15:00:15.388265 [6897 10739128][VERB] Node  海豚湾 - Lil 日本04 | 倍率:1.3  has been added.
+2024/10/22 Tue 15:00:15.388295 [6897 10739128][VERB] Node  海豚湾 - Lil 日本05 | 倍率:1.3  has been added.
+2024/10/22 Tue 15:00:15.388326 [6897 10739128][VERB] Node  海豚湾 - Lil 日本06 | 倍率:2  has been added.
+2024/10/22 Tue 15:00:15.388357 [6897 10739128][VERB] Node  海豚湾 - Lil 泰国01 | 倍率:1.3  has been added.
+2024/10/22 Tue 15:00:15.388387 [6897 10739128][VERB] Node  海豚湾 - Lil 美国01 | 倍率:2.1  has been added.
+2024/10/22 Tue 15:00:15.388418 [6897 10739128][VERB] Node  海豚湾 - Lil 美国02 | 倍率:1.9  has been added.
+2024/10/22 Tue 15:00:15.388449 [6897 10739128][VERB] Node  海豚湾 - Lil 美国03 | 倍率:1.5  has been added.
+2024/10/22 Tue 15:00:15.388480 [6897 10739128][VERB] Node  海豚湾 - Lil 美国04 | 倍率:1.3  has been added.
+2024/10/22 Tue 15:00:15.388510 [6897 10739128][VERB] Node  海豚湾 - Lil 美国05 | 倍率:1.3  has been added.
+2024/10/22 Tue 15:00:15.388546 [6897 10739128][VERB] Node  海豚湾 - Lil 美国06 | 倍率:1.3  has been added.
+2024/10/22 Tue 15:00:15.388577 [6897 10739128][VERB] Node  海豚湾 - Lil 美国07 | 倍率:1.3  has been added.
+2024/10/22 Tue 15:00:15.388607 [6897 10739128][VERB] Node  海豚湾 - Lil 美国08 | 倍率:1.3  has been added.
+2024/10/22 Tue 15:00:15.388638 [6897 10739128][VERB] Node  海豚湾 - Lil 美国09 | 倍率:1.3  has been added.
+2024/10/22 Tue 15:00:15.388669 [6897 10739128][VERB] Node  海豚湾 - Lil 美国10 | 倍率:1.3  has been added.
+2024/10/22 Tue 15:00:15.388699 [6897 10739128][VERB] Node  海豚湾 - Lil 英国1 | 倍率:1.6  has been added.
+2024/10/22 Tue 15:00:15.388730 [6897 10739128][VERB] Node  海豚湾 - Lil 英国2 | 倍率:1.3  has been added.
+2024/10/22 Tue 15:00:15.388761 [6897 10739128][VERB] Node  海豚湾 - Lil 英国3 | 倍率:1.3  has been added.
+2024/10/22 Tue 15:00:15.388792 [6897 10739128][VERB] Node  海豚湾 - Lil 荷兰01 | 倍率:1.3  has been added.
+2024/10/22 Tue 15:00:15.388823 [6897 10739128][VERB] Node  海豚湾 - Lil 菲律宾01 | 倍率:1.5  has been added.
+2024/10/22 Tue 15:00:15.388854 [6897 10739128][VERB] Node  海豚湾 - Lil 西班牙01 | 倍率:1.5  has been added.
+2024/10/22 Tue 15:00:15.388885 [6897 10739128][VERB] Node  海豚湾 - Lil 阿根廷01 | 倍率:1.5  has been added.
+2024/10/22 Tue 15:00:15.388916 [6897 10739128][VERB] Node  海豚湾 - Lil 韩国01 | 倍率:1.5  has been added.
+2024/10/22 Tue 15:00:15.388946 [6897 10739128][VERB] Node  海豚湾 - Lil 韩国02 | 倍率:1.5  has been added.
+2024/10/22 Tue 15:00:15.388977 [6897 10739128][VERB] Node  海豚湾 - Lil 韩国03 | 倍率:1.5  has been added.
+2024/10/22 Tue 15:00:15.389008 [6897 10739128][VERB] Node  海豚湾 - Lil 韩国04 | 倍率:2  has been added.
+2024/10/22 Tue 15:00:15.389039 [6897 10739128][VERB] Node  海豚湾 - Lil 韩国05 | 倍率:2  has been added.
+2024/10/22 Tue 15:00:15.389070 [6897 10739128][VERB] Node  海豚湾 - Lil 香港01 | 倍率:1.8  has been added.
+2024/10/22 Tue 15:00:15.389100 [6897 10739128][VERB] Node  海豚湾 - Lil 香港02 | 倍率:1.8  has been added.
+2024/10/22 Tue 15:00:15.389131 [6897 10739128][VERB] Node  海豚湾 - Lil 香港03 | 倍率:1.6  has been added.
+2024/10/22 Tue 15:00:15.389169 [6897 10739128][VERB] Node  海豚湾 - Lil 香港04 | 倍率:1.6  has been added.
+2024/10/22 Tue 15:00:15.389202 [6897 10739128][VERB] Node  海豚湾 - Lil 香港05 | 倍率:1.5  has been added.
+2024/10/22 Tue 15:00:15.389233 [6897 10739128][VERB] Node  海豚湾 - Lil 香港06 | 倍率:1.5  has been added.
+2024/10/22 Tue 15:00:15.389264 [6897 10739128][VERB] Node  海豚湾 - Lil 香港07 | 倍率:1.5  has been added.
+2024/10/22 Tue 15:00:15.389294 [6897 10739128][VERB] Node  海豚湾 - Lil 香港08 | 倍率:1.5  has been added.
+2024/10/22 Tue 15:00:15.389325 [6897 10739128][VERB] Node  海豚湾 - Lil 香港09 | 倍率:1.6  has been added.
+2024/10/22 Tue 15:00:15.389355 [6897 10739128][VERB] Node  海豚湾 - Lil 香港10 | 倍率:1.6  has been added.
+2024/10/22 Tue 15:00:15.389386 [6897 10739128][VERB] Node  海豚湾 - Lil 香港11 | 倍率:2  has been added.
+2024/10/22 Tue 15:00:15.389417 [6897 10739128][VERB] Node  海豚湾 - Lil 香港12 | 倍率:2  has been added.
+2024/10/22 Tue 15:00:15.389442 [6897 10739128][VERB] Filter done.
+2024/10/22 Tue 15:00:15.391385 [6897 10739128][INFO] Generate target: Clash
+2024/10/22 Tue 15:00:15.451982 [6897 10739128][INFO] Generate completed.
+2024/10/22 Tue 15:00:15.473117 [6897 10739128][INFO] User Info for artifact 'test': Stream Used: 14.44 TB Stream Total: N/A Expiry Time: N/A
+2024/10/22 Tue 15:00:15.473169 [6897 10739128][INFO] Artifact 'test' generate SUCCESS!
+
+2024/10/22 Tue 15:00:15.473222 [6897 10739128][INFO] Generating artifact 'test_profile'...
+2024/10/22 Tue 15:00:15.482689 [6897 10739128][INFO] Trying to load profile 'profiles/example_profile.ini'.
+2024/10/22 Tue 15:00:15.482743 [6897 10739128][INFO] Trying to parse profile 'profiles/example_profile.ini'.
+2024/10/22 Tue 15:00:15.482873 [6897 10739128][VERB] Imported 0 item(s).
+2024/10/22 Tue 15:00:15.482929 [6897 10739128][INFO] Fetching node data from url 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYXNzd29yZA@www.example.com:1080#Example'.
+2024/10/22 Tue 15:00:15.484366 [6897 10739128][VERB] Received Link.
+2024/10/22 Tue 15:00:15.484474 [6897 10739128][INFO] Generate target: Clash
+2024/10/22 Tue 15:00:15.509398 [6897 10739128][INFO] Generate completed.
+2024/10/22 Tue 15:00:15.510924 [6897 10739128][INFO] Artifact 'test_profile' generate SUCCESS!
+
+2024/10/22 Tue 15:00:15.510961 [6897 10739128][INFO] All artifact generated. Exiting...
+2024/10/30 Wed 15:43:53.025121 [6801 10739128][INFO] SubConverter v0.7.2 starting up..
+]0;SubConverter v0.7.22024/10/30 Wed 15:43:53.029246 [6801 10739128][INFO] Reading preference settings...
+2024/10/30 Wed 15:43:53.065438 [6801 10739128][INFO] Updating ruleset url 'rules/LocalAreaNetwork.list' with group '🎯 全球直连'.
+2024/10/30 Wed 15:43:53.081229 [6801 10739128][INFO] Updating ruleset url 'rules/MSServices.list' with group 'Ⓜ️ 微软服务'.
+2024/10/30 Wed 15:43:53.084071 [6801 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Unbreak.list' with group '🎯 全球直连'.
+2024/10/30 Wed 15:43:53.109551 [6801 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/AdRule.list' with group '🛑 全球拦截'.
+2024/10/30 Wed 15:43:53.143913 [6801 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list' with group '🛑 全球拦截'.
+2024/10/30 Wed 15:43:53.164944 [6801 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list' with group '🎥 NETFLIX'.
+2024/10/30 Wed 15:43:53.182064 [6801 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list' with group '🌍 国外媒体'.
+2024/10/30 Wed 15:43:53.185099 [6801 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list' with group '🌏 国内媒体'.
+2024/10/30 Wed 15:43:53.228908 [6801 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list' with group '🌏 国内媒体'.
+2024/10/30 Wed 15:43:53.234542 [6801 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list' with group '🌏 国内媒体'.
+2024/10/30 Wed 15:43:53.237428 [6801 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list' with group '🌏 国内媒体'.
+2024/10/30 Wed 15:43:53.239369 [6801 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list' with group '🌏 国内媒体'.
+2024/10/30 Wed 15:43:53.241937 [6801 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list' with group '🌏 国内媒体'.
+2024/10/30 Wed 15:43:53.244529 [6801 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list' with group '📲 电报信息'.
+2024/10/30 Wed 15:43:53.268110 [6801 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Global.list' with group '🔰 节点选择'.
+2024/10/30 Wed 15:43:53.270973 [6801 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list' with group '🍎 苹果服务'.
+2024/10/30 Wed 15:43:53.291148 [6801 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/China.list' with group '🎯 全球直连'.
+2024/10/30 Wed 15:43:53.294559 [6801 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/Download.list' with group '🎯 全球直连'.
+2024/10/30 Wed 15:43:53.297157 [6801 10739128][INFO] Adding rule 'GEOIP,CN,🎯 全球直连'.
+2024/10/30 Wed 15:43:53.297264 [6801 10739128][INFO] Adding rule 'FINAL,🐟 漏网之鱼'.
+2024/10/30 Wed 15:43:53.298743 [6801 10739128][INFO] Reading generator configuration...
+2024/10/30 Wed 15:43:53.303470 [6801 10739128][INFO] Read generator configuration completed.
+
+2024/10/30 Wed 15:43:53.303533 [6801 10739128][INFO] Generating all artifacts...
+2024/10/30 Wed 15:43:53.303586 [6801 10739128][INFO] Generating artifact 'test'...
+2024/10/30 Wed 15:43:53.303763 [6801 10739128][VERB] Imported 0 item(s).
+2024/10/30 Wed 15:43:53.303903 [6801 10739128][INFO] Fetching node data from url '../../temp/clash.yaml'.
+2024/10/30 Wed 15:43:53.306767 [6801 10739128][VERB] Received Link.
+2024/10/30 Wed 15:43:53.306844 [6801 10739128][VERB] Parsing configuration file data...
+2024/10/30 Wed 15:43:53.317687 [6801 10739128][VERB] Node  海豚湾 - 官网地址 - https://hitun.io  has been ignored and will not be added.
+2024/10/30 Wed 15:43:53.317772 [6801 10739128][VERB] Node  海豚湾 - 剩余流量：26.26% 5.39TB  has been ignored and will not be added.
+2024/10/30 Wed 15:43:53.317841 [6801 10739128][VERB] Node  海豚湾 - 套餐时间：2025-04-06  has been ignored and will not be added.
+2024/10/30 Wed 15:43:53.317909 [6801 10739128][VERB] Node  海豚湾 - A应急续费使用 | 到期后可用5GB  has been ignored and will not be added.
+2024/10/30 Wed 15:43:53.317976 [6801 10739128][VERB] Node  海豚湾 - Game 台湾 | 遊戲專用 | 倍率:20  has been added.
+2024/10/30 Wed 15:43:53.318016 [6801 10739128][VERB] Node  海豚湾 - Game 日本 | 遊戲專用 | 倍率:20  has been added.
+2024/10/30 Wed 15:43:53.318054 [6801 10739128][VERB] Node  海豚湾 - Game 香港 | 遊戲專用 | 倍率:20  has been added.
+2024/10/30 Wed 15:43:53.318091 [6801 10739128][VERB] Node  海豚湾 - Large 台湾01  has been added.
+2024/10/30 Wed 15:43:53.318128 [6801 10739128][VERB] Node  海豚湾 - Large 台湾02  has been added.
+2024/10/30 Wed 15:43:53.318165 [6801 10739128][VERB] Node  海豚湾 - Large 台湾03  has been added.
+2024/10/30 Wed 15:43:53.318201 [6801 10739128][VERB] Node  海豚湾 - Large 台湾04  has been added.
+2024/10/30 Wed 15:43:53.318238 [6801 10739128][VERB] Node  海豚湾 - Large 台湾05  has been added.
+2024/10/30 Wed 15:43:53.318275 [6801 10739128][VERB] Node  海豚湾 - Large 台湾06  has been added.
+2024/10/30 Wed 15:43:53.318312 [6801 10739128][VERB] Node  海豚湾 - Large 墨西哥01 | 倍率:1.5  has been added.
+2024/10/30 Wed 15:43:53.318350 [6801 10739128][VERB] Node  海豚湾 - Large 新加坡01 | 倍率:1.5  has been added.
+2024/10/30 Wed 15:43:53.318387 [6801 10739128][VERB] Node  海豚湾 - Large 新加坡02 | 倍率:1.5  has been added.
+2024/10/30 Wed 15:43:53.318425 [6801 10739128][VERB] Node  海豚湾 - Large 新加坡03 | 倍率:1.6  has been added.
+2024/10/30 Wed 15:43:53.318462 [6801 10739128][VERB] Node  海豚湾 - Large 新加坡04 | 倍率:1.6  has been added.
+2024/10/30 Wed 15:43:53.318500 [6801 10739128][VERB] Node  海豚湾 - Large 新加坡05 | 倍率:1.5  has been added.
+2024/10/30 Wed 15:43:53.318537 [6801 10739128][VERB] Node  海豚湾 - Large 新加坡06 | 倍率:1.5  has been added.
+2024/10/30 Wed 15:43:53.318574 [6801 10739128][VERB] Node  海豚湾 - Large 新加坡07 | 倍率:1.5  has been added.
+2024/10/30 Wed 15:43:53.318612 [6801 10739128][VERB] Node  海豚湾 - Large 新加坡08 | 倍率:1.5  has been added.
+2024/10/30 Wed 15:43:53.318649 [6801 10739128][VERB] Node  海豚湾 - Large 新加坡09 | 倍率:1.5  has been added.
+2024/10/30 Wed 15:43:53.318686 [6801 10739128][VERB] Node  海豚湾 - Large 新加坡10 | 倍率:1.5  has been added.
+2024/10/30 Wed 15:43:53.318723 [6801 10739128][VERB] Node  海豚湾 - Large 日本01 | 倍率:1.5  has been added.
+2024/10/30 Wed 15:43:53.318761 [6801 10739128][VERB] Node  海豚湾 - Large 日本02 | 倍率:1.5  has been added.
+2024/10/30 Wed 15:43:53.318798 [6801 10739128][VERB] Node  海豚湾 - Large 日本03 | 倍率:1.5  has been added.
+2024/10/30 Wed 15:43:53.318835 [6801 10739128][VERB] Node  海豚湾 - Large 日本04 | 倍率:1.3  has been added.
+2024/10/30 Wed 15:43:53.318872 [6801 10739128][VERB] Node  海豚湾 - Large 日本05 | 倍率:1.3  has been added.
+2024/10/30 Wed 15:43:53.318909 [6801 10739128][VERB] Node  海豚湾 - Large 澳洲01 | 倍率:1.6  has been added.
+2024/10/30 Wed 15:43:53.318946 [6801 10739128][VERB] Node  海豚湾 - Large 澳洲02 | 倍率:1.6  has been added.
+2024/10/30 Wed 15:43:53.318983 [6801 10739128][VERB] Node  海豚湾 - Large 美国01 | 倍率:2  has been added.
+2024/10/30 Wed 15:43:53.319028 [6801 10739128][VERB] Node  海豚湾 - Large 美国02 | 倍率:1.8  has been added.
+2024/10/30 Wed 15:43:53.319065 [6801 10739128][VERB] Node  海豚湾 - Large 美国03 | 倍率:1.6  has been added.
+2024/10/30 Wed 15:43:53.319102 [6801 10739128][VERB] Node  海豚湾 - Large 美国04 | 倍率:1.5  has been added.
+2024/10/30 Wed 15:43:53.319139 [6801 10739128][VERB] Node  海豚湾 - Large 美国05 | 倍率:1.5  has been added.
+2024/10/30 Wed 15:43:53.319176 [6801 10739128][VERB] Node  海豚湾 - Large 美国06 | 倍率:1.7  has been added.
+2024/10/30 Wed 15:43:53.319213 [6801 10739128][VERB] Node  海豚湾 - Large 韩国01 | 倍率:1.6  has been added.
+2024/10/30 Wed 15:43:53.319249 [6801 10739128][VERB] Node  海豚湾 - Large 韩国02 | 倍率:1.6  has been added.
+2024/10/30 Wed 15:43:53.319286 [6801 10739128][VERB] Node  海豚湾 - Large 香港01 | 倍率:2  has been added.
+2024/10/30 Wed 15:43:53.319323 [6801 10739128][VERB] Node  海豚湾 - Large 香港02 | 倍率:2  has been added.
+2024/10/30 Wed 15:43:53.319360 [6801 10739128][VERB] Node  海豚湾 - Large 香港03 | 倍率:2  has been added.
+2024/10/30 Wed 15:43:53.319396 [6801 10739128][VERB] Node  海豚湾 - Large 香港04 | 倍率:1.9  has been added.
+2024/10/30 Wed 15:43:53.319433 [6801 10739128][VERB] Node  海豚湾 - Large 香港05 | 倍率:1.8  has been added.
+2024/10/30 Wed 15:43:53.319477 [6801 10739128][VERB] Node  海豚湾 - Large 香港06 | 倍率:2  has been added.
+2024/10/30 Wed 15:43:53.319514 [6801 10739128][VERB] Node  海豚湾 - Large 香港07 | 倍率:1.8  has been added.
+2024/10/30 Wed 15:43:53.319551 [6801 10739128][VERB] Node  海豚湾 - Large 香港08 | 倍率:1.6  has been added.
+2024/10/30 Wed 15:43:53.319588 [6801 10739128][VERB] Node  海豚湾 - Large 香港09 | 倍率:1.6  has been added.
+2024/10/30 Wed 15:43:53.319624 [6801 10739128][VERB] Node  海豚湾 - Large 香港10 | 倍率:1.6  has been added.
+2024/10/30 Wed 15:43:53.319661 [6801 10739128][VERB] Node  海豚湾 - Large 香港11 | 倍率:1.6  has been added.
+2024/10/30 Wed 15:43:53.319698 [6801 10739128][VERB] Node  海豚湾 - Large 香港12 | 倍率:1.6  has been added.
+2024/10/30 Wed 15:43:53.319735 [6801 10739128][VERB] Node  海豚湾 - Large 香港13 | 倍率:1.6  has been added.
+2024/10/30 Wed 15:43:53.319772 [6801 10739128][VERB] Node  海豚湾 - Large 香港14 | 倍率:1.6  has been added.
+2024/10/30 Wed 15:43:53.319808 [6801 10739128][VERB] Node  海豚湾 - Large 香港15 | 倍率:1.6  has been added.
+2024/10/30 Wed 15:43:53.319845 [6801 10739128][VERB] Node  海豚湾 - Large 香港16 | 倍率:1.6  has been added.
+2024/10/30 Wed 15:43:53.319882 [6801 10739128][VERB] Node  海豚湾 - Large 香港17 | 倍率:1.8  has been added.
+2024/10/30 Wed 15:43:53.319919 [6801 10739128][VERB] Node  海豚湾 - Large 香港18 | 倍率:1.8  has been added.
+2024/10/30 Wed 15:43:53.319956 [6801 10739128][VERB] Node  海豚湾 - Large 香港19 | 倍率:1.6  has been added.
+2024/10/30 Wed 15:43:53.319992 [6801 10739128][VERB] Node  海豚湾 - Large 香港20 | 倍率:1.6  has been added.
+2024/10/30 Wed 15:43:53.320053 [6801 10739128][VERB] Node  海豚湾 - Large 香港21 | 倍率:1.6  has been added.
+2024/10/30 Wed 15:43:53.320098 [6801 10739128][VERB] Node  海豚湾 - Lil 俄罗斯01 | 倍率:1.3  has been added.
+2024/10/30 Wed 15:43:53.320130 [6801 10739128][VERB] Node  海豚湾 - Lil 加拿大1 | 倍率:1.3  has been added.
+2024/10/30 Wed 15:43:53.320166 [6801 10739128][VERB] Node  海豚湾 - Lil 印度01 | 倍率:1.3  has been added.
+2024/10/30 Wed 15:43:53.320202 [6801 10739128][VERB] Node  海豚湾 - Lil 印度02 | 倍率:1.3  has been added.
+2024/10/30 Wed 15:43:53.320233 [6801 10739128][VERB] Node  海豚湾 - Lil 台湾01 | 倍率:1.5  has been added.
+2024/10/30 Wed 15:43:53.320263 [6801 10739128][VERB] Node  海豚湾 - Lil 台湾02 | 倍率:1.3  has been added.
+2024/10/30 Wed 15:43:53.320293 [6801 10739128][VERB] Node  海豚湾 - Lil 台湾03 | 倍率:1.3  has been added.
+2024/10/30 Wed 15:43:53.320329 [6801 10739128][VERB] Node  海豚湾 - Lil 台湾04 | 倍率:1.3  has been added.
+2024/10/30 Wed 15:43:53.320359 [6801 10739128][VERB] Node  海豚湾 - Lil 台湾05 | 倍率:1.3  has been added.
+2024/10/30 Wed 15:43:53.320390 [6801 10739128][VERB] Node  海豚湾 - Lil 台湾06 | 倍率:1.3  has been added.
+2024/10/30 Wed 15:43:53.320420 [6801 10739128][VERB] Node  海豚湾 - Lil 土耳其01 | 倍率:1.5  has been added.
+2024/10/30 Wed 15:43:53.320450 [6801 10739128][VERB] Node  海豚湾 - Lil 巴西1 | 倍率:1.5  has been added.
+2024/10/30 Wed 15:43:53.320481 [6801 10739128][VERB] Node  海豚湾 - Lil 德国1 | 倍率:1.3  has been added.
+2024/10/30 Wed 15:43:53.320511 [6801 10739128][VERB] Node  海豚湾 - Lil 德国2 | 倍率:1.3  has been added.
+2024/10/30 Wed 15:43:53.320541 [6801 10739128][VERB] Node  海豚湾 - Lil 德国3 | 倍率:1.3  has been added.
+2024/10/30 Wed 15:43:53.320577 [6801 10739128][VERB] Node  海豚湾 - Lil 新加坡01 | 倍率:1.5  has been added.
+2024/10/30 Wed 15:43:53.320608 [6801 10739128][VERB] Node  海豚湾 - Lil 新加坡02 | 倍率:1.5  has been added.
+2024/10/30 Wed 15:43:53.320638 [6801 10739128][VERB] Node  海豚湾 - Lil 新加坡03 | 倍率:1.5  has been added.
+2024/10/30 Wed 15:43:53.320669 [6801 10739128][VERB] Node  海豚湾 - Lil 新加坡04 | 倍率:2  has been added.
+2024/10/30 Wed 15:43:53.320700 [6801 10739128][VERB] Node  海豚湾 - Lil 新加坡05 | 倍率:2  has been added.
+2024/10/30 Wed 15:43:53.320730 [6801 10739128][VERB] Node  海豚湾 - Lil 日本01 | 倍率:1.5  has been added.
+2024/10/30 Wed 15:43:53.320761 [6801 10739128][VERB] Node  海豚湾 - Lil 日本02 | 倍率:1.3  has been added.
+2024/10/30 Wed 15:43:53.320791 [6801 10739128][VERB] Node  海豚湾 - Lil 日本03 | 倍率:1.3  has been added.
+2024/10/30 Wed 15:43:53.320821 [6801 10739128][VERB] Node  海豚湾 - Lil 日本04 | 倍率:1.3  has been added.
+2024/10/30 Wed 15:43:53.320852 [6801 10739128][VERB] Node  海豚湾 - Lil 日本05 | 倍率:1.3  has been added.
+2024/10/30 Wed 15:43:53.320882 [6801 10739128][VERB] Node  海豚湾 - Lil 日本06 | 倍率:2  has been added.
+2024/10/30 Wed 15:43:53.320912 [6801 10739128][VERB] Node  海豚湾 - Lil 泰国01 | 倍率:1.3  has been added.
+2024/10/30 Wed 15:43:53.320943 [6801 10739128][VERB] Node  海豚湾 - Lil 美国01 | 倍率:2.1  has been added.
+2024/10/30 Wed 15:43:53.320973 [6801 10739128][VERB] Node  海豚湾 - Lil 美国02 | 倍率:1.9  has been added.
+2024/10/30 Wed 15:43:53.321003 [6801 10739128][VERB] Node  海豚湾 - Lil 美国03 | 倍率:1.5  has been added.
+2024/10/30 Wed 15:43:53.321033 [6801 10739128][VERB] Node  海豚湾 - Lil 美国04 | 倍率:1.3  has been added.
+2024/10/30 Wed 15:43:53.321063 [6801 10739128][VERB] Node  海豚湾 - Lil 美国05 | 倍率:1.3  has been added.
+2024/10/30 Wed 15:43:53.321093 [6801 10739128][VERB] Node  海豚湾 - Lil 美国06 | 倍率:1.3  has been added.
+2024/10/30 Wed 15:43:53.321123 [6801 10739128][VERB] Node  海豚湾 - Lil 美国07 | 倍率:1.3  has been added.
+2024/10/30 Wed 15:43:53.321153 [6801 10739128][VERB] Node  海豚湾 - Lil 美国08 | 倍率:1.3  has been added.
+2024/10/30 Wed 15:43:53.321183 [6801 10739128][VERB] Node  海豚湾 - Lil 美国09 | 倍率:1.3  has been added.
+2024/10/30 Wed 15:43:53.321213 [6801 10739128][VERB] Node  海豚湾 - Lil 美国10 | 倍率:1.3  has been added.
+2024/10/30 Wed 15:43:53.321244 [6801 10739128][VERB] Node  海豚湾 - Lil 英国1 | 倍率:1.6  has been added.
+2024/10/30 Wed 15:43:53.321274 [6801 10739128][VERB] Node  海豚湾 - Lil 英国2 | 倍率:1.3  has been added.
+2024/10/30 Wed 15:43:53.321304 [6801 10739128][VERB] Node  海豚湾 - Lil 英国3 | 倍率:1.3  has been added.
+2024/10/30 Wed 15:43:53.321334 [6801 10739128][VERB] Node  海豚湾 - Lil 荷兰01 | 倍率:1.3  has been added.
+2024/10/30 Wed 15:43:53.321365 [6801 10739128][VERB] Node  海豚湾 - Lil 菲律宾01 | 倍率:1.5  has been added.
+2024/10/30 Wed 15:43:53.321395 [6801 10739128][VERB] Node  海豚湾 - Lil 西班牙01 | 倍率:1.5  has been added.
+2024/10/30 Wed 15:43:53.321428 [6801 10739128][VERB] Node  海豚湾 - Lil 阿根廷01 | 倍率:1.5  has been added.
+2024/10/30 Wed 15:43:53.321459 [6801 10739128][VERB] Node  海豚湾 - Lil 韩国01 | 倍率:1.5  has been added.
+2024/10/30 Wed 15:43:53.321489 [6801 10739128][VERB] Node  海豚湾 - Lil 韩国02 | 倍率:1.5  has been added.
+2024/10/30 Wed 15:43:53.321519 [6801 10739128][VERB] Node  海豚湾 - Lil 韩国03 | 倍率:1.5  has been added.
+2024/10/30 Wed 15:43:53.321549 [6801 10739128][VERB] Node  海豚湾 - Lil 韩国04 | 倍率:2  has been added.
+2024/10/30 Wed 15:43:53.321579 [6801 10739128][VERB] Node  海豚湾 - Lil 韩国05 | 倍率:2  has been added.
+2024/10/30 Wed 15:43:53.321609 [6801 10739128][VERB] Node  海豚湾 - Lil 香港01 | 倍率:1.8  has been added.
+2024/10/30 Wed 15:43:53.321639 [6801 10739128][VERB] Node  海豚湾 - Lil 香港02 | 倍率:1.8  has been added.
+2024/10/30 Wed 15:43:53.321669 [6801 10739128][VERB] Node  海豚湾 - Lil 香港03 | 倍率:1.6  has been added.
+2024/10/30 Wed 15:43:53.321699 [6801 10739128][VERB] Node  海豚湾 - Lil 香港04 | 倍率:1.6  has been added.
+2024/10/30 Wed 15:43:53.321729 [6801 10739128][VERB] Node  海豚湾 - Lil 香港05 | 倍率:1.5  has been added.
+2024/10/30 Wed 15:43:53.321760 [6801 10739128][VERB] Node  海豚湾 - Lil 香港06 | 倍率:1.5  has been added.
+2024/10/30 Wed 15:43:53.321790 [6801 10739128][VERB] Node  海豚湾 - Lil 香港07 | 倍率:1.5  has been added.
+2024/10/30 Wed 15:43:53.321820 [6801 10739128][VERB] Node  海豚湾 - Lil 香港08 | 倍率:1.5  has been added.
+2024/10/30 Wed 15:43:53.321850 [6801 10739128][VERB] Node  海豚湾 - Lil 香港09 | 倍率:1.6  has been added.
+2024/10/30 Wed 15:43:53.321880 [6801 10739128][VERB] Node  海豚湾 - Lil 香港10 | 倍率:1.6  has been added.
+2024/10/30 Wed 15:43:53.321910 [6801 10739128][VERB] Node  海豚湾 - Lil 香港11 | 倍率:2  has been added.
+2024/10/30 Wed 15:43:53.321940 [6801 10739128][VERB] Node  海豚湾 - Lil 香港12 | 倍率:2  has been added.
+2024/10/30 Wed 15:43:53.321965 [6801 10739128][VERB] Filter done.
+2024/10/30 Wed 15:43:53.323956 [6801 10739128][INFO] Generate target: Clash
+2024/10/30 Wed 15:43:53.385015 [6801 10739128][INFO] Generate completed.
+2024/10/30 Wed 15:43:53.386449 [6801 10739128][INFO] User Info for artifact 'test': Stream Used: 15.14 TB Stream Total: N/A Expiry Time: N/A
+2024/10/30 Wed 15:43:53.386493 [6801 10739128][INFO] Artifact 'test' generate SUCCESS!
+
+2024/10/30 Wed 15:43:53.386584 [6801 10739128][INFO] Generating artifact 'test_profile'...
+2024/10/30 Wed 15:43:53.388146 [6801 10739128][INFO] Trying to load profile 'profiles/example_profile.ini'.
+2024/10/30 Wed 15:43:53.388199 [6801 10739128][INFO] Trying to parse profile 'profiles/example_profile.ini'.
+2024/10/30 Wed 15:43:53.388352 [6801 10739128][VERB] Imported 0 item(s).
+2024/10/30 Wed 15:43:53.388411 [6801 10739128][INFO] Fetching node data from url 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYXNzd29yZA@www.example.com:1080#Example'.
+2024/10/30 Wed 15:43:53.389970 [6801 10739128][VERB] Received Link.
+2024/10/30 Wed 15:43:53.390088 [6801 10739128][INFO] Generate target: Clash
+2024/10/30 Wed 15:43:53.417979 [6801 10739128][INFO] Generate completed.
+2024/10/30 Wed 15:43:53.419556 [6801 10739128][INFO] Artifact 'test_profile' generate SUCCESS!
+
+2024/10/30 Wed 15:43:53.419590 [6801 10739128][INFO] All artifact generated. Exiting...
+2024/11/01 Fri 03:32:27.304227 [3371974 10739128][INFO] SubConverter v0.7.2 starting up..
+]0;SubConverter v0.7.22024/11/01 Fri 03:32:27.305052 [3371974 10739128][INFO] Reading preference settings...
+2024/11/01 Fri 03:32:27.317930 [3371974 10739128][INFO] Updating ruleset url 'rules/LocalAreaNetwork.list' with group '🎯 全球直连'.
+2024/11/01 Fri 03:32:27.318125 [3371974 10739128][INFO] Updating ruleset url 'rules/MSServices.list' with group 'Ⓜ️ 微软服务'.
+2024/11/01 Fri 03:32:27.318248 [3371974 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Unbreak.list' with group '🎯 全球直连'.
+2024/11/01 Fri 03:32:27.318484 [3371974 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/AdRule.list' with group '🛑 全球拦截'.
+2024/11/01 Fri 03:32:27.318812 [3371974 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list' with group '🛑 全球拦截'.
+2024/11/01 Fri 03:32:27.318923 [3371974 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list' with group '🎥 NETFLIX'.
+2024/11/01 Fri 03:32:27.319020 [3371974 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list' with group '🌍 国外媒体'.
+2024/11/01 Fri 03:32:27.319119 [3371974 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list' with group '🌏 国内媒体'.
+2024/11/01 Fri 03:32:27.319210 [3371974 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list' with group '🌏 国内媒体'.
+2024/11/01 Fri 03:32:27.319301 [3371974 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list' with group '🌏 国内媒体'.
+2024/11/01 Fri 03:32:27.319383 [3371974 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list' with group '🌏 国内媒体'.
+2024/11/01 Fri 03:32:27.319461 [3371974 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list' with group '🌏 国内媒体'.
+2024/11/01 Fri 03:32:27.319540 [3371974 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list' with group '🌏 国内媒体'.
+2024/11/01 Fri 03:32:27.319615 [3371974 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list' with group '📲 电报信息'.
+2024/11/01 Fri 03:32:27.319700 [3371974 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Global.list' with group '🔰 节点选择'.
+2024/11/01 Fri 03:32:27.319799 [3371974 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list' with group '🍎 苹果服务'.
+2024/11/01 Fri 03:32:27.319887 [3371974 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/China.list' with group '🎯 全球直连'.
+2024/11/01 Fri 03:32:27.319980 [3371974 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/Download.list' with group '🎯 全球直连'.
+2024/11/01 Fri 03:32:27.320067 [3371974 10739128][INFO] Adding rule 'GEOIP,CN,🎯 全球直连'.
+2024/11/01 Fri 03:32:27.320111 [3371974 10739128][INFO] Adding rule 'FINAL,🐟 漏网之鱼'.
+2024/11/01 Fri 03:32:27.320164 [3371974 10739128][INFO] Reading generator configuration...
+2024/11/01 Fri 03:32:27.320209 [3371974 10739128][INFO] Read generator configuration completed.
+
+2024/11/01 Fri 03:32:27.320224 [3371974 10739128][INFO] Generating all artifacts...
+2024/11/01 Fri 03:32:27.320237 [3371974 10739128][INFO] Generating artifact 'test'...
+2024/11/01 Fri 03:32:27.320289 [3371974 10739128][VERB] Imported 0 item(s).
+2024/11/01 Fri 03:32:27.320361 [3371974 10739128][INFO] Fetching node data from url '../../temp/clash.yaml'.
+2024/11/01 Fri 03:32:27.321183 [3371974 10739128][VERB] Received Link.
+2024/11/01 Fri 03:32:27.321206 [3371974 10739128][VERB] Parsing configuration file data...
+2024/11/01 Fri 03:32:27.325375 [3371974 10739128][VERB] Node  海豚湾 - 官网地址 - https://hitun.io  has been ignored and will not be added.
+2024/11/01 Fri 03:32:27.325409 [3371974 10739128][VERB] Node  海豚湾 - 剩余流量：25.57% 5.25TB  has been ignored and will not be added.
+2024/11/01 Fri 03:32:27.325435 [3371974 10739128][VERB] Node  海豚湾 - 套餐时间：2025-04-06  has been ignored and will not be added.
+2024/11/01 Fri 03:32:27.325463 [3371974 10739128][VERB] Node  海豚湾 - A应急续费使用 | 到期后可用5GB  has been ignored and will not be added.
+2024/11/01 Fri 03:32:27.325489 [3371974 10739128][VERB] Node  海豚湾 - Game 台湾 | 遊戲專用 | 倍率:20  has been added.
+2024/11/01 Fri 03:32:27.325504 [3371974 10739128][VERB] Node  海豚湾 - Game 日本 | 遊戲專用 | 倍率:20  has been added.
+2024/11/01 Fri 03:32:27.325524 [3371974 10739128][VERB] Node  海豚湾 - Game 香港 | 遊戲專用 | 倍率:20  has been added.
+2024/11/01 Fri 03:32:27.325539 [3371974 10739128][VERB] Node  海豚湾 - Large 台湾01  has been added.
+2024/11/01 Fri 03:32:27.325556 [3371974 10739128][VERB] Node  海豚湾 - Large 台湾02  has been added.
+2024/11/01 Fri 03:32:27.325571 [3371974 10739128][VERB] Node  海豚湾 - Large 台湾03  has been added.
+2024/11/01 Fri 03:32:27.325588 [3371974 10739128][VERB] Node  海豚湾 - Large 台湾04  has been added.
+2024/11/01 Fri 03:32:27.325604 [3371974 10739128][VERB] Node  海豚湾 - Large 台湾05  has been added.
+2024/11/01 Fri 03:32:27.325620 [3371974 10739128][VERB] Node  海豚湾 - Large 台湾06  has been added.
+2024/11/01 Fri 03:32:27.325635 [3371974 10739128][VERB] Node  海豚湾 - Large 墨西哥01 | 倍率:1.5  has been added.
+2024/11/01 Fri 03:32:27.325652 [3371974 10739128][VERB] Node  海豚湾 - Large 新加坡01 | 倍率:1.5  has been added.
+2024/11/01 Fri 03:32:27.325668 [3371974 10739128][VERB] Node  海豚湾 - Large 新加坡02 | 倍率:1.5  has been added.
+2024/11/01 Fri 03:32:27.325684 [3371974 10739128][VERB] Node  海豚湾 - Large 新加坡03 | 倍率:1.6  has been added.
+2024/11/01 Fri 03:32:27.325701 [3371974 10739128][VERB] Node  海豚湾 - Large 新加坡04 | 倍率:1.6  has been added.
+2024/11/01 Fri 03:32:27.325717 [3371974 10739128][VERB] Node  海豚湾 - Large 新加坡05 | 倍率:1.5  has been added.
+2024/11/01 Fri 03:32:27.325733 [3371974 10739128][VERB] Node  海豚湾 - Large 新加坡06 | 倍率:1.5  has been added.
+2024/11/01 Fri 03:32:27.325748 [3371974 10739128][VERB] Node  海豚湾 - Large 新加坡07 | 倍率:1.5  has been added.
+2024/11/01 Fri 03:32:27.325763 [3371974 10739128][VERB] Node  海豚湾 - Large 新加坡08 | 倍率:1.5  has been added.
+2024/11/01 Fri 03:32:27.325778 [3371974 10739128][VERB] Node  海豚湾 - Large 新加坡09 | 倍率:1.5  has been added.
+2024/11/01 Fri 03:32:27.325794 [3371974 10739128][VERB] Node  海豚湾 - Large 新加坡10 | 倍率:1.5  has been added.
+2024/11/01 Fri 03:32:27.325809 [3371974 10739128][VERB] Node  海豚湾 - Large 日本01 | 倍率:1.5  has been added.
+2024/11/01 Fri 03:32:27.325825 [3371974 10739128][VERB] Node  海豚湾 - Large 日本02 | 倍率:1.5  has been added.
+2024/11/01 Fri 03:32:27.325839 [3371974 10739128][VERB] Node  海豚湾 - Large 日本03 | 倍率:1.5  has been added.
+2024/11/01 Fri 03:32:27.325854 [3371974 10739128][VERB] Node  海豚湾 - Large 日本04 | 倍率:1.3  has been added.
+2024/11/01 Fri 03:32:27.325869 [3371974 10739128][VERB] Node  海豚湾 - Large 日本05 | 倍率:1.3  has been added.
+2024/11/01 Fri 03:32:27.325884 [3371974 10739128][VERB] Node  海豚湾 - Large 澳洲01 | 倍率:1.6  has been added.
+2024/11/01 Fri 03:32:27.325899 [3371974 10739128][VERB] Node  海豚湾 - Large 澳洲02 | 倍率:1.6  has been added.
+2024/11/01 Fri 03:32:27.325912 [3371974 10739128][VERB] Node  海豚湾 - Large 美国01 | 倍率:2  has been added.
+2024/11/01 Fri 03:32:27.325927 [3371974 10739128][VERB] Node  海豚湾 - Large 美国02 | 倍率:1.8  has been added.
+2024/11/01 Fri 03:32:27.325942 [3371974 10739128][VERB] Node  海豚湾 - Large 美国03 | 倍率:1.6  has been added.
+2024/11/01 Fri 03:32:27.325957 [3371974 10739128][VERB] Node  海豚湾 - Large 美国04 | 倍率:1.5  has been added.
+2024/11/01 Fri 03:32:27.325972 [3371974 10739128][VERB] Node  海豚湾 - Large 美国05 | 倍率:1.5  has been added.
+2024/11/01 Fri 03:32:27.325986 [3371974 10739128][VERB] Node  海豚湾 - Large 美国06 | 倍率:1.7  has been added.
+2024/11/01 Fri 03:32:27.326017 [3371974 10739128][VERB] Node  海豚湾 - Large 韩国01 | 倍率:1.6  has been added.
+2024/11/01 Fri 03:32:27.326033 [3371974 10739128][VERB] Node  海豚湾 - Large 韩国02 | 倍率:1.6  has been added.
+2024/11/01 Fri 03:32:27.326048 [3371974 10739128][VERB] Node  海豚湾 - Large 香港01 | 倍率:2  has been added.
+2024/11/01 Fri 03:32:27.326065 [3371974 10739128][VERB] Node  海豚湾 - Large 香港02 | 倍率:2  has been added.
+2024/11/01 Fri 03:32:27.326080 [3371974 10739128][VERB] Node  海豚湾 - Large 香港03 | 倍率:2  has been added.
+2024/11/01 Fri 03:32:27.326094 [3371974 10739128][VERB] Node  海豚湾 - Large 香港04 | 倍率:1.9  has been added.
+2024/11/01 Fri 03:32:27.326108 [3371974 10739128][VERB] Node  海豚湾 - Large 香港05 | 倍率:1.8  has been added.
+2024/11/01 Fri 03:32:27.326122 [3371974 10739128][VERB] Node  海豚湾 - Large 香港06 | 倍率:2  has been added.
+2024/11/01 Fri 03:32:27.326318 [3371974 10739128][VERB] Node  海豚湾 - Large 香港07 | 倍率:1.8  has been added.
+2024/11/01 Fri 03:32:27.326333 [3371974 10739128][VERB] Node  海豚湾 - Large 香港08 | 倍率:1.6  has been added.
+2024/11/01 Fri 03:32:27.326348 [3371974 10739128][VERB] Node  海豚湾 - Large 香港09 | 倍率:1.6  has been added.
+2024/11/01 Fri 03:32:27.326363 [3371974 10739128][VERB] Node  海豚湾 - Large 香港10 | 倍率:1.6  has been added.
+2024/11/01 Fri 03:32:27.326378 [3371974 10739128][VERB] Node  海豚湾 - Large 香港11 | 倍率:1.6  has been added.
+2024/11/01 Fri 03:32:27.326394 [3371974 10739128][VERB] Node  海豚湾 - Large 香港12 | 倍率:1.6  has been added.
+2024/11/01 Fri 03:32:27.326407 [3371974 10739128][VERB] Node  海豚湾 - Large 香港13 | 倍率:1.6  has been added.
+2024/11/01 Fri 03:32:27.326423 [3371974 10739128][VERB] Node  海豚湾 - Large 香港14 | 倍率:1.6  has been added.
+2024/11/01 Fri 03:32:27.326438 [3371974 10739128][VERB] Node  海豚湾 - Large 香港15 | 倍率:1.6  has been added.
+2024/11/01 Fri 03:32:27.326452 [3371974 10739128][VERB] Node  海豚湾 - Large 香港16 | 倍率:1.6  has been added.
+2024/11/01 Fri 03:32:27.326468 [3371974 10739128][VERB] Node  海豚湾 - Large 香港17 | 倍率:1.8  has been added.
+2024/11/01 Fri 03:32:27.326482 [3371974 10739128][VERB] Node  海豚湾 - Large 香港18 | 倍率:1.8  has been added.
+2024/11/01 Fri 03:32:27.326496 [3371974 10739128][VERB] Node  海豚湾 - Large 香港19 | 倍率:1.6  has been added.
+2024/11/01 Fri 03:32:27.326512 [3371974 10739128][VERB] Node  海豚湾 - Large 香港20 | 倍率:1.6  has been added.
+2024/11/01 Fri 03:32:27.326528 [3371974 10739128][VERB] Node  海豚湾 - Large 香港21 | 倍率:1.6  has been added.
+2024/11/01 Fri 03:32:27.326543 [3371974 10739128][VERB] Node  海豚湾 - Lil 俄罗斯01 | 倍率:1.3  has been added.
+2024/11/01 Fri 03:32:27.326559 [3371974 10739128][VERB] Node  海豚湾 - Lil 加拿大1 | 倍率:1.3  has been added.
+2024/11/01 Fri 03:32:27.326575 [3371974 10739128][VERB] Node  海豚湾 - Lil 印度01 | 倍率:1.3  has been added.
+2024/11/01 Fri 03:32:27.326590 [3371974 10739128][VERB] Node  海豚湾 - Lil 印度02 | 倍率:1.3  has been added.
+2024/11/01 Fri 03:32:27.326606 [3371974 10739128][VERB] Node  海豚湾 - Lil 台湾01 | 倍率:1.5  has been added.
+2024/11/01 Fri 03:32:27.326622 [3371974 10739128][VERB] Node  海豚湾 - Lil 台湾02 | 倍率:1.3  has been added.
+2024/11/01 Fri 03:32:27.326637 [3371974 10739128][VERB] Node  海豚湾 - Lil 台湾03 | 倍率:1.3  has been added.
+2024/11/01 Fri 03:32:27.326652 [3371974 10739128][VERB] Node  海豚湾 - Lil 台湾04 | 倍率:1.3  has been added.
+2024/11/01 Fri 03:32:27.326668 [3371974 10739128][VERB] Node  海豚湾 - Lil 台湾05 | 倍率:1.3  has been added.
+2024/11/01 Fri 03:32:27.326683 [3371974 10739128][VERB] Node  海豚湾 - Lil 台湾06 | 倍率:1.3  has been added.
+2024/11/01 Fri 03:32:27.326698 [3371974 10739128][VERB] Node  海豚湾 - Lil 土耳其01 | 倍率:1.5  has been added.
+2024/11/01 Fri 03:32:27.326714 [3371974 10739128][VERB] Node  海豚湾 - Lil 巴西1 | 倍率:1.5  has been added.
+2024/11/01 Fri 03:32:27.326730 [3371974 10739128][VERB] Node  海豚湾 - Lil 德国1 | 倍率:1.3  has been added.
+2024/11/01 Fri 03:32:27.326746 [3371974 10739128][VERB] Node  海豚湾 - Lil 德国2 | 倍率:1.3  has been added.
+2024/11/01 Fri 03:32:27.326761 [3371974 10739128][VERB] Node  海豚湾 - Lil 德国3 | 倍率:1.3  has been added.
+2024/11/01 Fri 03:32:27.326779 [3371974 10739128][VERB] Node  海豚湾 - Lil 新加坡01 | 倍率:1.5  has been added.
+2024/11/01 Fri 03:32:27.326795 [3371974 10739128][VERB] Node  海豚湾 - Lil 新加坡02 | 倍率:1.5  has been added.
+2024/11/01 Fri 03:32:27.326811 [3371974 10739128][VERB] Node  海豚湾 - Lil 新加坡03 | 倍率:1.5  has been added.
+2024/11/01 Fri 03:32:27.326827 [3371974 10739128][VERB] Node  海豚湾 - Lil 新加坡04 | 倍率:2  has been added.
+2024/11/01 Fri 03:32:27.326842 [3371974 10739128][VERB] Node  海豚湾 - Lil 新加坡05 | 倍率:2  has been added.
+2024/11/01 Fri 03:32:27.326857 [3371974 10739128][VERB] Node  海豚湾 - Lil 日本01 | 倍率:1.5  has been added.
+2024/11/01 Fri 03:32:27.326873 [3371974 10739128][VERB] Node  海豚湾 - Lil 日本02 | 倍率:1.3  has been added.
+2024/11/01 Fri 03:32:27.326888 [3371974 10739128][VERB] Node  海豚湾 - Lil 日本03 | 倍率:1.3  has been added.
+2024/11/01 Fri 03:32:27.326904 [3371974 10739128][VERB] Node  海豚湾 - Lil 日本04 | 倍率:1.3  has been added.
+2024/11/01 Fri 03:32:27.326919 [3371974 10739128][VERB] Node  海豚湾 - Lil 日本05 | 倍率:1.3  has been added.
+2024/11/01 Fri 03:32:27.326935 [3371974 10739128][VERB] Node  海豚湾 - Lil 日本06 | 倍率:2  has been added.
+2024/11/01 Fri 03:32:27.326951 [3371974 10739128][VERB] Node  海豚湾 - Lil 泰国01 | 倍率:1.3  has been added.
+2024/11/01 Fri 03:32:27.326967 [3371974 10739128][VERB] Node  海豚湾 - Lil 美国01 | 倍率:2.1  has been added.
+2024/11/01 Fri 03:32:27.326982 [3371974 10739128][VERB] Node  海豚湾 - Lil 美国02 | 倍率:1.9  has been added.
+2024/11/01 Fri 03:32:27.326998 [3371974 10739128][VERB] Node  海豚湾 - Lil 美国03 | 倍率:1.5  has been added.
+2024/11/01 Fri 03:32:27.327013 [3371974 10739128][VERB] Node  海豚湾 - Lil 美国04 | 倍率:1.3  has been added.
+2024/11/01 Fri 03:32:27.327028 [3371974 10739128][VERB] Node  海豚湾 - Lil 美国05 | 倍率:1.3  has been added.
+2024/11/01 Fri 03:32:27.327043 [3371974 10739128][VERB] Node  海豚湾 - Lil 美国06 | 倍率:1.3  has been added.
+2024/11/01 Fri 03:32:27.327059 [3371974 10739128][VERB] Node  海豚湾 - Lil 美国07 | 倍率:1.3  has been added.
+2024/11/01 Fri 03:32:27.327074 [3371974 10739128][VERB] Node  海豚湾 - Lil 美国08 | 倍率:1.3  has been added.
+2024/11/01 Fri 03:32:27.327090 [3371974 10739128][VERB] Node  海豚湾 - Lil 美国09 | 倍率:1.3  has been added.
+2024/11/01 Fri 03:32:27.327105 [3371974 10739128][VERB] Node  海豚湾 - Lil 美国10 | 倍率:1.3  has been added.
+2024/11/01 Fri 03:32:27.327121 [3371974 10739128][VERB] Node  海豚湾 - Lil 英国1 | 倍率:1.6  has been added.
+2024/11/01 Fri 03:32:27.327124 [3371974 10739128][VERB] Node  海豚湾 - Lil 英国2 | 倍率:1.3  has been added.
+2024/11/01 Fri 03:32:27.327332 [3371974 10739128][VERB] Node  海豚湾 - Lil 英国3 | 倍率:1.3  has been added.
+2024/11/01 Fri 03:32:27.327347 [3371974 10739128][VERB] Node  海豚湾 - Lil 荷兰01 | 倍率:1.3  has been added.
+2024/11/01 Fri 03:32:27.327363 [3371974 10739128][VERB] Node  海豚湾 - Lil 菲律宾01 | 倍率:1.5  has been added.
+2024/11/01 Fri 03:32:27.327378 [3371974 10739128][VERB] Node  海豚湾 - Lil 西班牙01 | 倍率:1.5  has been added.
+2024/11/01 Fri 03:32:27.327394 [3371974 10739128][VERB] Node  海豚湾 - Lil 阿根廷01 | 倍率:1.5  has been added.
+2024/11/01 Fri 03:32:27.327410 [3371974 10739128][VERB] Node  海豚湾 - Lil 韩国01 | 倍率:1.5  has been added.
+2024/11/01 Fri 03:32:27.327426 [3371974 10739128][VERB] Node  海豚湾 - Lil 韩国02 | 倍率:1.5  has been added.
+2024/11/01 Fri 03:32:27.327441 [3371974 10739128][VERB] Node  海豚湾 - Lil 韩国03 | 倍率:1.5  has been added.
+2024/11/01 Fri 03:32:27.327457 [3371974 10739128][VERB] Node  海豚湾 - Lil 韩国04 | 倍率:2  has been added.
+2024/11/01 Fri 03:32:27.327473 [3371974 10739128][VERB] Node  海豚湾 - Lil 韩国05 | 倍率:2  has been added.
+2024/11/01 Fri 03:32:27.327488 [3371974 10739128][VERB] Node  海豚湾 - Lil 香港01 | 倍率:1.8  has been added.
+2024/11/01 Fri 03:32:27.327505 [3371974 10739128][VERB] Node  海豚湾 - Lil 香港02 | 倍率:1.8  has been added.
+2024/11/01 Fri 03:32:27.327520 [3371974 10739128][VERB] Node  海豚湾 - Lil 香港03 | 倍率:1.6  has been added.
+2024/11/01 Fri 03:32:27.327535 [3371974 10739128][VERB] Node  海豚湾 - Lil 香港04 | 倍率:1.6  has been added.
+2024/11/01 Fri 03:32:27.327551 [3371974 10739128][VERB] Node  海豚湾 - Lil 香港05 | 倍率:1.5  has been added.
+2024/11/01 Fri 03:32:27.327566 [3371974 10739128][VERB] Node  海豚湾 - Lil 香港06 | 倍率:1.5  has been added.
+2024/11/01 Fri 03:32:27.327581 [3371974 10739128][VERB] Node  海豚湾 - Lil 香港07 | 倍率:1.5  has been added.
+2024/11/01 Fri 03:32:27.327597 [3371974 10739128][VERB] Node  海豚湾 - Lil 香港08 | 倍率:1.5  has been added.
+2024/11/01 Fri 03:32:27.327612 [3371974 10739128][VERB] Node  海豚湾 - Lil 香港09 | 倍率:1.6  has been added.
+2024/11/01 Fri 03:32:27.327628 [3371974 10739128][VERB] Node  海豚湾 - Lil 香港10 | 倍率:1.6  has been added.
+2024/11/01 Fri 03:32:27.327643 [3371974 10739128][VERB] Node  海豚湾 - Lil 香港11 | 倍率:2  has been added.
+2024/11/01 Fri 03:32:27.327659 [3371974 10739128][VERB] Node  海豚湾 - Lil 香港12 | 倍率:2  has been added.
+2024/11/01 Fri 03:32:27.327671 [3371974 10739128][VERB] Filter done.
+2024/11/01 Fri 03:32:27.328538 [3371974 10739128][INFO] Generate target: Clash
+2024/11/01 Fri 03:32:27.354814 [3371974 10739128][INFO] Generate completed.
+2024/11/01 Fri 03:32:27.355186 [3371974 10739128][INFO] User Info for artifact 'test': Stream Used: 15.28 TB Stream Total: N/A Expiry Time: N/A
+2024/11/01 Fri 03:32:27.355202 [3371974 10739128][INFO] Artifact 'test' generate SUCCESS!
+
+2024/11/01 Fri 03:32:27.355216 [3371974 10739128][INFO] Generating artifact 'test_profile'...
+2024/11/01 Fri 03:32:27.355244 [3371974 10739128][INFO] Trying to load profile 'profiles/example_profile.ini'.
+2024/11/01 Fri 03:32:27.355264 [3371974 10739128][INFO] Trying to parse profile 'profiles/example_profile.ini'.
+2024/11/01 Fri 03:32:27.355330 [3371974 10739128][VERB] Imported 0 item(s).
+2024/11/01 Fri 03:32:27.355353 [3371974 10739128][INFO] Fetching node data from url 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYXNzd29yZA@www.example.com:1080#Example'.
+2024/11/01 Fri 03:32:27.356041 [3371974 10739128][VERB] Received Link.
+2024/11/01 Fri 03:32:27.356099 [3371974 10739128][INFO] Generate target: Clash
+2024/11/01 Fri 03:32:27.366249 [3371974 10739128][INFO] Generate completed.
+2024/11/01 Fri 03:32:27.366662 [3371974 10739128][INFO] Artifact 'test_profile' generate SUCCESS!
+
+2024/11/01 Fri 03:32:27.366679 [3371974 10739128][INFO] All artifact generated. Exiting...
+2024/11/07 Thu 16:24:45.281408 [3522037 10739128][INFO] SubConverter v0.7.2 starting up..
+]0;SubConverter v0.7.22024/11/07 Thu 16:24:45.283061 [3522037 10739128][INFO] Reading preference settings...
+2024/11/07 Thu 16:24:45.296671 [3522037 10739128][INFO] Updating ruleset url 'rules/LocalAreaNetwork.list' with group '🎯 全球直连'.
+2024/11/07 Thu 16:24:45.296895 [3522037 10739128][INFO] Updating ruleset url 'rules/MSServices.list' with group 'Ⓜ️ 微软服务'.
+2024/11/07 Thu 16:24:45.297039 [3522037 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Unbreak.list' with group '🎯 全球直连'.
+2024/11/07 Thu 16:24:45.297145 [3522037 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/AdRule.list' with group '🛑 全球拦截'.
+2024/11/07 Thu 16:24:45.297438 [3522037 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list' with group '🛑 全球拦截'.
+2024/11/07 Thu 16:24:45.297541 [3522037 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list' with group '🎥 NETFLIX'.
+2024/11/07 Thu 16:24:45.297639 [3522037 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list' with group '🌍 国外媒体'.
+2024/11/07 Thu 16:24:45.297740 [3522037 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list' with group '🌏 国内媒体'.
+2024/11/07 Thu 16:24:45.297845 [3522037 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list' with group '🌏 国内媒体'.
+2024/11/07 Thu 16:24:45.297932 [3522037 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list' with group '🌏 国内媒体'.
+2024/11/07 Thu 16:24:45.298036 [3522037 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list' with group '🌏 国内媒体'.
+2024/11/07 Thu 16:24:45.298131 [3522037 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list' with group '🌏 国内媒体'.
+2024/11/07 Thu 16:24:45.298222 [3522037 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list' with group '🌏 国内媒体'.
+2024/11/07 Thu 16:24:45.298310 [3522037 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list' with group '📲 电报信息'.
+2024/11/07 Thu 16:24:45.298401 [3522037 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Global.list' with group '🔰 节点选择'.
+2024/11/07 Thu 16:24:45.298507 [3522037 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list' with group '🍎 苹果服务'.
+2024/11/07 Thu 16:24:45.298608 [3522037 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/China.list' with group '🎯 全球直连'.
+2024/11/07 Thu 16:24:45.298707 [3522037 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/Download.list' with group '🎯 全球直连'.
+2024/11/07 Thu 16:24:45.298788 [3522037 10739128][INFO] Adding rule 'GEOIP,CN,🎯 全球直连'.
+2024/11/07 Thu 16:24:45.298837 [3522037 10739128][INFO] Adding rule 'FINAL,🐟 漏网之鱼'.
+2024/11/07 Thu 16:24:45.298897 [3522037 10739128][INFO] Reading generator configuration...
+2024/11/07 Thu 16:24:45.298981 [3522037 10739128][INFO] Read generator configuration completed.
+
+2024/11/07 Thu 16:24:45.299005 [3522037 10739128][INFO] Generating all artifacts...
+2024/11/07 Thu 16:24:45.299022 [3522037 10739128][INFO] Generating artifact 'test'...
+2024/11/07 Thu 16:24:45.299078 [3522037 10739128][VERB] Imported 0 item(s).
+2024/11/07 Thu 16:24:45.300589 [3522037 10739128][INFO] Fetching node data from url '../../temp/clash.yaml'.
+2024/11/07 Thu 16:24:45.303698 [3522037 10739128][VERB] Received Link.
+2024/11/07 Thu 16:24:45.303740 [3522037 10739128][VERB] Parsing configuration file data...
+2024/11/07 Thu 16:24:45.307504 [3522037 10739128][VERB] Node  海豚湾 - 官网地址 - https://hitun.io  has been ignored and will not be added.
+2024/11/07 Thu 16:24:45.307554 [3522037 10739128][VERB] Node  海豚湾 - 剩余流量：22.90% 4.7TB  has been ignored and will not be added.
+2024/11/07 Thu 16:24:45.307585 [3522037 10739128][VERB] Node  海豚湾 - 套餐时间：2025-04-06  has been ignored and will not be added.
+2024/11/07 Thu 16:24:45.307619 [3522037 10739128][VERB] Node  海豚湾 - A应急续费使用 | 到期后可用5GB  has been ignored and will not be added.
+2024/11/07 Thu 16:24:45.307650 [3522037 10739128][VERB] Node  海豚湾 - Game 台湾 | 遊戲專用 | 倍率:20  has been added.
+2024/11/07 Thu 16:24:45.307671 [3522037 10739128][VERB] Node  海豚湾 - Game 日本 | 遊戲專用 | 倍率:20  has been added.
+2024/11/07 Thu 16:24:45.307692 [3522037 10739128][VERB] Node  海豚湾 - Game 香港 | 遊戲專用 | 倍率:20  has been added.
+2024/11/07 Thu 16:24:45.307711 [3522037 10739128][VERB] Node  海豚湾 - Large 台湾01  has been added.
+2024/11/07 Thu 16:24:45.307730 [3522037 10739128][VERB] Node  海豚湾 - Large 台湾02  has been added.
+2024/11/07 Thu 16:24:45.307749 [3522037 10739128][VERB] Node  海豚湾 - Large 台湾03  has been added.
+2024/11/07 Thu 16:24:45.307768 [3522037 10739128][VERB] Node  海豚湾 - Large 台湾04  has been added.
+2024/11/07 Thu 16:24:45.307791 [3522037 10739128][VERB] Node  海豚湾 - Large 台湾05  has been added.
+2024/11/07 Thu 16:24:45.307817 [3522037 10739128][VERB] Node  海豚湾 - Large 台湾06  has been added.
+2024/11/07 Thu 16:24:45.307838 [3522037 10739128][VERB] Node  海豚湾 - Large 墨西哥01 | 倍率:1.5  has been added.
+2024/11/07 Thu 16:24:45.307858 [3522037 10739128][VERB] Node  海豚湾 - Large 新加坡01 | 倍率:1.5  has been added.
+2024/11/07 Thu 16:24:45.307878 [3522037 10739128][VERB] Node  海豚湾 - Large 新加坡02 | 倍率:1.5  has been added.
+2024/11/07 Thu 16:24:45.307897 [3522037 10739128][VERB] Node  海豚湾 - Large 新加坡03 | 倍率:1.6  has been added.
+2024/11/07 Thu 16:24:45.307916 [3522037 10739128][VERB] Node  海豚湾 - Large 新加坡04 | 倍率:1.6  has been added.
+2024/11/07 Thu 16:24:45.307937 [3522037 10739128][VERB] Node  海豚湾 - Large 新加坡05 | 倍率:1.5  has been added.
+2024/11/07 Thu 16:24:45.307957 [3522037 10739128][VERB] Node  海豚湾 - Large 新加坡06 | 倍率:1.5  has been added.
+2024/11/07 Thu 16:24:45.307977 [3522037 10739128][VERB] Node  海豚湾 - Large 新加坡07 | 倍率:1.5  has been added.
+2024/11/07 Thu 16:24:45.307996 [3522037 10739128][VERB] Node  海豚湾 - Large 新加坡08 | 倍率:1.5  has been added.
+2024/11/07 Thu 16:24:45.308015 [3522037 10739128][VERB] Node  海豚湾 - Large 新加坡09 | 倍率:1.5  has been added.
+2024/11/07 Thu 16:24:45.308037 [3522037 10739128][VERB] Node  海豚湾 - Large 新加坡10 | 倍率:1.5  has been added.
+2024/11/07 Thu 16:24:45.308055 [3522037 10739128][VERB] Node  海豚湾 - Large 日本01 | 倍率:1.5  has been added.
+2024/11/07 Thu 16:24:45.308073 [3522037 10739128][VERB] Node  海豚湾 - Large 日本02 | 倍率:1.5  has been added.
+2024/11/07 Thu 16:24:45.308092 [3522037 10739128][VERB] Node  海豚湾 - Large 日本03 | 倍率:1.5  has been added.
+2024/11/07 Thu 16:24:45.308113 [3522037 10739128][VERB] Node  海豚湾 - Large 日本04 | 倍率:1.3  has been added.
+2024/11/07 Thu 16:24:45.308132 [3522037 10739128][VERB] Node  海豚湾 - Large 日本05 | 倍率:1.3  has been added.
+2024/11/07 Thu 16:24:45.308153 [3522037 10739128][VERB] Node  海豚湾 - Large 澳洲01 | 倍率:1.6  has been added.
+2024/11/07 Thu 16:24:45.308173 [3522037 10739128][VERB] Node  海豚湾 - Large 澳洲02 | 倍率:1.6  has been added.
+2024/11/07 Thu 16:24:45.308192 [3522037 10739128][VERB] Node  海豚湾 - Large 美国01 | 倍率:2  has been added.
+2024/11/07 Thu 16:24:45.308211 [3522037 10739128][VERB] Node  海豚湾 - Large 美国02 | 倍率:1.8  has been added.
+2024/11/07 Thu 16:24:45.308229 [3522037 10739128][VERB] Node  海豚湾 - Large 美国03 | 倍率:1.6  has been added.
+2024/11/07 Thu 16:24:45.308247 [3522037 10739128][VERB] Node  海豚湾 - Large 美国04 | 倍率:1.5  has been added.
+2024/11/07 Thu 16:24:45.308268 [3522037 10739128][VERB] Node  海豚湾 - Large 美国05 | 倍率:1.5  has been added.
+2024/11/07 Thu 16:24:45.308287 [3522037 10739128][VERB] Node  海豚湾 - Large 美国06 | 倍率:1.7  has been added.
+2024/11/07 Thu 16:24:45.308308 [3522037 10739128][VERB] Node  海豚湾 - Large 韩国01 | 倍率:1.6  has been added.
+2024/11/07 Thu 16:24:45.308326 [3522037 10739128][VERB] Node  海豚湾 - Large 韩国02 | 倍率:1.6  has been added.
+2024/11/07 Thu 16:24:45.308345 [3522037 10739128][VERB] Node  海豚湾 - Large 香港01 | 倍率:2  has been added.
+2024/11/07 Thu 16:24:45.308365 [3522037 10739128][VERB] Node  海豚湾 - Large 香港02 | 倍率:2  has been added.
+2024/11/07 Thu 16:24:45.308386 [3522037 10739128][VERB] Node  海豚湾 - Large 香港03 | 倍率:2  has been added.
+2024/11/07 Thu 16:24:45.308404 [3522037 10739128][VERB] Node  海豚湾 - Large 香港04 | 倍率:1.9  has been added.
+2024/11/07 Thu 16:24:45.308424 [3522037 10739128][VERB] Node  海豚湾 - Large 香港05 | 倍率:1.8  has been added.
+2024/11/07 Thu 16:24:45.308443 [3522037 10739128][VERB] Node  海豚湾 - Large 香港06 | 倍率:2  has been added.
+2024/11/07 Thu 16:24:45.308463 [3522037 10739128][VERB] Node  海豚湾 - Large 香港07 | 倍率:1.8  has been added.
+2024/11/07 Thu 16:24:45.308488 [3522037 10739128][VERB] Node  海豚湾 - Large 香港08 | 倍率:1.6  has been added.
+2024/11/07 Thu 16:24:45.308509 [3522037 10739128][VERB] Node  海豚湾 - Large 香港09 | 倍率:1.6  has been added.
+2024/11/07 Thu 16:24:45.308528 [3522037 10739128][VERB] Node  海豚湾 - Large 香港10 | 倍率:1.6  has been added.
+2024/11/07 Thu 16:24:45.308548 [3522037 10739128][VERB] Node  海豚湾 - Large 香港11 | 倍率:1.6  has been added.
+2024/11/07 Thu 16:24:45.308570 [3522037 10739128][VERB] Node  海豚湾 - Large 香港12 | 倍率:1.6  has been added.
+2024/11/07 Thu 16:24:45.308589 [3522037 10739128][VERB] Node  海豚湾 - Large 香港13 | 倍率:1.6  has been added.
+2024/11/07 Thu 16:24:45.308608 [3522037 10739128][VERB] Node  海豚湾 - Large 香港14 | 倍率:1.6  has been added.
+2024/11/07 Thu 16:24:45.308627 [3522037 10739128][VERB] Node  海豚湾 - Large 香港15 | 倍率:1.6  has been added.
+2024/11/07 Thu 16:24:45.308647 [3522037 10739128][VERB] Node  海豚湾 - Large 香港16 | 倍率:1.6  has been added.
+2024/11/07 Thu 16:24:45.308668 [3522037 10739128][VERB] Node  海豚湾 - Large 香港17 | 倍率:1.8  has been added.
+2024/11/07 Thu 16:24:45.308687 [3522037 10739128][VERB] Node  海豚湾 - Large 香港18 | 倍率:1.8  has been added.
+2024/11/07 Thu 16:24:45.308706 [3522037 10739128][VERB] Node  海豚湾 - Large 香港19 | 倍率:1.6  has been added.
+2024/11/07 Thu 16:24:45.308725 [3522037 10739128][VERB] Node  海豚湾 - Large 香港20 | 倍率:1.6  has been added.
+2024/11/07 Thu 16:24:45.308744 [3522037 10739128][VERB] Node  海豚湾 - Large 香港21 | 倍率:1.6  has been added.
+2024/11/07 Thu 16:24:45.308766 [3522037 10739128][VERB] Node  海豚湾 - Lil 俄罗斯01 | 倍率:1.3  has been added.
+2024/11/07 Thu 16:24:45.308787 [3522037 10739128][VERB] Node  海豚湾 - Lil 加拿大1 | 倍率:1.3  has been added.
+2024/11/07 Thu 16:24:45.308807 [3522037 10739128][VERB] Node  海豚湾 - Lil 印度01 | 倍率:1.3  has been added.
+2024/11/07 Thu 16:24:45.308826 [3522037 10739128][VERB] Node  海豚湾 - Lil 印度02 | 倍率:1.3  has been added.
+2024/11/07 Thu 16:24:45.308846 [3522037 10739128][VERB] Node  海豚湾 - Lil 台湾01 | 倍率:1.5  has been added.
+2024/11/07 Thu 16:24:45.308867 [3522037 10739128][VERB] Node  海豚湾 - Lil 台湾02 | 倍率:1.3  has been added.
+2024/11/07 Thu 16:24:45.308887 [3522037 10739128][VERB] Node  海豚湾 - Lil 台湾03 | 倍率:1.3  has been added.
+2024/11/07 Thu 16:24:45.308907 [3522037 10739128][VERB] Node  海豚湾 - Lil 台湾04 | 倍率:1.3  has been added.
+2024/11/07 Thu 16:24:45.308926 [3522037 10739128][VERB] Node  海豚湾 - Lil 台湾05 | 倍率:1.3  has been added.
+2024/11/07 Thu 16:24:45.308948 [3522037 10739128][VERB] Node  海豚湾 - Lil 台湾06 | 倍率:1.3  has been added.
+2024/11/07 Thu 16:24:45.308967 [3522037 10739128][VERB] Node  海豚湾 - Lil 土耳其01 | 倍率:1.5  has been added.
+2024/11/07 Thu 16:24:45.308987 [3522037 10739128][VERB] Node  海豚湾 - Lil 巴西1 | 倍率:1.5  has been added.
+2024/11/07 Thu 16:24:45.309006 [3522037 10739128][VERB] Node  海豚湾 - Lil 德国1 | 倍率:1.3  has been added.
+2024/11/07 Thu 16:24:45.309025 [3522037 10739128][VERB] Node  海豚湾 - Lil 德国2 | 倍率:1.3  has been added.
+2024/11/07 Thu 16:24:45.309046 [3522037 10739128][VERB] Node  海豚湾 - Lil 德国3 | 倍率:1.3  has been added.
+2024/11/07 Thu 16:24:45.309067 [3522037 10739128][VERB] Node  海豚湾 - Lil 新加坡01 | 倍率:1.5  has been added.
+2024/11/07 Thu 16:24:45.309086 [3522037 10739128][VERB] Node  海豚湾 - Lil 新加坡02 | 倍率:1.5  has been added.
+2024/11/07 Thu 16:24:45.309106 [3522037 10739128][VERB] Node  海豚湾 - Lil 新加坡03 | 倍率:1.5  has been added.
+2024/11/07 Thu 16:24:45.309126 [3522037 10739128][VERB] Node  海豚湾 - Lil 新加坡04 | 倍率:2  has been added.
+2024/11/07 Thu 16:24:45.309148 [3522037 10739128][VERB] Node  海豚湾 - Lil 新加坡05 | 倍率:2  has been added.
+2024/11/07 Thu 16:24:45.309168 [3522037 10739128][VERB] Node  海豚湾 - Lil 日本01 | 倍率:1.5  has been added.
+2024/11/07 Thu 16:24:45.309190 [3522037 10739128][VERB] Node  海豚湾 - Lil 日本02 | 倍率:1.3  has been added.
+2024/11/07 Thu 16:24:45.309211 [3522037 10739128][VERB] Node  海豚湾 - Lil 日本03 | 倍率:1.3  has been added.
+2024/11/07 Thu 16:24:45.309231 [3522037 10739128][VERB] Node  海豚湾 - Lil 日本04 | 倍率:1.3  has been added.
+2024/11/07 Thu 16:24:45.309250 [3522037 10739128][VERB] Node  海豚湾 - Lil 日本05 | 倍率:1.3  has been added.
+2024/11/07 Thu 16:24:45.309271 [3522037 10739128][VERB] Node  海豚湾 - Lil 日本06 | 倍率:2  has been added.
+2024/11/07 Thu 16:24:45.309290 [3522037 10739128][VERB] Node  海豚湾 - Lil 泰国01 | 倍率:1.3  has been added.
+2024/11/07 Thu 16:24:45.309309 [3522037 10739128][VERB] Node  海豚湾 - Lil 美国01 | 倍率:2.1  has been added.
+2024/11/07 Thu 16:24:45.309330 [3522037 10739128][VERB] Node  海豚湾 - Lil 美国02 | 倍率:1.9  has been added.
+2024/11/07 Thu 16:24:45.309348 [3522037 10739128][VERB] Node  海豚湾 - Lil 美国03 | 倍率:1.5  has been added.
+2024/11/07 Thu 16:24:45.309368 [3522037 10739128][VERB] Node  海豚湾 - Lil 美国04 | 倍率:1.3  has been added.
+2024/11/07 Thu 16:24:45.309387 [3522037 10739128][VERB] Node  海豚湾 - Lil 美国05 | 倍率:1.3  has been added.
+2024/11/07 Thu 16:24:45.309406 [3522037 10739128][VERB] Node  海豚湾 - Lil 美国06 | 倍率:1.3  has been added.
+2024/11/07 Thu 16:24:45.309428 [3522037 10739128][VERB] Node  海豚湾 - Lil 美国07 | 倍率:1.3  has been added.
+2024/11/07 Thu 16:24:45.309447 [3522037 10739128][VERB] Node  海豚湾 - Lil 美国08 | 倍率:1.3  has been added.
+2024/11/07 Thu 16:24:45.309467 [3522037 10739128][VERB] Node  海豚湾 - Lil 美国09 | 倍率:1.3  has been added.
+2024/11/07 Thu 16:24:45.309486 [3522037 10739128][VERB] Node  海豚湾 - Lil 美国10 | 倍率:1.3  has been added.
+2024/11/07 Thu 16:24:45.309506 [3522037 10739128][VERB] Node  海豚湾 - Lil 英国1 | 倍率:1.6  has been added.
+2024/11/07 Thu 16:24:45.309527 [3522037 10739128][VERB] Node  海豚湾 - Lil 英国2 | 倍率:1.3  has been added.
+2024/11/07 Thu 16:24:45.309547 [3522037 10739128][VERB] Node  海豚湾 - Lil 英国3 | 倍率:1.3  has been added.
+2024/11/07 Thu 16:24:45.309565 [3522037 10739128][VERB] Node  海豚湾 - Lil 荷兰01 | 倍率:1.3  has been added.
+2024/11/07 Thu 16:24:45.309585 [3522037 10739128][VERB] Node  海豚湾 - Lil 菲律宾01 | 倍率:1.5  has been added.
+2024/11/07 Thu 16:24:45.309604 [3522037 10739128][VERB] Node  海豚湾 - Lil 西班牙01 | 倍率:1.5  has been added.
+2024/11/07 Thu 16:24:45.309626 [3522037 10739128][VERB] Node  海豚湾 - Lil 阿根廷01 | 倍率:1.5  has been added.
+2024/11/07 Thu 16:24:45.309645 [3522037 10739128][VERB] Node  海豚湾 - Lil 韩国01 | 倍率:1.5  has been added.
+2024/11/07 Thu 16:24:45.309664 [3522037 10739128][VERB] Node  海豚湾 - Lil 韩国02 | 倍率:1.5  has been added.
+2024/11/07 Thu 16:24:45.309682 [3522037 10739128][VERB] Node  海豚湾 - Lil 韩国03 | 倍率:1.5  has been added.
+2024/11/07 Thu 16:24:45.309702 [3522037 10739128][VERB] Node  海豚湾 - Lil 韩国04 | 倍率:2  has been added.
+2024/11/07 Thu 16:24:45.309721 [3522037 10739128][VERB] Node  海豚湾 - Lil 韩国05 | 倍率:2  has been added.
+2024/11/07 Thu 16:24:45.309742 [3522037 10739128][VERB] Node  海豚湾 - Lil 香港01 | 倍率:1.8  has been added.
+2024/11/07 Thu 16:24:45.309761 [3522037 10739128][VERB] Node  海豚湾 - Lil 香港02 | 倍率:1.8  has been added.
+2024/11/07 Thu 16:24:45.309780 [3522037 10739128][VERB] Node  海豚湾 - Lil 香港03 | 倍率:1.6  has been added.
+2024/11/07 Thu 16:24:45.309799 [3522037 10739128][VERB] Node  海豚湾 - Lil 香港04 | 倍率:1.6  has been added.
+2024/11/07 Thu 16:24:45.309818 [3522037 10739128][VERB] Node  海豚湾 - Lil 香港05 | 倍率:1.5  has been added.
+2024/11/07 Thu 16:24:45.309838 [3522037 10739128][VERB] Node  海豚湾 - Lil 香港06 | 倍率:1.5  has been added.
+2024/11/07 Thu 16:24:45.309858 [3522037 10739128][VERB] Node  海豚湾 - Lil 香港07 | 倍率:1.5  has been added.
+2024/11/07 Thu 16:24:45.309882 [3522037 10739128][VERB] Node  海豚湾 - Lil 香港08 | 倍率:1.5  has been added.
+2024/11/07 Thu 16:24:45.309901 [3522037 10739128][VERB] Node  海豚湾 - Lil 香港09 | 倍率:1.6  has been added.
+2024/11/07 Thu 16:24:45.309921 [3522037 10739128][VERB] Node  海豚湾 - Lil 香港10 | 倍率:1.6  has been added.
+2024/11/07 Thu 16:24:45.309940 [3522037 10739128][VERB] Node  海豚湾 - Lil 香港11 | 倍率:2  has been added.
+2024/11/07 Thu 16:24:45.309959 [3522037 10739128][VERB] Node  海豚湾 - Lil 香港12 | 倍率:2  has been added.
+2024/11/07 Thu 16:24:45.309976 [3522037 10739128][VERB] Filter done.
+2024/11/07 Thu 16:24:45.310922 [3522037 10739128][INFO] Generate target: Clash
+2024/11/07 Thu 16:24:45.337363 [3522037 10739128][INFO] Generate completed.
+2024/11/07 Thu 16:24:45.337977 [3522037 10739128][INFO] User Info for artifact 'test': Stream Used: 15.82 TB Stream Total: N/A Expiry Time: N/A
+2024/11/07 Thu 16:24:45.338011 [3522037 10739128][INFO] Artifact 'test' generate SUCCESS!
+
+2024/11/07 Thu 16:24:45.338031 [3522037 10739128][INFO] Generating artifact 'test_profile'...
+2024/11/07 Thu 16:24:45.338074 [3522037 10739128][INFO] Trying to load profile 'profiles/example_profile.ini'.
+2024/11/07 Thu 16:24:45.338106 [3522037 10739128][INFO] Trying to parse profile 'profiles/example_profile.ini'.
+2024/11/07 Thu 16:24:45.338187 [3522037 10739128][VERB] Imported 0 item(s).
+2024/11/07 Thu 16:24:45.338223 [3522037 10739128][INFO] Fetching node data from url 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYXNzd29yZA@www.example.com:1080#Example'.
+2024/11/07 Thu 16:24:45.339003 [3522037 10739128][VERB] Received Link.
+2024/11/07 Thu 16:24:45.339093 [3522037 10739128][INFO] Generate target: Clash
+2024/11/07 Thu 16:24:45.349061 [3522037 10739128][INFO] Generate completed.
+2024/11/07 Thu 16:24:45.349539 [3522037 10739128][INFO] Artifact 'test_profile' generate SUCCESS!
+
+2024/11/07 Thu 16:24:45.349566 [3522037 10739128][INFO] All artifact generated. Exiting...

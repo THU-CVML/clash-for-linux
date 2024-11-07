@@ -205,7 +205,7 @@ function proxy_off(){
 	unset HTTPS_PROXY
 	unset NO_PROXY
 	echo -e "\033[31m[×] 已关闭代理\033[0m"
-}
+}  
 EOF
 
 echo -e "请执行以下命令加载环境变量: source /etc/profile.d/clash.sh\n"

@@ -1,0 +1,13 @@
+[Unit]
+Description=Clash for Linux YCM Service
+After=network.target
+
+[Service]
+Type=forking
+ExecStart=/home/ye_canming/program_files/clash-for-linux/start.sh
+ExecStop=/home/ye_canming/program_files/clash-for-linux/shutdown.sh
+ExecReload=/home/ye_canming/program_files/clash-for-linux/restart.sh
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
